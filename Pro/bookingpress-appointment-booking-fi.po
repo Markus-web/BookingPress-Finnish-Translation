@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: BookingPress Pro - Appointment Booking plugin v3.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-11-27 12:23+0200\n"
-"Last-Translator: admin <testrepute123@gmail.com>\n"
+"PO-Revision-Date: 2023-11-27 13:05+0200\n"
+"Last-Translator: Markus Silvo <markus@markusmedia.fi>\n"
 "Language-Team: \n"
-"Language: fi\n"
+"Language: fi_FI\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11270,7 +11270,7 @@ msgstr "Luottokortti"
 # @ bookingpress-appointment-booking
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:8991
 msgid "Sorry, Booking can not be done as the selected date is after the maximum available date"
-msgstr "Valitettavasti varausta ei voida tehdä, koska valittu päivämäärä on käytettävissä olevan enimmäispäivän jälkeen."
+msgstr "Valitettavasti varausta ei voida tehdä, koska valittu päivämäärä on käytettävissä olevan enimmäispäivän jälkeen"
 
 # @ bookingpress-appointment-booking
 #: core/views/appointment/manage_appointment.php:1771
