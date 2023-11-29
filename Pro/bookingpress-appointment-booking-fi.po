@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BookingPress Pro - Appointment Booking plugin v3.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-11-27 13:05+0200\n"
+"PO-Revision-Date: 2023-11-29 16:01+0200\n"
 "Last-Translator: Markus Silvo <markus@markusmedia.fi>\n"
 "Language-Team: \n"
 "Language: fi_FI\n"
@@ -594,7 +594,7 @@ msgstr "Tiedot tallennettu onnistuneesti"
 #: core/views/staff_members/staffmember_timesheet.php:176
 #: core/views/staff_members/staffmember_timesheet.php:187
 msgid "Off"
-msgstr "Pois"
+msgstr "Poissa"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:1204
@@ -3760,7 +3760,7 @@ msgstr "Tulot yhteensä"
 #: core/classes/class.bookingpress_pro_reports.php:1237
 #: core/views/reports/manage_report.php:415
 msgid "Existing Customers"
-msgstr "Olemassaolevat asiakkaat"
+msgstr "Olemassa olevat asiakkaat"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_reports.php:1244
@@ -4454,7 +4454,7 @@ msgstr "Ole hyvä ja syötä salasana"
 #: core/views/staff_members/manage_staff_members.php:431
 #: core/views/staff_members/staffmember_services.php:8
 msgid "Assigned Services"
-msgstr "Määritetyt palvelut"
+msgstr "Määritettyä palvelua"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:6522
@@ -5141,7 +5141,7 @@ msgstr "Ostoskorin tapahtuma"
 #: core/views/appointment/manage_appointment.php:412
 #: core/views/dashboard/manage_dashboard.php:399
 msgid "Created Date"
-msgstr "Luontipäivämäärä"
+msgstr "Luotu"
 
 # @ bookingpress-appointment-booking
 #: core/views/appointment/manage_appointment.php:419
@@ -5500,7 +5500,7 @@ msgstr "Syötä sähköposti"
 #: core/views/settings/notification_setting_tab.php:240
 #: core/views/staff_members/staffmember_timesheet.php:592
 msgid "To"
-msgstr "Vastaanottaja"
+msgstr "-"
 
 # @ bookingpress-appointment-booking
 #: core/views/bookingpress_pro_header.php:170
@@ -5568,7 +5568,7 @@ msgstr "Kaikki palvelut"
 # @ bookingpress-appointment-booking
 #: core/views/coupons/manage_coupons.php:82
 msgid "Allowed Uses"
-msgstr "Sallitut käyttötarkoitukset"
+msgstr "Sallitut käytöt"
 
 # @ bookingpress-appointment-booking
 #: core/views/coupons/manage_coupons.php:83
@@ -5852,12 +5852,12 @@ msgstr "Booking Wizard Tabs Position"
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:193
 msgid "Left"
-msgstr "Vasen"
+msgstr "Vasemmalla"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:194
 msgid "Top"
-msgstr "Ylä"
+msgstr "Ylhäällä"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:206
@@ -6311,12 +6311,12 @@ msgstr "Salli asiakkaan peruuttaa tapaaminen"
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1405
 msgid "Allow customers to reschedule their appointments"
-msgstr "Anna asiakkaille oikeus siirtää tapaamisaikojaan"
+msgstr "Anna asiakkaan siirtää aikojaan"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1409
 msgid "Allow customers to edit their profile"
-msgstr "Salli asiakkaiden muokata profiiliaan"
+msgstr "Salli asiakkaan muokata profiiliaan"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1423
@@ -6798,7 +6798,7 @@ msgstr "Odottavat ajanvaraukset"
 # @ bookingpress-appointment-booking
 #: core/views/dashboard/manage_dashboard.php:43
 msgid "Revenue"
-msgstr "Tuotto"
+msgstr "Tulot"
 
 # @ bookingpress-appointment-booking
 #: core/views/dashboard/manage_dashboard.php:65
@@ -7183,7 +7183,7 @@ msgstr "Ajanvarauksen yksityiskohdat"
 #: core/views/payment/manage_payment.php:559
 #: core/views/payment/manage_payment.php:904
 msgid "to"
-msgstr "vastaanottaja"
+msgstr "-"
 
 # @ bookingpress-appointment-booking
 #: core/views/payment/manage_payment.php:228
@@ -7294,7 +7294,7 @@ msgstr "Ajanvarausraportti"
 #: core/views/reports/manage_report.php:280
 #: core/views/reports/manage_report.php:413
 msgid "Quick Stats"
-msgstr "Nopeat tilastot"
+msgstr "Nopea katsaus"
 
 # @ bookingpress-appointment-booking
 #: core/views/reports/manage_report.php:146
@@ -7736,7 +7736,7 @@ msgstr "Lisää tauko"
 #: core/views/staff_members/manage_staff_members.php:761
 #: core/views/staff_members/staffmember_timesheet.php:201
 msgid "Special Days"
-msgstr "Erikoispäivät"
+msgstr "Erityispäivät"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:1143
@@ -7749,7 +7749,7 @@ msgstr "Kaikki erikois päivät"
 #: core/views/staff_members/manage_staff_members.php:791
 #: core/views/staff_members/staffmember_timesheet.php:226
 msgid "No Special Days Available"
-msgstr "Erikoispäiviä ei saatavilla"
+msgstr "Erityispäiviä ei saatavilla"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:1173
@@ -7772,7 +7772,7 @@ msgstr "Muokkaa taukoa"
 #: core/views/staff_members/manage_staff_members.php:1120
 #: core/views/staff_members/staffmember_timesheet.php:575
 msgid "Add Special Days"
-msgstr "Lisää erikoispäivät"
+msgstr "Lisää erikoispäiviä"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:1356
@@ -7835,12 +7835,12 @@ msgstr "Luo WordPress-käyttäjä ajanvarauksen yhteydessä"
 # @ bookingpress-appointment-booking
 #: core/views/settings/customers_setting_tab.php:40
 msgid "Custom Field Settings"
-msgstr "Mukautetun kentän asetukset"
+msgstr "Mukautettujen kenttien asetukset"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/customers_setting_tab.php:52
 msgid "No Customer Field added!"
-msgstr "Asiakaskenttää ei ole lisätty!"
+msgstr "Asiakaskenttiä ei ole lisätty!"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/daysoff_setting_tab.php:4
@@ -7851,7 +7851,7 @@ msgstr "Lomapäivät"
 # @ bookingpress-appointment-booking
 #: core/views/settings/daysoff_setting_tab.php:9
 msgid "Holiday Settings"
-msgstr "Loma-asetukset"
+msgstr "Lomapäivien asetukset"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/daysoff_setting_tab.php:15
@@ -7906,7 +7906,7 @@ msgstr "Vianmäärityslokin asetukset"
 # @ bookingpress-appointment-booking
 #: core/views/settings/debug_log_settings.php:31
 msgid "Payment Debug Logs"
-msgstr "Maksun vianmäärityslokit"
+msgstr "Maksujen vianmäärityslokit"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/debug_log_settings.php:37
@@ -8000,12 +8000,12 @@ msgstr "Tyhjennä loki"
 # @ bookingpress-appointment-booking
 #: core/views/settings/debug_log_settings.php:273
 msgid "Integration Debug Logs"
-msgstr "Integraation vianmäärityslokit"
+msgstr "Integraatioiden vianmäärityslokit"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/debug_log_settings.php:364
 msgid "Appointment Debug Logs"
-msgstr "Ajanvarauksen vianmäärityslokit"
+msgstr "Ajanvarauksien vianmäärityslokit"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/debug_log_settings.php:370
@@ -8062,12 +8062,12 @@ msgstr "Yleiset asetukset"
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:28
 msgid "Global Settings"
-msgstr "Yleisimmät asetukset"
+msgstr "Yleiset asetukset"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:33
 msgid "Default Service Duration"
-msgstr "Oletuspalvelun kesto"
+msgstr "Palvelun oletusarvoinen kesto"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:47
@@ -8087,19 +8087,19 @@ msgstr "Näytä aika palvelun keston mukaan"
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:83
 msgid "Default Phone Country Code"
-msgstr "Oletuspuhelimen maakoodi"
+msgstr "Oletus maakoodi puhelinnumerolle"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:86
 #: core/views/settings/general_setting_tab.php:96
 #: core/views/wizard/manage_wizard.php:74
 msgid "Identify country code by user's IP address"
-msgstr "Tunnista maakoodi käyttäjän IP-osoitteesta"
+msgstr "Tunnista sijainti käyttäjän IP-osoitteesta"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:130
 msgid "Default items per page"
-msgstr "Rivien oletusmäärä sivulla"
+msgstr "Kohteiden oletusmäärä sivulla"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:163
@@ -8147,7 +8147,7 @@ msgstr "Ajanvarauksen oletustila"
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:274
 msgid "Appointment status paid with 'On site' payment method"
-msgstr "Ajanvaraus maksettu \"paikan päällä\" -maksutavalla"
+msgstr "Ajanvaraus maksettu \"paikan päällä\" maksutavalla"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:314
@@ -8172,7 +8172,7 @@ msgstr "Ajanjakso, joka on varattavissa etukäteen"
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:372
 msgid "Share timeslot between all services"
-msgstr "Jaa aikaväli kaikkien palvelujen kesken"
+msgstr "Jaa aikaväli kaikkien muiden palvelujen kesken"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/license_settings_tab.php:61
@@ -8420,7 +8420,7 @@ msgstr "Desimaalien määrä"
 # @ bookingpress-appointment-booking
 #: core/views/settings/payment_setting_tab.php:276
 msgid "Payment Method Settings"
-msgstr "Maksutavan asetukset"
+msgstr "Maksutapojen asetukset"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:106
@@ -8472,11 +8472,10 @@ msgstr "Anna API-allekirjoitus"
 #: core/views/settings/special_day_setting_tab.php:7
 #: core/views/settings/special_day_setting_tab.php:12
 msgid "Special days"
-msgstr "Erikoispäivät"
+msgstr "Erityispäivät"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/staffmembers_settings_tab.php:32
-#, fuzzy
 msgid "Enable Any"
 msgstr "Ota käyttöön mikä tahansa"
 
@@ -9349,20 +9348,18 @@ msgstr "Valitse päivämäärä"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:147
-#, fuzzy
 msgid "Data Export Delimiter"
 msgstr "Tietojen viennin erotin"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:206
 msgid "Show booking-slots in client timezone"
-msgstr "Näytä varaustenajat asiakkaan omassa aikavyöhykkeessä"
+msgstr "Näytä varaukset asiakkaan omassa aikavyöhykkeessä"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:373
-#, fuzzy
 msgid "This option will get the highest priority over all the options while booking. Capacity will be ignored when this option is Enabled"
-msgstr "This option will get the highest priority over all the options while booking. Capacity will be ignored when this option is Enabled"
+msgstr "Tämä vaihtoehto on etusijalla kaikkiin vaihtoehtoihin nähden varauksen aikana. Kapasiteetti jätetään huomiotta, kun tämä vaihtoehto on käytössä"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/license_settings_tab.php:46
@@ -9837,9 +9834,8 @@ msgstr "Lähetä linkki"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/general_setting_tab.php:194
-#, fuzzy
 msgid "Complete Payment Page Selection"
-msgstr "Complete Payment Page Selection"
+msgstr "Valitse sivu jolla maksu suoritetaan loppuun"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:190
@@ -11114,7 +11110,11 @@ msgstr "Hyvä %customer_full_name%,<br> Haluamme muistuttaa, että olet varannut
 #: core/classes/class.bookingpress_pro.php:3537
 #, php-format
 msgid "Dear %customer_full_name%, <br> Thank you for choosing %company_name%. We hope you were satisfied with your %service_name%.<br>Thank you and we look forward to seeing you again soon,<br>%company_name%"
-msgstr "Hyvä %customer_full_name%, <br> Kiitos, että valitsit %company_name%. Toivottavasti olitte tyytyväinen saamaanne palveluun.<br>Kiitos ja odotamme innolla, että tapaamme pian uudelleen,<br>%company_name%"
+msgstr ""
+"Hei %customer_first_name%,<br><br>\n"
+"Kiitos, että valitsit kävit meillä. Toivottavasti olit tyytyväinen saamaasi palveluun!<br><br>\n"
+"Ystävällisin terveisin,<br>\n"
+"- %company_name%"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_coupon_management.php:1034
