@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BookingPress Pro - Appointment Booking plugin v3.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-11-29 16:01+0200\n"
+"PO-Revision-Date: 2023-11-30 12:43+0200\n"
 "Last-Translator: Markus Silvo <markus@markusmedia.fi>\n"
 "Language-Team: \n"
 "Language: fi_FI\n"
@@ -574,9 +574,8 @@ msgstr "Lisenssi vahvistettu onnistuneesti"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:787
-#, fuzzy
 msgid "Wizard skipped successfully"
-msgstr "Wizard skipped successfully"
+msgstr "Ohjattu asennus ohitettu onnistuneesti"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:1139
@@ -1159,15 +1158,13 @@ msgstr "Kortin numero"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3754
-#, fuzzy
 msgid "Expire Month"
-msgstr "Expire Month"
+msgstr "Päättymiskuukausi"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3755
-#, fuzzy
 msgid "Expire Year"
-msgstr "Expire Year"
+msgstr "Päättymisvuosi"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3756
@@ -3880,9 +3877,8 @@ msgstr "Jotain meni vikaan."
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_services.php:1973
-#, fuzzy
 msgid "Service Special Day data retrieved successfully."
-msgstr "Service Special Day data retrieved successfully."
+msgstr "palvelun erityispäivän -tiedot haettu onnistuneesti."
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_services.php:2212
@@ -4583,7 +4579,6 @@ msgstr "Kirjautuminen onnistui"
 
 # @ bookingpress-appointment-booking
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:2821
-#, fuzzy
 msgid "Something went wrong while get staff member services"
 msgstr "Jokin meni pieleen haettaessa henkilökunnan palveluita"
 
@@ -4947,7 +4942,7 @@ msgstr "Vie"
 #: core/views/settings/debug_log_settings.php:548
 #: core/views/staff_members/manage_staff_members.php:60
 msgid "No Record Found!"
-msgstr "Tietueita ei löytynyt!"
+msgstr "Tietueita ei löytynyt"
 
 # @ bookingpress-appointment-booking
 #: core/views/appointment/manage_appointment.php:147
@@ -5845,9 +5840,8 @@ msgstr "Ota google recaptcha käyttöön"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:190
-#, fuzzy
 msgid "Booking Wizard Tabs Position"
-msgstr "Booking Wizard Tabs Position"
+msgstr "Varauslomakkeen välilehden sijainti"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:193
@@ -5961,21 +5955,18 @@ msgstr "Epäonnistunut maksu"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:332
-#, fuzzy
 msgid "Sample category 1"
-msgstr "Sample category 1"
+msgstr "Näyteluokka 1"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:336
-#, fuzzy
 msgid "Sample category 2"
-msgstr "Sample category 2"
+msgstr "Näyteluokka 2"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:340
-#, fuzzy
 msgid "Sample category 3"
-msgstr "Sample category 3"
+msgstr "Näyteluokka 3"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:367
@@ -6107,7 +6098,6 @@ msgstr "Kategorian otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1162
-#, fuzzy
 msgid "All category"
 msgstr "Kaikki luokka"
 
@@ -6154,73 +6144,86 @@ msgstr "Time slot title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1220
+#, fuzzy
 msgid "Morning time slot title"
 msgstr "Morning time slot title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1224
+#, fuzzy
 msgid "Afternoon time slot title"
 msgstr "Afternoon time slot title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1228
+#, fuzzy
 msgid "Evening time slot title"
 msgstr "Evening time slot title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1232
+#, fuzzy
 msgid "Night time slot title"
 msgstr "Night time slot title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1247
+#, fuzzy
 msgid "Basic details step labels"
 msgstr "Basic details step labels"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1249
+#, fuzzy
 msgid "Step basic details"
 msgstr "Step basic details"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1255
+#, fuzzy
 msgid "Summary step labels"
 msgstr "Summary step labels"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1257
 msgid "Summary step"
-msgstr "Summary step"
+msgstr "Yhteenvetovaihe"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1261
+#, fuzzy
 msgid "Summary description"
 msgstr "Summary description"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1265
+#, fuzzy
 msgid "Service summary title"
 msgstr "Service summary title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1269
+#, fuzzy
 msgid "Date & time summary title"
 msgstr "Date & time summary title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1273
+#, fuzzy
 msgid "Customer summary title"
 msgstr "Customer summary title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1290
 #: core/views/customize/manage_form_customize.php:1680
+#, fuzzy
 msgid "Total amount title"
 msgstr "Total amount title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1298
 #: core/views/customize/manage_form_customize.php:1676
+#, fuzzy
 msgid "Payment method title"
 msgstr "Payment method title"
 
@@ -6228,6 +6231,7 @@ msgstr "Payment method title"
 #: core/classes/class.bookingpress_pro_coupon_management.php:50
 #: core/classes/class.bookingpress_pro_coupon_management.php:64
 #: core/views/customize/manage_form_customize.php:1303
+#, fuzzy
 msgid "Coupon heading title"
 msgstr "Coupon heading title"
 
@@ -6235,6 +6239,7 @@ msgstr "Coupon heading title"
 #: core/classes/class.bookingpress_pro_coupon_management.php:51
 #: core/classes/class.bookingpress_pro_coupon_management.php:65
 #: core/views/customize/manage_form_customize.php:1307
+#, fuzzy
 msgid "Enter coupon placeholder"
 msgstr "Enter coupon placeholder"
 
@@ -6242,59 +6247,70 @@ msgstr "Enter coupon placeholder"
 #: core/classes/class.bookingpress_pro_coupon_management.php:52
 #: core/classes/class.bookingpress_pro_coupon_management.php:66
 #: core/views/customize/manage_form_customize.php:1311
+#, fuzzy
 msgid "Coupon apply button label"
 msgstr "Coupon apply button label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1315
+#, fuzzy
 msgid "coupon applied title"
 msgstr "coupon applied title"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_deposit_payment.php:35
 #: core/views/customize/manage_form_customize.php:1320
+#, fuzzy
 msgid "Deposit heading title"
 msgstr "Deposit heading title"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_deposit_payment.php:36
 #: core/views/customize/manage_form_customize.php:1324
+#, fuzzy
 msgid "Deposit payment amount title"
 msgstr "Deposit payment amount title"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_deposit_payment.php:37
 #: core/views/customize/manage_form_customize.php:1328
+#, fuzzy
 msgid "Deposit remaining amount title"
 msgstr "Deposit remaining amount title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1340
+#, fuzzy
 msgid "Pay locally payment title"
 msgstr "Pay locally payment title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1344
+#, fuzzy
 msgid "PayPal payment title"
 msgstr "PayPal payment title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1359
+#, fuzzy
 msgid "Card number placeholder"
 msgstr "Card number placeholder"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1363
+#, fuzzy
 msgid "Expire month placeholder"
 msgstr "Expire month placeholder"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1367
+#, fuzzy
 msgid "Expire year placeholder"
 msgstr "Expire year placeholder"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1371
+#, fuzzy
 msgid "Cvv placeholder"
 msgstr "Cvv placeholder"
 
@@ -6325,9 +6341,8 @@ msgstr "Peruutetun tapaamisen uudelleenohjaus"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1429
-#, fuzzy
 msgid "Delete account content"
-msgstr "Tilin sisällön poistaminen"
+msgstr "Poista tilin tiedot"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1483
@@ -6395,9 +6410,8 @@ msgstr "Delete account button label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1620
-#, fuzzy
 msgid "ID title"
-msgstr "ID title"
+msgstr "ID:n otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1628
@@ -6462,11 +6476,13 @@ msgstr "Coupon title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1672
+#, fuzzy
 msgid "Payment details title"
 msgstr "Payment details title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1684
+#, fuzzy
 msgid "Download invoice button label"
 msgstr "Download invoice button label"
 
@@ -6482,12 +6498,12 @@ msgstr "Kirjautumislomakkeen otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1696
-#, fuzzy
 msgid "Username / Email field label"
 msgstr "Käyttäjätunnus / sähköpostiosoite kentän etiketti"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1700
+#, fuzzy
 msgid "Username / Email field Placeholder"
 msgstr "Username / Email field Placeholder"
 
@@ -6498,112 +6514,133 @@ msgstr "Salasanan etiketti"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1708
+#, fuzzy
 msgid "Password field Placeholder"
 msgstr "Password field Placeholder"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1712
+#, fuzzy
 msgid "User name required field label"
 msgstr "User name required field label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1716
+#, fuzzy
 msgid "Password required field label"
 msgstr "Password required field label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1720
+#, fuzzy
 msgid "Remember Me field label"
 msgstr "Remember Me field label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1724
+#, fuzzy
 msgid "Login button label"
 msgstr "Login button label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1728
+#, fuzzy
 msgid "Forgot Password link label"
 msgstr "Forgot Password link label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1732
 #: core/views/customize/manage_form_customize.php:1759
+#, fuzzy
 msgid "Error message label"
 msgstr "Error message label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1736
+#, fuzzy
 msgid "Forgot Password Messages"
 msgstr "Forgot Password Messages"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1739
+#, fuzzy
 msgid "Forgot Password form title"
 msgstr "Forgot Password form title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1743
+#, fuzzy
 msgid "Email address field label"
 msgstr "Email address field label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1747
+#, fuzzy
 msgid "Email address placeholder label"
 msgstr "Email address placeholder label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1751
+#, fuzzy
 msgid "Email required field label"
 msgstr "Email required field label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1755
+#, fuzzy
 msgid "Forgot password button label"
 msgstr "Forgot password button label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1763
+#, fuzzy
 msgid "Success message label"
 msgstr "Success message label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1767
+#, fuzzy
 msgid "Sign In Link Label"
 msgstr "Sign In Link Label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1771
 msgid "Edit Account Messages"
-msgstr "Edit Account Messages"
+msgstr "Muokkaa tilin viestejä"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1778
+#, fuzzy
 msgid "Update Profile Button Label"
 msgstr "Update Profile Button Label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1782
+#, fuzzy
 msgid "Update Profile Success Message"
 msgstr "Update Profile Success Message"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1786
+#, fuzzy
 msgid "Change Password Messages"
 msgstr "Change Password Messages"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1838
+#, fuzzy
 msgid "Reschedule Appointment Messages"
 msgstr "Reschedule Appointment Messages"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1861
+#, fuzzy
 msgid "Time Placeholder"
 msgstr "Time Placeholder"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1878
+#, fuzzy
 msgid "Cancel Appointment Messages"
 msgstr "Cancel Appointment Messages"
 
@@ -6693,7 +6730,6 @@ msgstr "Tunniste"
 #: core/views/customize/manage_form_field_customize.php:238
 #: core/views/customize/manage_form_field_customize.php:494
 #: core/views/settings/customers_setting_tab.php:154
-#, fuzzy
 msgid "Placeholder"
 msgstr "Placeholder"
 
@@ -6738,9 +6774,8 @@ msgstr "Meta-avain"
 #: core/views/customize/manage_form_field_customize.php:265
 #: core/views/customize/manage_form_field_customize.php:521
 #: core/views/settings/customers_setting_tab.php:163
-#, fuzzy
 msgid "Enable Time Picker"
-msgstr "Enable Time Picker"
+msgstr "Ota ajan-valinta käyttöön"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_field_customize.php:298
@@ -6783,7 +6818,7 @@ msgstr "CSS-luokka"
 #: core/views/bookingpress_pro_staffmember_customize_view.php:105
 #: core/views/dashboard/manage_dashboard.php:16
 msgid "Dashboard"
-msgstr "Hallintapaneeli"
+msgstr "Ohjausnäkymä"
 
 # @ bookingpress-appointment-booking
 #: core/views/dashboard/manage_dashboard.php:33
@@ -6803,7 +6838,7 @@ msgstr "Tulot"
 # @ bookingpress-appointment-booking
 #: core/views/dashboard/manage_dashboard.php:65
 msgid "Technical Analysis"
-msgstr "Tekninen analyysi"
+msgstr "Nopea katsaus"
 
 # @ bookingpress-appointment-booking
 #: core/views/dashboard/manage_dashboard.php:85
@@ -6862,9 +6897,8 @@ msgstr "Henkilöt"
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3765
 #: core/views/upgrade_latest_pro_data.php:86
-#, fuzzy
 msgid "Any Staff"
-msgstr "Any Staff"
+msgstr "Kuka tahansa työntekijä"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3760
@@ -6883,7 +6917,7 @@ msgstr "Täysi maksu"
 # @ bookingpress-appointment-booking
 #: core/views/frontend/appointment_booking_form.php:2017
 msgid "No categories and services added!"
-msgstr "Luokkia ja palveluita ei ole lisätty!"
+msgstr "Luokkia ja palveluita ei ole lisätty"
 
 # @ bookingpress-appointment-booking
 #: core/views/frontend/appointment_my_appointments.php:349
@@ -7106,7 +7140,6 @@ msgstr "Ilmoituksen tyyppi"
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:316
-#, fuzzy
 msgid "Action / Trigger notification"
 msgstr "Toiminta / laukaisuilmoitus"
 
@@ -7423,7 +7456,7 @@ msgstr "Haluatko varmasti poistaa tämän palvelun?"
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:306
 msgid "No Records Found!"
-msgstr "Tietueita ei löytynyt!"
+msgstr "Tietueita ei löytynyt"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:307
@@ -7595,9 +7628,8 @@ msgstr "Palveluasetukset"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:876
-#, fuzzy
 msgid "Minimum time required before booking:"
-msgstr "Minimum time required before booking:"
+msgstr "Vähimmäisaika vaadittu ennen varauksen tekemistä:"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_email_notifications.php:225
@@ -7614,15 +7646,13 @@ msgstr "Minuuttia"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:883
-#, fuzzy
 msgid "Minimum time required before rescheduling:"
-msgstr "Minimum time required before rescheduling:"
+msgstr "Vähimmäisaika, joka tarvitaan ennen aikataulun muuttamista:"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:890
-#, fuzzy
 msgid "Minimum time required before cancelling:"
-msgstr "Minimum time required before cancelling:"
+msgstr "Vähimmäisaika ennen varauksen peruutusta:"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:902
@@ -7840,7 +7870,7 @@ msgstr "Mukautettujen kenttien asetukset"
 # @ bookingpress-appointment-booking
 #: core/views/settings/customers_setting_tab.php:52
 msgid "No Customer Field added!"
-msgstr "Asiakaskenttiä ei ole lisätty!"
+msgstr "Asiakaskenttää ei ole lisätty"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/daysoff_setting_tab.php:4
@@ -8222,33 +8252,28 @@ msgstr "Viestiasetukset"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:30
-#, fuzzy
 msgid "No service selected for the booking"
-msgstr "No service selected for the booking"
+msgstr "Varaukselle ei ole valittu palvelua"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:40
-#, fuzzy
 msgid "No appointment date selected for the booking"
-msgstr "No appointment date selected for the booking"
+msgstr "Varauspäivää ei ole valittu"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:50
-#, fuzzy
 msgid "No appointment time selected for the booking"
-msgstr "No appointment time selected for the booking"
+msgstr "Varausaikaa ei ole valittu"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:60
-#, fuzzy
 msgid "No payment method is selected for the booking"
-msgstr "No payment method is selected for the booking"
+msgstr "Varaukselle ei ole valittu maksutapaa"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:70
-#, fuzzy
 msgid "Duplicate email address found"
-msgstr "Duplicate email address found"
+msgstr "Toistuva sähköpostiosoite löytyi"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:80
@@ -8362,7 +8387,6 @@ msgstr "SMTP-testin koko loki"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/optins_setting_tab.php:4
-#, fuzzy
 msgid "Opt-ins"
 msgstr "Tilaukset"
 
@@ -8374,7 +8398,7 @@ msgstr "Maksuasetukset"
 # @ bookingpress-appointment-booking
 #: core/views/settings/payment_setting_tab.php:39
 msgid "Currency Settings"
-msgstr "Valuutta asetukset"
+msgstr "Valuutan asetukset"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/payment_setting_tab.php:44
@@ -8556,21 +8580,18 @@ msgstr "Hallitse erityispäiviä"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/staffmembers_settings_tab.php:233
-#, fuzzy
 msgid "Rename Staff Member Module"
-msgstr "Rename Staff Member Module"
+msgstr "Henkilöstön jäsenmoduulien uudelleennimeäminen"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/staffmembers_settings_tab.php:237
-#, fuzzy
 msgid "Singular Staff Member Label"
-msgstr "Singular Staff Member Label"
+msgstr "Yksittäisen työntekijän etiketti"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/staffmembers_settings_tab.php:248
-#, fuzzy
 msgid "Plural Staff Member Label"
-msgstr "Plural Staff Member Label"
+msgstr "Henkilöstön jäsenen monikossa käyettävä etiketti"
 
 # @ bookingpress-appointment-booking
 #: core/views/staff_members/manage_staff_members.php:10
@@ -8654,9 +8675,8 @@ msgstr "Maksimi"
 
 # @ bookingpress-appointment-booking
 #: core/views/staff_members/staffmember_services.php:49
-#, fuzzy
 msgid "Extra's"
-msgstr "Extra's"
+msgstr "Lisäpalvelut"
 
 # @ bookingpress-appointment-booking
 #: core/views/staff_members/staffmember_timesheet.php:327
@@ -8788,21 +8808,18 @@ msgstr "Valitse valuutta"
 
 # @ bookingpress-appointment-booking
 #: core/views/wizard/manage_wizard.php:285
-#, fuzzy
 msgid "Enable Invoice Option"
-msgstr "Enable Invoice Option"
+msgstr "Ota laskutusvaihtoehto käyttöön"
 
 # @ bookingpress-appointment-booking
 #: core/views/wizard/manage_wizard.php:295
-#, fuzzy
 msgid "Enable Tax Option"
-msgstr "Enable Tax Option"
+msgstr "Ota verovaihtoehto käyttöön"
 
 # @ bookingpress-appointment-booking
 #: core/views/wizard/manage_wizard.php:305
-#, fuzzy
 msgid "Allow Discount Coupon"
-msgstr "Allow Discount Coupon"
+msgstr "Salli alennus kupongit"
 
 # @ bookingpress-appointment-booking
 #: core/views/wizard/manage_wizard.php:334
@@ -8974,9 +8991,8 @@ msgstr "Yhdistä"
 
 # @ bookingpress-appointment-booking
 #: core/views/wizard/manage_wizard.php:428
-#, fuzzy
 msgid "Add your services here with basic options or you can add them later too"
-msgstr "Add your services here with basic options or you can add them later too"
+msgstr "Lisää palvelusi tässä perusvaihtoehdoilla tai voit lisätä ne myös myöhemmin"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_coupon_management.php:247
@@ -9186,9 +9202,8 @@ msgstr "Henkilöstön jäsenen tiedot haettu onnistuneesti."
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_services.php:2209
-#, fuzzy
 msgid "Appointment(s) are already booked during this time duration for the service. Do you still want to continue?"
-msgstr "Appointment(s) are already booked during this time duration for the service. Do you still want to continue?"
+msgstr "Aika on jo varattu tämän ajanjakson aikana palvelua varten. Haluatko silti jatkaa?"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_services.php:2428
@@ -9221,37 +9236,32 @@ msgstr "Palvelu on jo osoitettu työntekijälle"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:6515
-#, fuzzy
 msgid "Please assign service to Staff member"
-msgstr "Please assign service to Staff member"
+msgstr "Määritä palvelu henkilökunnan jäsenelle"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:7872
 #: core/classes/class.bookingpress_pro_timesheet.php:186
-#, fuzzy
 msgid "Staff member Special Day data retrieved successfully."
-msgstr "Staff member Special Day data retrieved successfully."
+msgstr "Työntekijän erikoispäivän tiedot haettu onnistuneesti."
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:7981
 #: core/classes/class.bookingpress_pro_staff_members.php:8056
-#, fuzzy
 msgid "This staff member can not be deleted because it has one or more appointments associated with it"
-msgstr "This staff member can not be deleted because it has one or more appointments associated with it"
+msgstr "Tätä työntekijää ei voida poistaa, koska siihen liittyy yksi tai useampi varaus"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:8499
 #: core/classes/class.bookingpress_pro_staff_members.php:8526
-#, fuzzy
 msgid "Appointment(s) are already booked during this time duration. Do you still want to continue?"
-msgstr "Appointment(s) are already booked during this time duration. Do you still want to continue?"
+msgstr "Aika on jo varattu tämän ajanjakson aikana. Haluatko silti jatkaa?"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:8591
 #: core/classes/class.bookingpress_pro_timesheet.php:68
-#, fuzzy
 msgid "one or more appointments are already booked this time duration with this staffmember still you want to add the Special day"
-msgstr "one or more appointments are already booked this time duration with this staffmember still you want to add the Special day"
+msgstr "yksi tai useampi tapaaminen on jo varattu tälle ajanjaksolle tämän työntekijän kanssa, mutta haluat silti lisätä erikoispäivän"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:8610
@@ -9322,9 +9332,8 @@ msgstr "Osoitteesta"
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:165
-#, fuzzy
 msgid "CC Email Address"
-msgstr "CC Email Address"
+msgstr "CC sähköpostiosoite"
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:165
@@ -9333,7 +9342,6 @@ msgstr "Erota pilkulla jokainen sähköpostiosoite, jos haluat lähettää ilmoi
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:167
-#, fuzzy
 msgid "Enter CC Email Address"
 msgstr "Syötä CC-sähköpostiosoite"
 
@@ -9421,9 +9429,8 @@ msgstr "jpg/png/webp-tiedostot, joiden koko on alle 500KB"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1241
-#, fuzzy
 msgid "Remaining slots title"
-msgstr "Remaining slots title"
+msgstr "Jäljellä olevien aikojen Otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customers/manage_customers.php:359
@@ -9438,9 +9445,8 @@ msgstr "Lataa jpg/png/webp-tiedosto"
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3370
 #: core/views/upgrade_latest_pro_data.php:31
-#, fuzzy
 msgid "Inc. GST"
-msgstr "Inc. GST"
+msgstr "Sis. GST"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:200
@@ -9682,9 +9688,8 @@ msgstr "Share Appointment URL Notification"
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:50
-#, fuzzy
 msgid "Share Appointment URL"
-msgstr "Share Appointment URL"
+msgstr "Jaa varauksen URL-osoite"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/company_setting_tab.php:92
@@ -9694,9 +9699,8 @@ msgstr "Yrityksen kuvake"
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3375
 #: core/views/upgrade_latest_pro_data.php:140
-#, fuzzy
 msgid "Payment token incorrect or mismatch"
-msgstr "Payment token incorrect or mismatch"
+msgstr "Maksutunniste on virheellinen tai eivät täsmää"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:3376
@@ -9821,9 +9825,8 @@ msgstr "Complete Payment URL"
 #: core/views/payment/manage_payment.php:371
 #: core/views/payment/manage_payment.php:724
 #: core/views/payment/manage_payment.php:1043
-#, fuzzy
 msgid "Share Payment Link"
-msgstr "Share Payment Link"
+msgstr "Jaa maksulinkki"
 
 # @ bookingpress-appointment-booking
 #: core/views/payment/manage_payment.php:407
@@ -9858,7 +9861,7 @@ msgstr "Complete payment success message"
 # @ bookingpress-appointment-booking
 #: core/views/settings/notification_setting_tab.php:32
 msgid "PHP mail() function"
-msgstr "PHP mail() -funktio"
+msgstr "PHP:n mail()-funktio"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/notification_setting_tab.php:33
@@ -9909,9 +9912,8 @@ msgstr "vaaditaan"
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:2158
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:2202
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:7667
-#, fuzzy
 msgid "character required"
-msgstr "character required"
+msgstr "vaadittu merkki"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_appointment.php:2326
@@ -9920,15 +9922,13 @@ msgstr "character required"
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:2165
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:2209
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:7675
-#, fuzzy
 msgid "character allowed"
 msgstr "sallittu merkki"
 
 # @ bookingpress-appointment-booking
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:7490
-#, fuzzy
 msgid "Please select rescheduling time"
-msgstr "Please select rescheduling time"
+msgstr "Valitse varaukselle uusi aika"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro.php:611
@@ -10254,9 +10254,8 @@ msgstr "Hyvityksen syy"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1236
-#, fuzzy
 msgid "Date & time step note"
-msgstr "Date & time step note"
+msgstr "Päiväys ja kellonaika askelmerkintä"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1416
@@ -10265,9 +10264,8 @@ msgstr "Vahvistus tapaamisen peruutuksesta"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1897
-#, fuzzy
 msgid "Cancel Appointment Confirmation Messages"
-msgstr "Cancel Appointment Confirmation Messages"
+msgstr "Peruuta Ajanvaraus vahvistusviestit"
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:57
@@ -10311,9 +10309,8 @@ msgstr "Cancel Appointment Confirmation"
 #: core/classes/class.bookingpress_pro.php:3959
 #: core/views/settings/messages_setting_tab.php:250
 #: core/views/upgrade_latest_pro_data.php:388
-#, fuzzy
 msgid "Refund policy message"
-msgstr "Refund policy message"
+msgstr "Palautuskäytäntöä koskeva viesti"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/payment_setting_tab.php:30
@@ -10322,9 +10319,8 @@ msgstr "Huomautus:"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/payment_setting_tab.php:133
-#, fuzzy
 msgid "Appointment Cancellation Refund Policy"
-msgstr "Appointment Cancellation Refund Policy"
+msgstr "Tapaamisen peruutuksen hyvityskäytäntö"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/payment_setting_tab.php:153
@@ -10408,9 +10404,8 @@ msgstr "Pahoittelut! palautusta ei voitu käsitellä"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/messages_setting_tab.php:240
-#, fuzzy
 msgid "No Appointment Available to Cancel"
-msgstr "No Appointment Available to Cancel"
+msgstr "Ei tapaamista peruttavissa"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/payment_setting_tab.php:30
@@ -10476,9 +10471,8 @@ msgstr "Google/Gmail"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/notification_setting_tab.php:39
-#, fuzzy
 msgid "The Gmail mailer works well for sites that send low numbers of emails. However, Gmail's API has rate limitations and a number of additional restrictions that can lead to challenges during setup. If you expect to send a high volume of emails, or if you find that your web host is not compatible with the Gmail API restrictions, then we recommend considering a different mailer option."
-msgstr "The Gmail mailer works well for sites that send low numbers of emails. However, Gmail's API has rate limitations and a number of additional restrictions that can lead to challenges during setup. If you expect to send a high volume of emails, or if you find that your web host is not compatible with the Gmail API restrictions, then we recommend considering a different mailer option."
+msgstr "Gmail-postitusohjelma toimii hyvin sivustoille, jotka lähettävät vain vähän sähköposteja. Gmailin API:ssa on kuitenkin nopeusrajoituksia ja useita lisärajoituksia, jotka voivat aiheuttaa haasteita asennuksen aikana. Jos aiot lähettää suuria määriä sähköposteja tai jos huomaat, että web-hostisi ei ole yhteensopiva Gmailin API-rajoitusten kanssa, suosittelemme harkitsemaan toista postilaitevaihtoehtoa."
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/notification_setting_tab.php:127
@@ -10499,9 +10493,8 @@ msgstr "Valtuutettu uudelleenohjaus URI"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/notification_setting_tab.php:158
-#, fuzzy
 msgid "Authentication Token"
-msgstr "Authentication Token"
+msgstr "Todennuskoodi"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/notification_setting_tab.php:185
@@ -10644,27 +10637,23 @@ msgstr "Ponnahdusikkunan kuvaus"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1853
-#, fuzzy
 msgid "Date label"
-msgstr "Date label"
+msgstr "Päivämäärämerkintä"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1857
-#, fuzzy
 msgid "Time label"
-msgstr "Time label"
+msgstr "Aikamerkintä"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1865
-#, fuzzy
 msgid "Cancel button label"
-msgstr "Cancel button label"
+msgstr "Peruuta-painikkeen etiketti"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1869
-#, fuzzy
 msgid "Update button label"
-msgstr "Update button label"
+msgstr "Päivitä painikkeen etiketti"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1873
@@ -10853,9 +10842,8 @@ msgstr "Muokkaa henkilöstön jäsenen työaikaa"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_services.php:296
-#, fuzzy
 msgid "Service Shift Managment data retrieve successfully"
-msgstr "Service Shift Managment data retrieve successfully"
+msgstr "Palveluaika -tietojen haku onnistui onnistuneesti"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_appointment.php:1989
@@ -10867,27 +10855,23 @@ msgstr "Ole hyvä ja valitse"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:611
-#, fuzzy
 msgid "Staff member already added to the location with same service"
-msgstr "Staff member already added to the location with same service"
+msgstr "Henkilöstön jäsen on jo lisätty paikkaan, jossa on sama palvelu"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:626
-#, fuzzy
 msgid "Staff member already added to the different location"
-msgstr "Staff member already added to the different location"
+msgstr "Henkilöstön jäsen on jo lisätty eri sijaintiin"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:1042
-#, fuzzy
 msgid "Staffmember shift managment data retrieved successfully"
-msgstr "Staffmember shift managment data retrieved successfully"
+msgstr "Henkilöstön työvuoronhallintatiedot haettu onnistuneesti"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_timesheet.php:1879
-#, fuzzy
 msgid "Working Hours data updated successfully."
-msgstr "Working Hours data updated successfully."
+msgstr "Työtuntitiedot päivitetty onnistuneesti."
 
 # @ bookingpress-appointment-booking
 #: core/views/appointment/manage_appointment.php:1669
@@ -10914,9 +10898,8 @@ msgstr "Hallitse työaikoja"
 
 # @ bookingpress-appointment-booking
 #: core/views/staff_members/manage_staff_members.php:685
-#, fuzzy
 msgid "Configure staff specific work hours"
-msgstr "Configure staff specific work hours"
+msgstr "Työntekijän henkilökohtaisten työaikojen määrittäminen"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_settings.php:371
@@ -10997,15 +10980,13 @@ msgstr "Valitse kupongin päättymispäivä"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:395
-#, fuzzy
 msgid "No staff member selected for the booking"
-msgstr "No staff member selected for the booking"
+msgstr "Varausta varten ei ole valittu työntekijää"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:143
-#, fuzzy
 msgid "Category & Service step can be hide only when it is set to the first step"
-msgstr "Category & Service step can be hide only when it is set to the first step"
+msgstr "Kategoria- ja palveluvaihe voidaan piilottaa vain, jos se on asetettu ensimmäiseksi vaiheeksi"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_payment_gateways.php:885
@@ -11124,9 +11105,8 @@ msgstr "Valitse mikä tahansa toiminto."
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1277
-#, fuzzy
 msgid "Summary step note"
-msgstr "Summary step note"
+msgstr "Yhteenvedon askelmerkintä"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_field_customize.php:41
