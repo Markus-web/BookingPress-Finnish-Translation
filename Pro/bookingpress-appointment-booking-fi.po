@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BookingPress Pro - Appointment Booking plugin v3.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-11-30 12:43+0200\n"
+"PO-Revision-Date: 2024-01-15 12:55+0200\n"
 "Last-Translator: Markus Silvo <markus@markusmedia.fi>\n"
 "Language-Team: \n"
 "Language: fi_FI\n"
@@ -32,7 +32,7 @@ msgstr "Pois käytöstä"
 #: autoload.php:67 core/views/customize/manage_form_customize.php:1520
 #: core/views/notifications/manage_notifications.php:375
 msgid "Pending"
-msgstr "Odottaa"
+msgstr "Vireillä"
 
 # @ bookingpress-appointment-booking
 #: autoload.php:68
@@ -3878,7 +3878,7 @@ msgstr "Jotain meni vikaan."
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_services.php:1973
 msgid "Service Special Day data retrieved successfully."
-msgstr "palvelun erityispäivän -tiedot haettu onnistuneesti."
+msgstr "Palvelun erityispäivän -tiedot haettu onnistuneesti."
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_services.php:2212
@@ -6075,9 +6075,8 @@ msgstr "Staff step labels"
 #: core/classes/class.bookingpress_pro_staff_members.php:385
 #: core/classes/class.bookingpress_pro_staff_members.php:404
 #: core/views/customize/manage_form_customize.php:1146
-#, fuzzy
 msgid "Staff step"
-msgstr "Staff step"
+msgstr "Henkilöstön askel"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1152
@@ -6087,9 +6086,8 @@ msgstr "Service step labels"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1154
-#, fuzzy
 msgid "Step service"
-msgstr "Step service"
+msgstr "Vaiheen palvelu"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1158
@@ -6352,7 +6350,6 @@ msgstr "Id"
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1115
 #: core/views/customize/manage_form_customize.php:1564
-#, fuzzy
 msgid "Label Settings"
 msgstr "Etiketin asetukset"
 
@@ -6380,7 +6377,6 @@ msgstr "My appointments title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1600
-#, fuzzy
 msgid "Logout title"
 msgstr "Uloskirjautumisen otsikko"
 
@@ -6464,21 +6460,18 @@ msgstr "Deposit title"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1664
-#, fuzzy
 msgid "Tax title"
-msgstr "Tax title"
+msgstr "Verotusnimike"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1668
-#, fuzzy
 msgid "Coupon title"
-msgstr "Coupon title"
+msgstr "Kupongin otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1672
-#, fuzzy
 msgid "Payment details title"
-msgstr "Payment details title"
+msgstr "Maksutietojen otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1684
@@ -7456,7 +7449,7 @@ msgstr "Haluatko varmasti poistaa tämän palvelun?"
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:306
 msgid "No Records Found!"
-msgstr "Tietueita ei löytynyt"
+msgstr "Tietueita ei löytynyt!"
 
 # @ bookingpress-appointment-booking
 #: core/views/services/manage_services.php:307
@@ -9316,7 +9309,7 @@ msgstr "Hae asiakasta"
 # @ bookingpress-appointment-booking
 #: core/views/customers/manage_customers.php:98
 msgid "Recent Appointment"
-msgstr "Viimeisin tapaaminen"
+msgstr "Viimeisin varaus"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_staff_members.php:389
@@ -9420,7 +9413,7 @@ msgstr "Aikoja jäljellä"
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_service_extra.php:668
 msgid "Service extra duration cannot be greater than original service duration"
-msgstr "Lisäpalvelun esto ei voi olla pidempi kuin alkuperäisen palvelun kesto"
+msgstr "Lisäpalvelun kesto ei voi olla pidempi kuin alkuperäisen palvelun kesto"
 
 # @ bookingpress-appointment-booking
 #: core/views/settings/company_setting_tab.php:97
@@ -9682,9 +9675,8 @@ msgstr "Täydellinen maksun nimi"
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:47
-#, fuzzy
 msgid "Share Appointment URL Notification"
-msgstr "Share Appointment URL Notification"
+msgstr "Ajanvarauksen jaon URL-ilmoitus"
 
 # @ bookingpress-appointment-booking
 #: core/views/notifications/manage_notifications.php:50
@@ -9944,14 +9936,13 @@ msgstr "Yksi tai useampi lisäosa tarvitsee päivitystä uusimpaan versioonsa."
 #: core/views/dashboard/manage_dashboard.php:1132
 #: core/views/upgrade_latest_pro_data.php:259
 #: core/views/upgrade_latest_pro_data.php:263
-#, fuzzy
 msgid "No. of Person"
-msgstr "No. of Person"
+msgstr "Henkilöiden lukumäärä"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_addons.php:598
 msgid "Multiple Quantity"
-msgstr "Useimpia varauksia asiakkaalle"
+msgstr "Useimpia varauksia"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_addons.php:601
@@ -9965,9 +9956,8 @@ msgstr "Kuponkikoodia ei sovelleta tähän palveluun"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_coupon_management.php:741
-#, fuzzy
 msgid "Coupn Period Start date is not greater than End date"
-msgstr "Coupn Period Start date is not greater than End date"
+msgstr "Kupongin alkamispäivä ei ole suurempi kuin päättymispäivä"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_customize.php:933
@@ -10001,16 +9991,14 @@ msgstr "Pahoittelut, jokin meni pieleen tiedoston latauksen aikana."
 #: core/views/dashboard/manage_dashboard.php:191
 #: core/views/dashboard/manage_dashboard.php:514
 #: core/views/dashboard/manage_dashboard.php:802
-#, fuzzy
 msgid "No. Of Person"
-msgstr "No. Of Person"
+msgstr "Henkilöiden lukumäärä"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_bring_anyone.php:28
 #: core/views/customize/manage_form_customize.php:1174
-#, fuzzy
 msgid "No. of Person title"
-msgstr "No. of Person title"
+msgstr "Henkilöiden lukumäärä (Otsikko)"
 
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_bring_anyone.php:29
@@ -10020,9 +10008,8 @@ msgstr "Henkilön otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1652
-#, fuzzy
 msgid "No. Of Person title"
-msgstr "No. Of Person title"
+msgstr "Henkilöiden lukumäärä (Otsikko)"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_field_customize.php:273
@@ -10621,9 +10608,8 @@ msgstr "Confirm password required field label"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1841
-#, fuzzy
 msgid "Reschedule title"
-msgstr "Reschedule title"
+msgstr "Uudelleen aikatauluttaminen otsikko"
 
 # @ bookingpress-appointment-booking
 #: core/views/customize/manage_form_customize.php:1845
@@ -11265,7 +11251,7 @@ msgstr "Kortin nimen haltija"
 # @ bookingpress-appointment-booking
 #: core/classes/class.bookingpress_pro_payment_gateways.php:1617
 msgid "Sorry, Your request can not be processed."
-msgstr "Valitettavasti pyyntöäsi ei voida käsitellä."
+msgstr "Valitettavasti pyyntöäsi ei voitu käsitellä."
 
 # @ bookingpress-appointment-booking
 #: core/classes/frontend/class.bookingpress_appointment_bookings.php:8574
@@ -11282,6 +11268,18 @@ msgstr "Lomakkeen väri:"
 #: core/classes/class.bookingpress_pro.php:2044
 msgid "Growth Plugins"
 msgstr "Kasvuun lisäosia"
+
+msgid "This user is already exists and password can't be entered"
+msgstr "Tämä käyttäjä on jo olemassa, eikä salasanaa voi syöttää"
+
+msgid "Invoice"
+msgstr "Lasku/kuitti"
+
+msgid "Required"
+msgstr "Vaadittu"
+
+msgid "Cancelled"
+msgstr "Peruttu"
 
 # @ bookingpress-appointment-booking
 #. translators: plugin header field 'Version'
