@@ -1,9 +1,10 @@
+#@ bookingpress-tax
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Tax Addon v2.1\n"
+"Project-Id-Version: BookingPress - Tax Addon v2.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-04-04 06:28:12+0000\n"
+"PO-Revision-Date: 2026-08-17 06:59:13+0000\n"
 "Last-Translator: admin <admin@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -45,55 +46,57 @@ msgstr "Extension for BookingPress plugin to apply tax on appointment booking"
 msgid "Repute InfoSystems"
 msgstr "Repute InfoSystems"
 
-#: core/classes/class.bookingpress-tax.php:887
+#: core/classes/class.bookingpress-tax.php:905
 #@ bookingpress-tax
 msgid "Bookingpress - Tax plugin requires Bookingpress Premium Plugin installed and active."
 msgstr "Bookingpress - Tax plugin requires Bookingpress Premium Plugin installed and active."
 
-#: core/classes/class.bookingpress-tax.php:1104
+#: core/classes/class.bookingpress-tax.php:1127
+#: src/admin/BookingPressTaxSettings.php:35
 #@ bookingpress-tax
 msgid "Tax Settings"
 msgstr "Tax Settings"
 
-#: core/classes/class.bookingpress-tax.php:1113
+#: core/classes/class.bookingpress-tax.php:1136
+#: src/admin/BookingPressTaxSettings.php:44
 #@ bookingpress-tax
 msgid "Enter tax percentage"
 msgstr "Enter tax percentage"
 
-#: core/classes/class.bookingpress-tax.php:1546
-#: core/classes/class.bookingpress-tax.php:1578
+#: core/classes/class.bookingpress-tax.php:1572
+#: core/classes/class.bookingpress-tax.php:1604
 #@ bookingpress-tax
 msgid "An error occurred, please try again."
 msgstr "An error occurred, please try again."
 
-#: core/classes/class.bookingpress-tax.php:1554
+#: core/classes/class.bookingpress-tax.php:1580
 #, php-format
 #@ bookingpress-tax
 msgid "Your license key expired on %s."
 msgstr "Your license key expired on %s."
 
-#: core/classes/class.bookingpress-tax.php:1559
+#: core/classes/class.bookingpress-tax.php:1585
 #@ bookingpress-tax
 msgid "Your license key has been disabled."
 msgstr "Your license key has been disabled."
 
-#: core/classes/class.bookingpress-tax.php:1562
+#: core/classes/class.bookingpress-tax.php:1588
 #@ bookingpress-tax
 msgid "Invalid license."
 msgstr "Invalid license."
 
-#: core/classes/class.bookingpress-tax.php:1566
+#: core/classes/class.bookingpress-tax.php:1592
 #@ bookingpress-tax
 msgid "Your license is not active for this URL."
 msgstr "Your license is not active for this URL."
 
-#: core/classes/class.bookingpress-tax.php:1569
-#: core/classes/class.bookingpress-tax.php:1572
+#: core/classes/class.bookingpress-tax.php:1595
+#: core/classes/class.bookingpress-tax.php:1598
 #@ bookingpress-tax
 msgid "This appears to be an invalid license key for your selected package."
 msgstr "This appears to be an invalid license key for your selected package."
 
-#: core/classes/class.bookingpress-tax.php:1575
+#: core/classes/class.bookingpress-tax.php:1601
 #@ bookingpress-tax
 msgid "Your license key has reached its activation limit."
 msgstr "Your license key has reached its activation limit."
@@ -139,63 +142,69 @@ msgstr "You do not have permission to install plugin updates"
 msgid "Error"
 msgstr "Error"
 
-#: core/classes/class.bookingpress-tax.php:1092
+#: core/classes/class.bookingpress-tax.php:1110
+#: src/admin/BookingPressTaxSettings.php:276
 #@ bookingpress-tax
 msgid "Inc. GST"
 msgstr "Inc. GST"
 
-#: core/classes/class.bookingpress-tax.php:1225
+#: core/classes/class.bookingpress-tax.php:1248
+#: src/admin/BookingPressTaxSettings.php:156
 #@ bookingpress-tax
 msgid "Include Taxes"
 msgstr "Include Taxes"
 
-#: core/classes/class.bookingpress-tax.php:1226
+#: core/classes/class.bookingpress-tax.php:1249
+#: src/admin/BookingPressTaxSettings.php:157
 #@ bookingpress-tax
 msgid "Exclude Taxes"
 msgstr "Exclude Taxes"
 
-#: core/classes/class.bookingpress-tax.php:1233
+#: core/classes/class.bookingpress-tax.php:1256
+#: src/admin/BookingPressTaxSettings.php:164
 #@ bookingpress-tax
 msgid "Display tax amount in order summary"
 msgstr "Display tax amount in order summary"
 
-#: core/classes/class.bookingpress-tax.php:1243
+#: core/classes/class.bookingpress-tax.php:1266
+#: src/admin/BookingPressTaxSettings.php:174
 #@ bookingpress-tax
 msgid "Included tax label to display in order summary"
 msgstr "Included tax label to display in order summary"
 
-#: core/classes/class.bookingpress-tax.php:857
-#: core/classes/class.bookingpress-tax.php:1610
+#: core/classes/class.bookingpress-tax.php:875
+#: core/classes/class.bookingpress-tax.php:1636
 #: core/views/upgrade_latest_tax_data.php:9
+#: src/Vue3/TaxFeature.php:245
 #@ bookingpress-tax
 msgid "Tax"
 msgstr "Tax"
 
-#: core/classes/class.bookingpress-tax.php:674
-#: core/classes/class.bookingpress-tax.php:864
+#: core/classes/class.bookingpress-tax.php:691
+#: core/classes/class.bookingpress-tax.php:882
 #@ bookingpress-tax
 msgid "Tax title"
 msgstr "Tax title"
 
-#: core/classes/class.bookingpress-tax.php:895
+#: core/classes/class.bookingpress-tax.php:913
 #@ bookingpress-tax
 msgid "It's Required to update the BookingPress Premium Plugin to version 2.1 or higher in order to use the BookingPress Tax plugin"
 msgstr "It's Required to update the BookingPress Premium Plugin to version 2.1 or higher in order to use the BookingPress Tax plugin"
 
-#: core/classes/class.bookingpress-tax.php:945
-#: core/classes/class.bookingpress-tax.php:958
-#: core/classes/class.bookingpress-tax.php:989
-#: core/classes/class.bookingpress-tax.php:1000
-#: core/classes/class.bookingpress-tax.php:1591
+#: core/classes/class.bookingpress-tax.php:963
+#: core/classes/class.bookingpress-tax.php:976
+#: core/classes/class.bookingpress-tax.php:1007
+#: core/classes/class.bookingpress-tax.php:1018
+#: core/classes/class.bookingpress-tax.php:1617
 #@ bookingpress-tax
 msgid "Please activate license of BookingPress premium plugin to use BookingPress Tax Add-on"
 msgstr "Please activate license of BookingPress premium plugin to use BookingPress Tax Add-on"
 
-#: core/classes/class.bookingpress-tax.php:946
-#: core/classes/class.bookingpress-tax.php:959
-#: core/classes/class.bookingpress-tax.php:990
-#: core/classes/class.bookingpress-tax.php:1001
-#: core/classes/class.bookingpress-tax.php:1592
+#: core/classes/class.bookingpress-tax.php:964
+#: core/classes/class.bookingpress-tax.php:977
+#: core/classes/class.bookingpress-tax.php:1008
+#: core/classes/class.bookingpress-tax.php:1019
+#: core/classes/class.bookingpress-tax.php:1618
 #, php-format
 #@ bookingpress-tax
 msgid "Please %s Click Here %s to Continue"
@@ -211,76 +220,86 @@ msgstr "Table Not Exists."
 msgid "Location Wise Tax Details"
 msgstr "Location Wise Tax Details"
 
-#: core/classes/class.bookingpress-tax.php:304
+#: core/classes/class.bookingpress-tax.php:310
+#: src/admin/BookingPressTaxSettings.php:198
 #@ bookingpress-tax
 msgid "Enable Location wise tax"
 msgstr "Enable Location wise tax"
 
-#: core/classes/class.bookingpress-tax.php:536
+#: core/classes/class.bookingpress-tax.php:545
 #@ bookingpress-tax
 msgid "You can enable either country wise or location wise tax, if you enable country wise tax then location wise tax will be disabled."
 msgstr "You can enable either country wise or location wise tax, if you enable country wise tax then location wise tax will be disabled."
 
-#: core/classes/class.bookingpress-tax.php:540
+#: core/classes/class.bookingpress-tax.php:549
 #@ bookingpress-tax
 msgid "You can enable either country wise or location wise tax, if you enable location wise tax then country wise tax will be disabled."
 msgstr "You can enable either country wise or location wise tax, if you enable location wise tax then country wise tax will be disabled."
 
-#: core/classes/class.bookingpress-tax.php:543
+#: core/classes/class.bookingpress-tax.php:552
 #@ bookingpress-tax
 msgid "Continue"
 msgstr "Continue"
 
-#: core/classes/class.bookingpress-tax.php:544
+#: core/classes/class.bookingpress-tax.php:553
 #@ bookingpress-tax
 msgid "Cancel"
 msgstr "Cancel"
 
-#: core/classes/class.bookingpress-tax.php:899
-#: core/classes/class.bookingpress-tax.php:923
+#: core/classes/class.bookingpress-tax.php:917
+#: core/classes/class.bookingpress-tax.php:941
 #@ bookingpress-tax
 msgid "BookingPress Tax Plugin Requires to update the BookingPress Pro Plugin to version 4.0 or higher to use counry wise tax feature."
 msgstr "BookingPress Tax Plugin Requires to update the BookingPress Pro Plugin to version 4.0 or higher to use counry wise tax feature."
 
-#: core/classes/class.bookingpress-tax.php:910
-#: core/classes/class.bookingpress-tax.php:929
+#: core/classes/class.bookingpress-tax.php:928
+#: core/classes/class.bookingpress-tax.php:947
 #@ bookingpress-tax
 msgid "BookingPress Tax Plugin Requires to update the BookingPress Location Plugin to version 1.6 or higher to use location wise tax feature."
 msgstr "BookingPress Tax Plugin Requires to update the BookingPress Location Plugin to version 1.6 or higher to use location wise tax feature."
 
-#: core/classes/class.bookingpress-tax.php:1109
+#: core/classes/class.bookingpress-tax.php:1132
+#: src/admin/BookingPressTaxSettings.php:40
 #@ bookingpress-tax
 msgid "Default Tax"
 msgstr "Default Tax"
 
-#: core/classes/class.bookingpress-tax.php:1122
+#: core/classes/class.bookingpress-tax.php:1145
+#: src/admin/BookingPressTaxSettings.php:53
 #@ bookingpress-tax
 msgid "Enable country wise tax"
 msgstr "Enable country wise tax"
 
-#: core/classes/class.bookingpress-tax.php:1135
-#: core/classes/class.bookingpress-tax.php:1139
+#: core/classes/class.bookingpress-tax.php:1158
+#: core/classes/class.bookingpress-tax.php:1162
+#: src/admin/BookingPressTaxSettings.php:66
+#: src/admin/BookingPressTaxSettings.php:70
 #@ bookingpress-tax
 msgid "Choose Country Field"
 msgstr "Choose Country Field"
 
-#: core/classes/class.bookingpress-tax.php:1152
+#: core/classes/class.bookingpress-tax.php:1175
+#: src/admin/BookingPressTaxSettings.php:83
 #@ bookingpress-tax
 msgid "Note:"
 msgstr "Note:"
 
-#: core/classes/class.bookingpress-tax.php:1152
+#: core/classes/class.bookingpress-tax.php:1175
+#: src/admin/BookingPressTaxSettings.php:83
 #@ bookingpress-tax
 msgid "Select a field of booking form to choose country"
 msgstr "Select a field of booking form to choose country"
 
-#: core/classes/class.bookingpress-tax.php:1162
-#: core/classes/class.bookingpress-tax.php:1190
+#: core/classes/class.bookingpress-tax.php:1185
+#: core/classes/class.bookingpress-tax.php:1213
+#: src/admin/BookingPressTaxSettings.php:93
+#: src/admin/BookingPressTaxSettings.php:121
 #@ bookingpress-tax
 msgid "Select Country"
 msgstr "Select Country"
 
-#: core/classes/class.bookingpress-tax.php:1221
+#: core/classes/class.bookingpress-tax.php:1244
+#: src/admin/BookingPressTaxSettings.php:152
 #@ bookingpress-tax
 msgid "Price display options"
 msgstr "Price display options"
@@ -288,6 +307,11 @@ msgstr "Price display options"
 #. translators: plugin header field 'Version'
 #: bookingpress-tax.php:0
 #@ bookingpress-tax
-msgid "2.1"
-msgstr "2.1"
+msgid "2.5"
+msgstr "2.5"
+
+#: core/classes/class.bookingpress-tax.php:692
+#@ bookingpress-tax
+msgid "Included tax label"
+msgstr "Included tax label"
 

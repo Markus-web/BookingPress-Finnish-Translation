@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Tax Addon\n"
+"Project-Id-Version: BookingPress - Tax Addon v2.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-05-19 20:44+0300\n"
+"PO-Revision-Date: 2026-08-20 13:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -14,7 +14,8 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.min.js\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -41,51 +42,53 @@ msgstr "Laajennus BookingPress plugin soveltaa veroa ajanvarauksen yhteydessä"
 msgid "Repute InfoSystems"
 msgstr "Repute InfoSystems"
 
-#: core/classes/class.bookingpress-tax.php:887
+#: core/classes/class.bookingpress-tax.php:905
 msgid ""
-"Bookingpress - Tax plugin requires Bookingpress Premium Plugin installed and"
-" active."
+"Bookingpress - Tax plugin requires Bookingpress Premium Plugin installed and "
+"active."
 msgstr ""
-"Bookingpress - Tax plugin edellyttää Bookingpress Premium Plugin asennettuna"
-" ja aktiivisena."
+"Bookingpress - Tax plugin edellyttää Bookingpress Premium Plugin asennettuna "
+"ja aktiivisena."
 
-#: core/classes/class.bookingpress-tax.php:1104
+#: core/classes/class.bookingpress-tax.php:1127
+#: src/admin/BookingPressTaxSettings.php:35
 msgid "Tax Settings"
 msgstr "Veroasetukset"
 
-#: core/classes/class.bookingpress-tax.php:1113
+#: core/classes/class.bookingpress-tax.php:1136
+#: src/admin/BookingPressTaxSettings.php:44
 msgid "Enter tax percentage"
 msgstr "Syötä veroprosentti"
 
-#: core/classes/class.bookingpress-tax.php:1546
-#: core/classes/class.bookingpress-tax.php:1578
+#: core/classes/class.bookingpress-tax.php:1572
+#: core/classes/class.bookingpress-tax.php:1604
 msgid "An error occurred, please try again."
 msgstr "Tapahtui virhe, yritä uudelleen."
 
-#: core/classes/class.bookingpress-tax.php:1554
+#: core/classes/class.bookingpress-tax.php:1580
 #, php-format
 msgid "Your license key expired on %s."
 msgstr "Lisenssiavaimesi on vanhentunut %s."
 
-#: core/classes/class.bookingpress-tax.php:1559
+#: core/classes/class.bookingpress-tax.php:1585
 msgid "Your license key has been disabled."
 msgstr "Lisenssiavaimesi on poistettu käytöstä."
 
-#: core/classes/class.bookingpress-tax.php:1562
+#: core/classes/class.bookingpress-tax.php:1588
 msgid "Invalid license."
 msgstr "Virheellinen lisenssi."
 
-#: core/classes/class.bookingpress-tax.php:1566
+#: core/classes/class.bookingpress-tax.php:1592
 msgid "Your license is not active for this URL."
 msgstr "Lisenssisi ei ole aktiivinen tämän URL-osoitteen osalta."
 
-#: core/classes/class.bookingpress-tax.php:1569
-#: core/classes/class.bookingpress-tax.php:1572
+#: core/classes/class.bookingpress-tax.php:1595
+#: core/classes/class.bookingpress-tax.php:1598
 msgid "This appears to be an invalid license key for your selected package."
 msgstr ""
 "Tämä näyttää olevan virheellinen lisenssiavain valitsemallesi paketille."
 
-#: core/classes/class.bookingpress-tax.php:1575
+#: core/classes/class.bookingpress-tax.php:1601
 msgid "Your license key has reached its activation limit."
 msgstr "Lisenssiavaimesi on saavuttanut aktivointirajan."
 
@@ -99,15 +102,13 @@ msgstr "Saatavilla on uusi versio %1$s:stä."
 msgid "Contact your network administrator to install the update."
 msgstr "Ota yhteyttä verkonvalvojaan päivityksen asentamiseksi."
 
-#. translators: 1. opening anchor tag, do not translate 2. the new plugin
-#. version 3. closing anchor tag, do not translate.
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:268
 #, php-format
 msgid "%1$sView version %2$s details%3$s."
 msgstr "%1$s Näytä version %2$s tiedot%3$s."
 
-#. translators: 1. link for changelog 2. version name 3. opening anchor tag
-#. for update link 4. closing tag for update link
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
 #: core/classes/class.bookingpress_pro_plugin_updater.php:277
 #, php-format
 msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
@@ -125,38 +126,43 @@ msgstr "Sinulla ei ole lupaa asentaa lisäosien päivityksiä"
 msgid "Error"
 msgstr "Virhe"
 
-#: core/classes/class.bookingpress-tax.php:1092
+#: core/classes/class.bookingpress-tax.php:1110
+#: src/admin/BookingPressTaxSettings.php:276
 msgid "Inc. GST"
 msgstr "Sis. GST"
 
-#: core/classes/class.bookingpress-tax.php:1225
+#: core/classes/class.bookingpress-tax.php:1248
+#: src/admin/BookingPressTaxSettings.php:156
 msgid "Include Taxes"
 msgstr "Sisältää verot"
 
-#: core/classes/class.bookingpress-tax.php:1226
+#: core/classes/class.bookingpress-tax.php:1249
+#: src/admin/BookingPressTaxSettings.php:157
 msgid "Exclude Taxes"
 msgstr "Ei sisällä veroja"
 
-#: core/classes/class.bookingpress-tax.php:1233
+#: core/classes/class.bookingpress-tax.php:1256
+#: src/admin/BookingPressTaxSettings.php:164
 msgid "Display tax amount in order summary"
 msgstr "Näytä veron määrä tilauksen yhteenvedossa"
 
-#: core/classes/class.bookingpress-tax.php:1243
+#: core/classes/class.bookingpress-tax.php:1266
+#: src/admin/BookingPressTaxSettings.php:174
 msgid "Included tax label to display in order summary"
 msgstr "Sisällytetty veromerkintä, joka näytetään tilauksen yhteenvedossa"
 
-#: core/classes/class.bookingpress-tax.php:857
-#: core/classes/class.bookingpress-tax.php:1610
-#: core/views/upgrade_latest_tax_data.php:9
+#: core/classes/class.bookingpress-tax.php:875
+#: core/classes/class.bookingpress-tax.php:1636
+#: core/views/upgrade_latest_tax_data.php:9 src/Vue3/TaxFeature.php:245
 msgid "Tax"
 msgstr "Vero"
 
-#: core/classes/class.bookingpress-tax.php:674
-#: core/classes/class.bookingpress-tax.php:864
+#: core/classes/class.bookingpress-tax.php:691
+#: core/classes/class.bookingpress-tax.php:882
 msgid "Tax title"
 msgstr "Verotusnimike"
 
-#: core/classes/class.bookingpress-tax.php:895
+#: core/classes/class.bookingpress-tax.php:913
 msgid ""
 "It's Required to update the BookingPress Premium Plugin to version 2.1 or "
 "higher in order to use the BookingPress Tax plugin"
@@ -164,23 +170,23 @@ msgstr ""
 "BookingPress Premium Plugin on päivitettävä versioon 2.1 tai uudempaan, "
 "jotta voit käyttää BookingPress Tax -lisäosaa"
 
-#: core/classes/class.bookingpress-tax.php:945
-#: core/classes/class.bookingpress-tax.php:958
-#: core/classes/class.bookingpress-tax.php:989
-#: core/classes/class.bookingpress-tax.php:1000
-#: core/classes/class.bookingpress-tax.php:1591
+#: core/classes/class.bookingpress-tax.php:963
+#: core/classes/class.bookingpress-tax.php:976
+#: core/classes/class.bookingpress-tax.php:1007
+#: core/classes/class.bookingpress-tax.php:1018
+#: core/classes/class.bookingpress-tax.php:1617
 msgid ""
 "Please activate license of BookingPress premium plugin to use BookingPress "
 "Tax Add-on"
 msgstr ""
-"Aktivoi BookingPress premium-lisäosan lisenssi käyttääksesi BookingPress Tax"
-" lisäosaa"
+"Aktivoi BookingPress premium-lisäosan lisenssi käyttääksesi BookingPress Tax "
+"lisäosaa"
 
-#: core/classes/class.bookingpress-tax.php:946
-#: core/classes/class.bookingpress-tax.php:959
-#: core/classes/class.bookingpress-tax.php:990
-#: core/classes/class.bookingpress-tax.php:1001
-#: core/classes/class.bookingpress-tax.php:1592
+#: core/classes/class.bookingpress-tax.php:964
+#: core/classes/class.bookingpress-tax.php:977
+#: core/classes/class.bookingpress-tax.php:1008
+#: core/classes/class.bookingpress-tax.php:1019
+#: core/classes/class.bookingpress-tax.php:1618
 #, php-format
 msgid "Please %s Click Here %s to Continue"
 msgstr "Ole hyvä %s Klikkaa tästä %s jatkaaksesi"
@@ -196,12 +202,13 @@ msgid "Location Wise Tax Details"
 msgstr "Sijaintikohtaiset verotiedot"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:304
+#: core/classes/class.bookingpress-tax.php:310
+#: src/admin/BookingPressTaxSettings.php:198
 msgid "Enable Location wise tax"
 msgstr "Ota käyttöön sijaintikohtainen vero"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:536
+#: core/classes/class.bookingpress-tax.php:545
 msgid ""
 "You can enable either country wise or location wise tax, if you enable "
 "country wise tax then location wise tax will be disabled."
@@ -210,7 +217,7 @@ msgstr ""
 "käyttöön maakohtaisen veron, sijaintikohtainen vero poistetaan käytöstä."
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:540
+#: core/classes/class.bookingpress-tax.php:549
 msgid ""
 "You can enable either country wise or location wise tax, if you enable "
 "location wise tax then country wise tax will be disabled."
@@ -219,17 +226,17 @@ msgstr ""
 "käyttöön sijaintikohtaisen veron, maakohtainen vero poistetaan käytöstä."
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:543
+#: core/classes/class.bookingpress-tax.php:552
 msgid "Continue"
 msgstr "Jatka"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:544
+#: core/classes/class.bookingpress-tax.php:553
 msgid "Cancel"
 msgstr "Peruuta"
 
-#: core/classes/class.bookingpress-tax.php:899
-#: core/classes/class.bookingpress-tax.php:923
+#: core/classes/class.bookingpress-tax.php:917
+#: core/classes/class.bookingpress-tax.php:941
 msgid ""
 "BookingPress Tax Plugin Requires to update the BookingPress Pro Plugin to "
 "version 4.0 or higher to use counry wise tax feature."
@@ -238,58 +245,76 @@ msgstr ""
 "kanssa edellyttää BookingPress Pro -lisäosan päivittämistä versioon 4.0 tai "
 "uudempaan."
 
-#: core/classes/class.bookingpress-tax.php:910
-#: core/classes/class.bookingpress-tax.php:929
+#: core/classes/class.bookingpress-tax.php:928
+#: core/classes/class.bookingpress-tax.php:947
 msgid ""
 "BookingPress Tax Plugin Requires to update the BookingPress Location Plugin "
 "to version 1.6 or higher to use location wise tax feature."
 msgstr ""
 "BookingPress Tax -lisäosan käyttäminen sijaintikohtaisen veron ominaisuuden "
-"kanssa edellyttää BookingPress Location -lisäosan päivittämistä versioon 1.6"
-" tai uudempaan."
+"kanssa edellyttää BookingPress Location -lisäosan päivittämistä versioon 1.6 "
+"tai uudempaan."
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:1109
+#: core/classes/class.bookingpress-tax.php:1132
+#: src/admin/BookingPressTaxSettings.php:40
 msgid "Default Tax"
 msgstr "Oletusvero"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:1122
+#: core/classes/class.bookingpress-tax.php:1145
+#: src/admin/BookingPressTaxSettings.php:53
 msgid "Enable country wise tax"
 msgstr "Ota käyttöön maakohtainen vero"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:1135
-#: core/classes/class.bookingpress-tax.php:1139
+#: core/classes/class.bookingpress-tax.php:1158
+#: core/classes/class.bookingpress-tax.php:1162
+#: src/admin/BookingPressTaxSettings.php:66
+#: src/admin/BookingPressTaxSettings.php:70
 msgid "Choose Country Field"
 msgstr "Valitse maakenttä"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:1152
+#: core/classes/class.bookingpress-tax.php:1175
+#: src/admin/BookingPressTaxSettings.php:83
 msgid "Note:"
 msgstr "Huomio:"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:1152
+#: core/classes/class.bookingpress-tax.php:1175
+#: src/admin/BookingPressTaxSettings.php:83
 msgid "Select a field of booking form to choose country"
 msgstr "Valitse varauslomakkeelta kenttä maan valintaa varten"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:1162
-#: core/classes/class.bookingpress-tax.php:1190
+#: core/classes/class.bookingpress-tax.php:1185
+#: core/classes/class.bookingpress-tax.php:1213
+#: src/admin/BookingPressTaxSettings.php:93
+#: src/admin/BookingPressTaxSettings.php:121
 msgid "Select Country"
 msgstr "Valitse maa"
 
 # @ bookingpress-tax
-#: core/classes/class.bookingpress-tax.php:1221
+#: core/classes/class.bookingpress-tax.php:1244
+#: src/admin/BookingPressTaxSettings.php:152
 msgid "Price display options"
 msgstr "Hinnan näyttöasetukset"
 
 # @ bookingpress-tax
 #. translators: plugin header field 'Version'
 #: bookingpress-tax.php:0
-msgid "2.1"
-msgstr "2.1"
+msgid "2.5"
+msgstr "2.5"
+
+# @ bookingpress-tax
+#: core/classes/class.bookingpress-tax.php:692
+msgid "Included tax label"
+msgstr "Sisällytetty veromerkintä"
+
+# @ bookingpress-tax
+#~ msgid "2.4"
+#~ msgstr "2.4"
 
 #~ msgid "Tax Percentage"
 #~ msgstr "Veroprosentti"

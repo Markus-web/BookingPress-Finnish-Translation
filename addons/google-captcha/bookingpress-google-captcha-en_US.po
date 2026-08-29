@@ -1,0 +1,509 @@
+# @ bookingpress-google-captcha
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Google Captcha Integration Addon v1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-17 06:05:21+0000\n"
+"Last-Translator: admin <admin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+# @ bookingpress-google-captcha
+#. translators: plugin header field 'Name'
+#: bookingpress-google-captcha.php:0
+msgid "BookingPress - Google Captcha Integration Addon"
+msgstr "BookingPress - Google Captcha Integration Addon"
+
+# @ bookingpress-google-captcha
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-google-captcha.php:0
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+# @ bookingpress-google-captcha
+#. translators: plugin header field 'Description'
+#: bookingpress-google-captcha.php:0
+msgid "Extension for BookingPress plugin to captcha validation."
+msgstr "Extension for BookingPress plugin to captcha validation."
+
+# @ bookingpress-google-captcha
+#. translators: plugin header field 'Author'
+#: bookingpress-google-captcha.php:0
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:367
+msgid "BookingPress - Google Captcha Integration Plugin requires Bookingpress Premium Plugin installed and active."
+msgstr "BookingPress - Google Captcha Integration Plugin requires Bookingpress Premium Plugin installed and active."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:410
+#: src/admin/GoogleCaptcha.php:105
+msgid "Please Enter the site Key"
+msgstr "Please Enter the site Key"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:417
+#: src/admin/GoogleCaptcha.php:112
+msgid "Please Enter the Secret Key"
+msgstr "Please Enter the Secret Key"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:424
+#: src/admin/GoogleCaptcha.php:119
+msgid "Please enter reCAPTCHA Failed Message"
+msgstr "Please enter reCAPTCHA Failed Message"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:436
+msgid "English (US)"
+msgstr "English (US)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:437
+msgid "Arabic"
+msgstr "Arabic"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:438
+msgid "Bengali"
+msgstr "Bengali"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:439
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:440
+msgid "Catalan"
+msgstr "Catalan"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:441
+msgid "Chinese(Simplified)"
+msgstr "Chinese(Simplified)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:442
+msgid "Chinese(Traditional)"
+msgstr "Chinese(Traditional)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:443
+msgid "Croatian"
+msgstr "Croatian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:444
+msgid "Czech"
+msgstr "Czech"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:445
+msgid "Danish"
+msgstr "Danish"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:446
+msgid "Dutch"
+msgstr "Dutch"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:447
+msgid "English (UK)"
+msgstr "English (UK)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:448
+msgid "Estonian"
+msgstr "Estonian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:449
+msgid "Filipino"
+msgstr "Filipino"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:450
+msgid "Finnish"
+msgstr "Finnish"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:451
+msgid "French"
+msgstr "French"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:452
+msgid "French (Canadian)"
+msgstr "French (Canadian)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:453
+msgid "German"
+msgstr "German"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:454
+msgid "Gujarati"
+msgstr "Gujarati"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:455
+msgid "German (Autstria)"
+msgstr "German (Autstria)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:456
+msgid "German (Switzerland)"
+msgstr "German (Switzerland)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:457
+msgid "Greek"
+msgstr "Greek"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:458
+msgid "Hebrew"
+msgstr "Hebrew"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:459
+msgid "Hindi"
+msgstr "Hindi"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:460
+msgid "Hungarian"
+msgstr "Hungarian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:461
+msgid "Indonesian"
+msgstr "Indonesian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:462
+msgid "Italian"
+msgstr "Italian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:463
+msgid "Japanese"
+msgstr "Japanese"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:464
+msgid "Kannada"
+msgstr "Kannada"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:465
+msgid "Korean"
+msgstr "Korean"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:466
+msgid "Latvian"
+msgstr "Latvian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:467
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:468
+msgid "Malay"
+msgstr "Malay"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:469
+msgid "Malayalam"
+msgstr "Malayalam"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:470
+msgid "Marathi"
+msgstr "Marathi"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:471
+msgid "Norwegian"
+msgstr "Norwegian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:472
+msgid "Persian"
+msgstr "Persian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:473
+msgid "Polish"
+msgstr "Polish"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:474
+msgid "Portuguese"
+msgstr "Portuguese"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:475
+msgid "Portuguese (Brazil)"
+msgstr "Portuguese (Brazil)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:476
+msgid "Portuguese (Portugal)"
+msgstr "Portuguese (Portugal)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:477
+msgid "Romanian"
+msgstr "Romanian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:478
+msgid "Russian"
+msgstr "Russian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:479
+msgid "Serbian"
+msgstr "Serbian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:480
+msgid "Slovak"
+msgstr "Slovak"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:481
+msgid "Slovenian"
+msgstr "Slovenian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:482
+msgid "Spanish"
+msgstr "Spanish"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:483
+msgid "Spanish (Latin America)"
+msgstr "Spanish (Latin America)"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:484
+msgid "Swedish"
+msgstr "Swedish"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:485
+msgid "Tamil"
+msgstr "Tamil"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:486
+msgid "Telugu"
+msgstr "Telugu"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:487
+msgid "Thai"
+msgstr "Thai"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:488
+msgid "Turkish"
+msgstr "Turkish"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:489
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:490
+msgid "Urdu"
+msgstr "Urdu"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:491
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:527
+#: src/admin/GoogleCaptcha.php:38
+msgid "Site Key"
+msgstr "Site Key"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:537
+#: src/admin/GoogleCaptcha.php:48
+msgid "Site Secret"
+msgstr "Site Secret"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:547
+#: src/admin/GoogleCaptcha.php:58
+msgid "reCAPTCHA Language"
+msgstr "reCAPTCHA Language"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:560
+#: src/admin/GoogleCaptcha.php:71
+msgid "reCAPTCHA Failed Message"
+msgstr "reCAPTCHA Failed Message"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:698
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+msgid "Error"
+msgstr "Error"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:396
+#: core/classes/class.bookingpress-google-captcha.php:507
+#: src/admin/GoogleCaptcha.php:18 src/admin/GoogleCaptcha.php:91
+msgid "Google Captcha"
+msgstr "Google Captcha"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:512
+#: src/admin/GoogleCaptcha.php:23
+msgid "Save"
+msgstr "Save"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:531
+#: src/admin/GoogleCaptcha.php:42
+msgid "Enter site key"
+msgstr "Enter site key"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:541
+#: src/admin/GoogleCaptcha.php:52
+msgid "Enter secret key"
+msgstr "Enter secret key"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:696
+msgid "Google reCAPTCHA is Invalid or Expired. Please reload page and try again"
+msgstr "Google reCAPTCHA is Invalid or Expired. Please reload page and try again"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:217
+#: core/classes/class.bookingpress-google-captcha.php:249
+msgid "An error occurred, please try again."
+msgstr "An error occurred, please try again."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:225
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Your license key expired on %s."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:230
+msgid "Your license key has been disabled."
+msgstr "Your license key has been disabled."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:233
+msgid "Invalid license."
+msgstr "Invalid license."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:237
+msgid "Your license is not active for this URL."
+msgstr "Your license is not active for this URL."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:240
+#: core/classes/class.bookingpress-google-captcha.php:243
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "This appears to be an invalid license key for your selected package."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:246
+msgid "Your license key has reached its activation limit."
+msgstr "Your license key has reached its activation limit."
+
+# @ bookingpress-google-captcha
+#. translators: the plugin name.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:257
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr "There is a new version of %1$s available."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress_pro_plugin_updater.php:263
+msgid "Contact your network administrator to install the update."
+msgstr "Contact your network administrator to install the update."
+
+# @ bookingpress-google-captcha
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:268
+#, php-format
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sView version %2$s details%3$s."
+
+# @ bookingpress-google-captcha
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:277
+#, php-format
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress_pro_plugin_updater.php:288
+msgid "Update now."
+msgstr "Update now."
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+msgid "You do not have permission to install plugin updates"
+msgstr "You do not have permission to install plugin updates"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:104
+#: core/classes/class.bookingpress-google-captcha.php:117
+#: core/classes/class.bookingpress-google-captcha.php:148
+#: core/classes/class.bookingpress-google-captcha.php:159
+#: core/classes/class.bookingpress-google-captcha.php:262
+msgid "Please activate license of BookingPress premium plugin to use BookingPress Google Captcha Add-on"
+msgstr "Please activate license of BookingPress premium plugin to use BookingPress Google Captcha Add-on"
+
+# @ bookingpress-google-captcha
+#: core/classes/class.bookingpress-google-captcha.php:105
+#: core/classes/class.bookingpress-google-captcha.php:118
+#: core/classes/class.bookingpress-google-captcha.php:149
+#: core/classes/class.bookingpress-google-captcha.php:160
+#: core/classes/class.bookingpress-google-captcha.php:263
+#, php-format
+msgid "Please %s Click Here %s to Continue"
+msgstr "Please %s Click Here %s to Continue"
+
+# @ bookingpress-google-captcha
+#. translators: plugin header field 'Version'
+#: bookingpress-google-captcha.php:0
+msgid "1.7"
+msgstr "1.7"

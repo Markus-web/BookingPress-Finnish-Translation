@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Conversion Tracking Addon v1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-08-20 13:20+0300\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-conversion-tracking.php:0
+msgid "BookingPress - Conversion Tracking Addon"
+msgstr "BookingPress – Konversioseurannan lisäosa"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-conversion-tracking.php:0
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:185
+msgid ""
+"BookingPress - Conversion Tracking Plugin Requires to update the "
+"BookingPress Cart Plugin to version 2.4 or higher."
+msgstr ""
+"BookingPress – konversioseurannan lisäosa edellyttää, että BookingPress "
+"Cart -lisäosa päivitetään versioon 2.4 tai uudemmaksi."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:257
+#: core/classes/class.bookingpress-conversion-tracking.php:328
+#: src/admin/ConversionTracking.php:19
+msgid "Conversion Tracking"
+msgstr "Konversioiden seuranta"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:266
+#: src/admin/ConversionTracking.php:73
+msgid "Please Enter Google Analytics ID"
+msgstr "Syötä Google Analytics -tunnus"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:273
+#: src/admin/ConversionTracking.php:80
+msgid "Please Enter the API Secret"
+msgstr "Syötä salainen API-avain"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:333
+#: src/admin/ConversionTracking.php:24
+msgid "Save"
+msgstr "Tallenna"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:348
+#: src/admin/ConversionTracking.php:39
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:352
+#: core/classes/class.bookingpress-conversion-tracking.php:356
+#: src/admin/ConversionTracking.php:43 src/admin/ConversionTracking.php:47
+msgid "Google Analytics ID"
+msgstr "Google Analytics -tunnus"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:362
+#: core/classes/class.bookingpress-conversion-tracking.php:366
+#: src/admin/ConversionTracking.php:53 src/admin/ConversionTracking.php:57
+msgid "API Secret"
+msgstr "Salainen API-avain"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:1143
+msgid "Conversion Tracking Log"
+msgstr "Konversioiden seurantaloki"
+
+#. translators: plugin header field 'Description'
+#: bookingpress-conversion-tracking.php:0
+msgid "Extension to track essential ecommerce events with Google Analytics 4."
+msgstr ""
+"Laajennus, jonka avulla voi seurata tärkeimpiä verkkokaupan tapahtumia "
+"Google Analytics 4:n avulla."
+
+#. translators: plugin header field 'Author'
+#: bookingpress-conversion-tracking.php:0
+msgid "Repute Infosystems"
+msgstr "Repute Infosystems"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:93
+#: core/classes/class.bookingpress-conversion-tracking.php:106
+#: core/classes/class.bookingpress-conversion-tracking.php:137
+#: core/classes/class.bookingpress-conversion-tracking.php:148
+#: core/classes/class.bookingpress-conversion-tracking.php:464
+msgid ""
+"Please activate license of BookingPress premium plugin to use BookingPress "
+"Conversion Tracking Add-on"
+msgstr ""
+"Ota BookingPress Premium -laajennuksen lisenssi käyttöön, jotta voit käyttää"
+" BookingPress Conversion Tracking -lisäosaa"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:94
+#: core/classes/class.bookingpress-conversion-tracking.php:107
+#: core/classes/class.bookingpress-conversion-tracking.php:138
+#: core/classes/class.bookingpress-conversion-tracking.php:149
+#: core/classes/class.bookingpress-conversion-tracking.php:465
+#, php-format
+msgid "Please %s Click Here %s to Continue"
+msgstr "Jatka %snapsauttamalla tästä%s."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:419
+#: core/classes/class.bookingpress-conversion-tracking.php:451
+msgid "An error occurred, please try again."
+msgstr "Tapahtui virhe. Yritä uudelleen."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:427
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Lisenssiavaimesi vanheni %s."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:432
+msgid "Your license key has been disabled."
+msgstr "Käyttöoikeusavaimesi on poistettu käytöstä."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:435
+msgid "Invalid license."
+msgstr "Virheellinen lisenssi."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:439
+msgid "Your license is not active for this URL."
+msgstr "Käyttöoikeutesi ei ole voimassa tällä URL-osoitteella."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:442
+#: core/classes/class.bookingpress-conversion-tracking.php:445
+msgid "This appears to be an invalid license key for your selected package."
+msgstr ""
+"Tämä näyttää olevan virheellinen lisenssiavain valitsemallesi paketille."
+
+#: core/classes/class.bookingpress-conversion-tracking.php:448
+msgid "Your license key has reached its activation limit."
+msgstr "Lisenssiavaimesi aktivointiraja on saavutettu."
+
+#. translators: the plugin name.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:257
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr "Laajennuksesta %1$s on saatavilla uusi versio."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:263
+msgid "Contact your network administrator to install the update."
+msgstr "Ota yhteyttä verkon järjestelmänvalvojaan päivityksen asentamiseksi."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:268
+#, php-format
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sNäytä version %2$s tiedot%3$s."
+
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag
+#. for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:277
+#, php-format
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sNäytä version %2$s tiedot%3$s tai %4$späivitä nyt%5$s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:288
+msgid "Update now."
+msgstr "Päivitä nyt."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+msgid "You do not have permission to install plugin updates"
+msgstr "Sinulla ei ole oikeutta asentaa laajennusten päivityksiä"
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+msgid "Error"
+msgstr "Virhe"
+
+#: core/classes/class.bookingpress-conversion-tracking.php:798
+#: core/classes/class.bookingpress-conversion-tracking.php:871
+msgid "BookingPress Cart Item"
+msgstr "BookingPress-ostoskorin tuote"
+
+# @ bookingpress-conversion-tracking
+#. translators: plugin header field 'Version'
+#: bookingpress-conversion-tracking.php:0
+msgid "1.4"
+msgstr "1.4"
+
+#~ msgid "1.2"
+#~ msgstr "1.2"

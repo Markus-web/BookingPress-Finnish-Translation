@@ -1,0 +1,341 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Advanced Discount Addon v1.9\n"
+"PO-Revision-Date: 2026-06-28 15:00+0300\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+
+msgid " Items Selected"
+msgstr " Valitut tuotteet"
+
+msgid "%"
+msgstr "%"
+
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sNäytä version %2$s tiedot%3$s tai %4$späivitä nyt%5$s."
+
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sNäytä version %2$s tiedot%3$s."
+
+msgid "1.9"
+msgstr "1.9"
+
+msgid "Activate"
+msgstr "Ota käyttöön"
+
+msgid "Add Discount"
+msgstr "Lisää alennus"
+
+msgid "Add New"
+msgstr "Lisää uusi"
+
+msgid "Advanced Discount"
+msgstr "Erityisalennus"
+
+msgid "All Service"
+msgstr "Kaikki palvelut"
+
+msgid "All Services"
+msgstr "Kaikki palvelut"
+
+msgid "Allow discount in online payment"
+msgstr "Salli alennus verkkomaksussa"
+
+msgid "An error occurred, please try again."
+msgstr "Tapahtui virhe. Yritä uudelleen."
+
+msgid "An extension to apply the advance auto discount"
+msgstr "Lisäehto ennakkoauton alennuksen soveltamiseksi"
+
+msgid "Are you sure you want to delete this discount?"
+msgstr "Haluatko varmasti poistaa tämän alennuksen?"
+
+msgid "BookingPress - Advanced Discount Addon"
+msgstr "BookingPress – Advanced Discount -lisäosa"
+
+msgid ""
+"BookingPress - Advanced Discount plugin  Requires to update the BookingPress"
+" - Invoice Plugin to version 2.1 or higher."
+msgstr ""
+"BookingPress – Advanced Discount -laajennus  Vaatii BookingPress – Invoice "
+"-laajennuksen päivittämisen versioon 2.1 tai uudemmaksi."
+
+msgid ""
+"BookingPress - Advanced Discount plugin  Requires to update the BookingPress"
+" - Recurring Appointments to version 1.3 or higher."
+msgstr ""
+"BookingPress – Advanced Discount -laajennus  Vaatii, että BookingPress – "
+"Recurring Appointments -laajennus päivitetään versioon 1.3 tai uudemmaksi."
+
+msgid ""
+"BookingPress - Advanced Discount plugin  Requires to update the BookingPress"
+" - Waiting List Addon to version 1.4 or higher."
+msgstr ""
+"BookingPress – Advanced Discount -laajennus  Vaatii BookingPress – Waiting "
+"List -lisäosan päivittämisen versioon 1.4 tai uudemmaksi."
+
+msgid ""
+"BookingPress - Advanced Discount plugin Requires to update the BookingPress "
+"Premium Plugin to version 3.3 or higher in order to use the BookingPress "
+"Advanced Discount plugin"
+msgstr ""
+"BookingPress – Advanced Discount -laajennus: Jotta BookingPress Advanced "
+"Discount -laajennusta voidaan käyttää, BookingPress Premium -laajennus on "
+"päivitettävä versioon 3.3 tai uudemmalle."
+
+msgid ""
+"BookingPress - Advanced Discount plugin requires BookingPress Premium Plugin"
+" installed and active."
+msgstr ""
+"BookingPress - Advanced Discount -laajennus edellyttää, että BookingPress "
+"Premium -laajennus on asennettu ja käytössä."
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Contact your network administrator to install the update."
+msgstr "Ota yhteyttä verkon järjestelmänvalvojaan päivityksen asentamiseksi."
+
+msgid "Coupon Management"
+msgstr "Kuponkien hallinta"
+
+msgid "Coupon code not applied on this service"
+msgstr "Kuponkikoodia ei voida käyttää tässä palvelussa"
+
+msgid "Coupons fetched successfully"
+msgstr "Kupongit haettiin onnistuneesti"
+
+msgid "Date Range"
+msgstr "Päivämääräväli"
+
+msgid "Deactivate"
+msgstr "Poista käytöstä"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Discount"
+msgstr "Alennus"
+
+msgid "Discount Period Start date is not greater than End date"
+msgstr "Alennusjakson alkamispäivä ei ole myöhäisempi kuin päättymispäivä"
+
+msgid "Discount Period Type"
+msgstr "Alennusjakson tyyppi"
+
+msgid "Discount created successfully"
+msgstr "Alennus luotu onnistuneesti"
+
+msgid "Discount deleted successfully"
+msgstr "Alennus on poistettu onnistuneesti"
+
+msgid "Discount labels"
+msgstr "Alennustarrat"
+
+msgid "Discount position has been changed successfully."
+msgstr "Alennusasetusta on muutettu onnistuneesti."
+
+msgid "Discount rules already exists."
+msgstr "Alennussäännöt ovat jo olemassa."
+
+msgid "Discount status change successfully"
+msgstr "Alennustilan muutos onnistui"
+
+msgid "Discount updated successfully"
+msgstr "Alennus päivitetty onnistuneesti"
+
+msgid "Discounts deleted successfully"
+msgstr "Alennukset on poistettu onnistuneesti"
+
+msgid "Duration"
+msgstr "Kesto"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Edit Discount"
+msgstr "Muokkaa alennusta"
+
+msgid "End Date"
+msgstr "Päättymispäivä"
+
+msgid "Enter discount"
+msgstr "Syötä alennuskoodi"
+
+msgid "Enter discount title"
+msgstr "Kirjoita alennuksen nimi"
+
+msgid "Error"
+msgstr "Virhe"
+
+msgid "Go"
+msgstr "Mene"
+
+msgid "Invalid license."
+msgstr "Virheellinen lisenssi."
+
+msgid "List Advanced Discount"
+msgstr "Luettelo: Lisäalennus"
+
+msgid "Manage Advanced Discount"
+msgstr "Hallitse edistyneitä alennuksia"
+
+msgid "May not add more than a 100% discount."
+msgstr "Alennusta ei saa myöntää yli 100 %."
+
+msgid "Minimum No. Of App."
+msgstr "Hakemusten vähimmäismäärä"
+
+msgid "Minimum No. Of Appointments"
+msgstr "Vähimmäismäärä tapaamisia"
+
+msgid "Minimum No. Of People"
+msgstr "Vähimmäishenkilömäärä"
+
+msgid "Minimum Total Amount"
+msgstr "Vähimmäiskokonaissumma"
+
+msgid "Never Expires"
+msgstr "Ei vanhene koskaan"
+
+msgid "No Record Found!"
+msgstr "Tietueita ei löytynyt!"
+
+msgid "Offer Discount"
+msgstr "Tarjousalennus"
+
+msgid "Offer label"
+msgstr "Tarjousetiketti"
+
+msgid "Online Payment Discount"
+msgstr "Verkkomaksualennus"
+
+msgid "Online Payment label"
+msgstr "Verkkomaksutarra"
+
+msgid "Online discount message"
+msgstr "Verkkokaupan alennustiedote"
+
+msgid "Online discount text"
+msgstr "Verkkokaupan alennustiedote"
+
+msgid "Online payment discounts will not be applicable to deposit payments."
+msgstr "Verkkomaksualennuksia ei sovelleta ennakkomaksuihin."
+
+msgid "Pay online and get"
+msgstr "Maksa verkossa ja saat"
+
+msgid "Per Page"
+msgstr "Sivukohtaisesti"
+
+msgid "Please %s Click Here %s to Continue"
+msgstr "Jatka %snapsauttamalla tästä%s."
+
+msgid ""
+"Please activate license of BookingPress premium plugin to use BookingPress "
+"Advanced Discount Add-on"
+msgstr ""
+"Ota BookingPress Premium -laajennuksen lisenssi käyttöön, jotta voit käyttää"
+" BookingPress Advanced Discount -lisäosaa"
+
+msgid "Please enter a discount value greater than 0."
+msgstr "Syötä alennusarvo, joka on suurempi kuin 0."
+
+msgid "Please enter discount title"
+msgstr "Kirjoita alennuksen nimi"
+
+msgid "Please enter discount value"
+msgstr "Syötä alennuksen summa"
+
+msgid "Please select any action."
+msgstr "Valitse jokin toiminto."
+
+msgid "Please select at-least one discount to delete"
+msgstr "Valitse vähintään yksi alennus, jonka haluat poistaa"
+
+msgid "Please select discount discount type"
+msgstr "Valitse alennustyyppi"
+
+msgid "Please select discount end date"
+msgstr "Valitse alennuksen päättymispäivä"
+
+msgid "Please select discount start date"
+msgstr "Valitse alennuksen alkamispäivä"
+
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "Select End Date"
+msgstr "Valitse päättymispäivä"
+
+msgid "Select Services"
+msgstr "Valitse palvelut"
+
+msgid "Select Start Date"
+msgstr "Valitse aloituspäivä"
+
+msgid "Services"
+msgstr "Palvelut"
+
+msgid "Showing"
+msgstr "Näytetään"
+
+msgid "Something went wrong.."
+msgstr "Jotain meni pieleen..."
+
+msgid "Sorry. Something went wrong while processing the request"
+msgstr "Valitettavasti pyynnön käsittelyssä ilmeni virhe."
+
+msgid "Start Date"
+msgstr "Aloituspäivä"
+
+msgid "Success"
+msgstr "Onnistui"
+
+msgid "There is a new version of %1$s available."
+msgstr "Laajennuksesta %1$s on saatavilla uusi versio."
+
+msgid "This appears to be an invalid license key for your selected package."
+msgstr ""
+"Tämä näyttää olevan virheellinen lisenssiavain valitsemallesi paketille."
+
+msgid "Title"
+msgstr "Otsikko"
+
+msgid "Update now."
+msgstr "Päivitä nyt."
+
+msgid "You do not have permission to install plugin updates"
+msgstr "Sinulla ei ole oikeutta asentaa laajennusten päivityksiä"
+
+msgid "Your license is not active for this URL."
+msgstr "Käyttöoikeutesi ei ole voimassa tällä URL-osoitteella."
+
+msgid "Your license key expired on %s."
+msgstr "Lisenssiavaimesi vanheni %s."
+
+msgid "Your license key has been disabled."
+msgstr "Käyttöoikeusavaimesi on poistettu käytöstä."
+
+msgid "Your license key has reached its activation limit."
+msgstr "Lisenssiavaimesi aktivointiraja on saavutettu."
+
+msgid "discount"
+msgstr "alennus"
+
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+msgid "out of"
+msgstr "pois"

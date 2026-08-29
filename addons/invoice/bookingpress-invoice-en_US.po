@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Invoice Addon v2.9\n"
+"PO-Revision-Date: 2026-05-08 07:27:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x"
+
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sView version %2$s details%3$s."
+
+msgid "2.9"
+msgstr "2.9"
+
+msgid "An error occurred, please try again."
+msgstr "An error occurred, please try again."
+
+msgid "Approve"
+msgstr "Approve"
+
+msgid "Are you sure you want to reset invoice counter?"
+msgstr "Are you sure you want to reset invoice counter?"
+
+msgid "BookingPress - Invoice Addon"
+msgstr "BookingPress - Invoice Addon"
+
+msgid ""
+"BookingPress lite version 1.0.42 required to use BookingPress Invoice Add-on"
+msgstr ""
+"BookingPress lite version 1.0.42 required to use BookingPress Invoice Add-on"
+
+msgid ""
+"Bookingpress - Invoice plugin requires Bookingpress Premium Plugin installed "
+"and active."
+msgstr ""
+"Bookingpress - Invoice plugin requires Bookingpress Premium Plugin installed "
+"and active."
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Contact your network administrator to install the update."
+msgstr "Contact your network administrator to install the update."
+
+msgid "Download invoice button label"
+msgstr "Download invoice button label"
+
+msgid "Enter Invoice Prefix"
+msgstr "Enter Invoice Prefix"
+
+msgid "Enter Invoice Suffix"
+msgstr "Enter Invoice Suffix"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Font not found"
+msgstr "Font not found"
+
+msgid "Invalid license."
+msgstr "Invalid license."
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "Invoice Counter Update successfully."
+msgstr "Invoice Counter Update successfully."
+
+msgid "Invoice Integration."
+msgstr "Invoice Integration."
+
+msgid "Invoice Prefix"
+msgstr "Invoice Prefix"
+
+msgid "Invoice Preview"
+msgstr "Invoice Preview"
+
+msgid "Invoice Settings"
+msgstr "Invoice Settings"
+
+msgid "Invoice Suffix"
+msgstr "Invoice Suffix"
+
+msgid "Invoice due days"
+msgstr "Invoice due days"
+
+msgid "Invoice prefix/suffix"
+msgstr "Invoice prefix/suffix"
+
+msgid "Minimum Invoice Length"
+msgstr "Minimum Invoice Length"
+
+msgid "Please %s Click Here %s to Continue"
+msgstr "Please %s Click Here %s to Continue"
+
+msgid ""
+"Please activate license of BookingPress premium plugin to use BookingPress "
+"Invoice Add-on"
+msgstr ""
+"Please activate license of BookingPress premium plugin to use BookingPress "
+"Invoice Add-on"
+
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+msgid "Reset Counter"
+msgstr "Reset Counter"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings has been updated successfully."
+msgstr "Settings has been updated successfully."
+
+msgid "Sorry. Something went wrong while processing the request"
+msgstr "Sorry. Something went wrong while processing the request"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Tag copied successfully"
+msgstr "Tag copied successfully"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "There is a new version of %1$s available."
+msgstr "There is a new version of %1$s available."
+
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "This appears to be an invalid license key for your selected package."
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update now."
+msgstr "Update now."
+
+msgid "You do not have permission to install plugin updates"
+msgstr "You do not have permission to install plugin updates"
+
+msgid "Your license is not active for this URL."
+msgstr "Your license is not active for this URL."
+
+msgid "Your license key expired on %s."
+msgstr "Your license key expired on %s."
+
+msgid "Your license key has been disabled."
+msgstr "Your license key has been disabled."
+
+msgid "Your license key has reached its activation limit."
+msgstr "Your license key has reached its activation limit."
+
+msgid "company"
+msgstr "company"
+
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+msgid "invoice"
+msgstr "invoice"
+
+msgid ""
+"it's highly recommended to update the BookingPress Premium Plugin to version "
+"1.2 or higher in order to use the BookingPress Invoice plugin"
+msgstr ""
+"it's highly recommended to update the BookingPress Premium Plugin to version "
+"1.2 or higher in order to use the BookingPress Invoice plugin"
+
+msgid ""
+"it's highly recommended to update the BookingPress Premium Plugin to version "
+"1.6 or higher in order to use the BookingPress Invoice plugin"
+msgstr ""
+"it's highly recommended to update the BookingPress Premium Plugin to version "
+"1.6 or higher in order to use the BookingPress Invoice plugin"
+
+msgid ""
+"mPDF Library for BookingPress invoice required Minimum PHP version 7.1 or "
+"greater."
+msgstr ""
+"mPDF Library for BookingPress invoice required Minimum PHP version 7.1 or "
+"greater."
+
+msgid "send a PDF"
+msgstr "send a PDF"

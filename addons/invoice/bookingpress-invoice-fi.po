@@ -1,0 +1,200 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Invoice Addon v2.9\n"
+"PO-Revision-Date: 2026-06-28 15:01+0300\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sNäytä version %2$s tiedot%3$s tai %4$späivitä nyt%5$s."
+
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sNäytä version %2$s tiedot%3$s."
+
+msgid "2.9"
+msgstr "2.9"
+
+msgid "An error occurred, please try again."
+msgstr "Tapahtui virhe. Yritä uudelleen."
+
+msgid "Approve"
+msgstr "Hyväksy"
+
+msgid "Are you sure you want to reset invoice counter?"
+msgstr "Haluatko varmasti nollata laskutuslaskurin?"
+
+msgid "BookingPress - Invoice Addon"
+msgstr "BookingPress – Laskutuslisäosa"
+
+msgid ""
+"BookingPress lite version 1.0.42 required to use BookingPress Invoice Add-on"
+msgstr ""
+"BookingPress Lite -versio 1.0.42 vaaditaan BookingPress Invoice -lisäosan "
+"käyttämiseen"
+
+msgid ""
+"Bookingpress - Invoice plugin requires Bookingpress Premium Plugin installed"
+" and active."
+msgstr ""
+"Bookingpress – Laskutuslaajennus edellyttää, että Bookingpress Premium "
+"-laajennus on asennettu ja käytössä."
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Contact your network administrator to install the update."
+msgstr "Ota yhteyttä verkon järjestelmänvalvojaan päivityksen asentamiseksi."
+
+msgid "Download invoice button label"
+msgstr "Lataa laskun painikkeen teksti"
+
+msgid "Enter Invoice Prefix"
+msgstr "Syötä laskun etuliite"
+
+msgid "Enter Invoice Suffix"
+msgstr "Syötä laskun loppuliite"
+
+msgid "Error"
+msgstr "Virhe"
+
+msgid "Font"
+msgstr "Fontti"
+
+msgid "Font not found"
+msgstr "Fonttia ei löydy"
+
+msgid "Invalid license."
+msgstr "Virheellinen lisenssi."
+
+msgid "Invoice"
+msgstr "Lasku"
+
+msgid "Invoice Counter Update successfully."
+msgstr "Laskujen laskurin päivitys onnistui."
+
+msgid "Invoice Integration."
+msgstr "Laskujen integrointi."
+
+msgid "Invoice Prefix"
+msgstr "Laskun etuliite"
+
+msgid "Invoice Preview"
+msgstr "Laskun esikatselu"
+
+msgid "Invoice Settings"
+msgstr "Laskutusasetukset"
+
+msgid "Invoice Suffix"
+msgstr "Laskun loppuliite"
+
+msgid "Invoice due days"
+msgstr "Laskun eräpäivä"
+
+msgid "Invoice prefix/suffix"
+msgstr "Laskun etuliite/jälkiliite"
+
+msgid "Minimum Invoice Length"
+msgstr "Laskun vähimmäispituus"
+
+msgid "Please %s Click Here %s to Continue"
+msgstr "Jatka %snapsauttamalla tästä%s."
+
+msgid ""
+"Please activate license of BookingPress premium plugin to use BookingPress "
+"Invoice Add-on"
+msgstr ""
+"Aktivoi BookingPress Premium -laajennuksen lisenssi, jotta voit käyttää "
+"BookingPress Invoice -lisäosaa"
+
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+msgid "Reset Counter"
+msgstr "Nollaa laskuri"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Settings has been updated successfully."
+msgstr "Asetukset on päivitetty onnistuneesti."
+
+msgid "Sorry. Something went wrong while processing the request"
+msgstr "Valitettavasti pyynnön käsittelyssä ilmeni virhe."
+
+msgid "Success"
+msgstr "Onnistui"
+
+msgid "Tag copied successfully"
+msgstr "Tunniste kopioitu onnistuneesti"
+
+msgid "Tags"
+msgstr "Tunnisteet"
+
+msgid "There is a new version of %1$s available."
+msgstr "Laajennuksesta %1$s on saatavilla uusi versio."
+
+msgid "This appears to be an invalid license key for your selected package."
+msgstr ""
+"Tämä näyttää olevan virheellinen lisenssiavain valitsemallesi paketille."
+
+msgid "Update"
+msgstr "Päivitys"
+
+msgid "Update now."
+msgstr "Päivitä nyt."
+
+msgid "You do not have permission to install plugin updates"
+msgstr "Sinulla ei ole oikeutta asentaa laajennusten päivityksiä"
+
+msgid "Your license is not active for this URL."
+msgstr "Käyttöoikeutesi ei ole voimassa tällä URL-osoitteella."
+
+msgid "Your license key expired on %s."
+msgstr "Lisenssiavaimesi vanheni %s."
+
+msgid "Your license key has been disabled."
+msgstr "Käyttöoikeusavaimesi on poistettu käytöstä."
+
+msgid "Your license key has reached its activation limit."
+msgstr "Lisenssiavaimesi aktivointiraja on saavutettu."
+
+msgid "company"
+msgstr "yritys"
+
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+msgid "invoice"
+msgstr "lasku"
+
+msgid ""
+"it's highly recommended to update the BookingPress Premium Plugin to version"
+" 1.2 or higher in order to use the BookingPress Invoice plugin"
+msgstr ""
+"On erittäin suositeltavaa päivittää BookingPress Premium -laajennus versioon"
+" 1.2 tai uudemmaksi, jotta BookingPress Invoice -laajennusta voidaan käyttää"
+
+msgid ""
+"it's highly recommended to update the BookingPress Premium Plugin to version"
+" 1.6 or higher in order to use the BookingPress Invoice plugin"
+msgstr ""
+"On erittäin suositeltavaa päivittää BookingPress Premium -laajennus versioon"
+" 1.6 tai uudemmaksi, jotta BookingPress Invoice -laajennusta voi käyttää"
+
+msgid ""
+"mPDF Library for BookingPress invoice required Minimum PHP version 7.1 or "
+"greater."
+msgstr ""
+"mPDF-kirjasto BookingPress-laskua varten. Vaaditaan vähintään PHP-versio 7.1"
+" tai uudempi."
+
+msgid "send a PDF"
+msgstr "lähetä PDF-tiedosto"
