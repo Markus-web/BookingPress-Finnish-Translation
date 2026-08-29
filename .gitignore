@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.idea/
+.vscode/
+
+# Local tooling (not part of the published catalogs)
+.venv/
+__pycache__/
+*.pyc
+messages.mo
