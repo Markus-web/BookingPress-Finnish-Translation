@@ -34,6 +34,19 @@ Lite and Pro both use text domain `bookingpress-appointment-booking`. Install ea
 | Tax | 2.5 | `addons/tax/` |
 | Turnstile Captcha | 1.2 | `addons/turnstile-captcha/` |
 
+## Releases
+
+Download ready-made zips from [Releases](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases):
+
+| Tag | Contents |
+|-----|----------|
+| [`v2026.08.29`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.08.29) | **Full pack** (Lite + Pro + addons) — recommended |
+| [`lite-1.6.4`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/lite-1.6.4) | Lite only |
+| [`pro-6.1.1`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/pro-6.1.1) | Pro only |
+| [`addons-2026.08.29`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/addons-2026.08.29) | Addons only |
+
+Or clone/`git pull` this repository and copy files from `Lite/`, `Pro/`, and `addons/`.
+
 ## Install
 
 1. Upgrade the plugin(s) to the versions in the table (or re-merge if newer).
