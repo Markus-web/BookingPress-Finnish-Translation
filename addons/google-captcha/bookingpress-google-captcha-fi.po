@@ -16,7 +16,8 @@ msgstr ""
 "X-Poedit-Basepath: ../\n"
 "X-Poedit-Bookmarks: \n"
 "X-Poedit-Country: UNITED STATES\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
 "X-Poedit-Language: English\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -322,7 +323,7 @@ msgstr "Ruotsi"
 # @ bookingpress-google-captcha
 #: core/classes/class.bookingpress-google-captcha.php:485
 msgid "Tamil"
-msgstr "Tamil"
+msgstr "Tamili"
 
 # @ bookingpress-google-captcha
 #: core/classes/class.bookingpress-google-captcha.php:486
@@ -469,16 +470,14 @@ msgid "Contact your network administrator to install the update."
 msgstr "Pyydä verkon ylläpitäjää asentamaan päivitys."
 
 # @ bookingpress-google-captcha
-#. translators: 1. opening anchor tag, do not translate 2. the new plugin
-#. version 3. closing anchor tag, do not translate.
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:268
 #, php-format
 msgid "%1$sView version %2$s details%3$s."
 msgstr "%1$sNäytä version %2$s tiedot%3$s."
 
 # @ bookingpress-google-captcha
-#. translators: 1. link for changelog 2. version name 3. opening anchor tag
-#. for update link 4. closing tag for update link
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
 #: core/classes/class.bookingpress_pro_plugin_updater.php:277
 #, php-format
 msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."

@@ -14,25 +14,27 @@ Community Finnish (`fi`) [gettext](https://www.gnu.org/software/gettext/) catalo
 
 Each folder ships:
 
-- `*-fi.po` / `*-fi.mo` — Finnish translation
-- `*-en_US.po` (and `.mo` when available) — English baseline for that plugin version
+- `*-fi.po` / `*-fi.mo`: Finnish translation
+- `*-en_US.po` (and `.mo` when available): English baseline for that plugin version
 
 Lite and Pro both use text domain `bookingpress-appointment-booking`. Install each catalog only into its own plugin `languages/` folder. Do not mix them.
 
-## Versions (2026-08-29)
+<!-- versions:start -->
+## Versions (2026-10-03)
 
 | Package | Version | Folder |
 |---------|---------|--------|
-| BookingPress Lite | 1.6.4 | `Lite/` |
-| BookingPress Pro | 6.1.1 | `Pro/` |
-| Cart | 4.8 | `addons/cart/` |
+| BookingPress Lite | 1.6.7 | `Lite/` |
+| BookingPress Pro | 6.2.1 | `Pro/` |
+| Cart | 5.0 | `addons/cart/` |
 | Conversion Tracking | 1.4 | `addons/conversion-tracking/` |
 | Discount | 1.9 | `addons/discount-addon/` |
 | Google Captcha | 1.7 | `addons/google-captcha/` |
 | Invoice | 2.9 | `addons/invoice/` |
 | Mailchimp | 1.5 | `addons/mailchimp/` |
-| Tax | 2.5 | `addons/tax/` |
-| Turnstile Captcha | 1.2 | `addons/turnstile-captcha/` |
+| Tax | 2.7 | `addons/tax/` |
+| Turnstile Captcha | 1.3 | `addons/turnstile-captcha/` |
+<!-- versions:end -->
 
 ## Releases
 
@@ -40,10 +42,12 @@ Download ready-made zips from [Releases](https://github.com/Markus-web/BookingPr
 
 | Tag | Contents |
 |-----|----------|
-| [`v2026.08.29`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.08.29) | **Full pack** (Lite + Pro + addons) — recommended |
-| [`lite-1.6.4`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/lite-1.6.4) | Lite only |
-| [`pro-6.1.1`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/pro-6.1.1) | Pro only |
-| [`addons-2026.08.29`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/addons-2026.08.29) | Addons only |
+| [`v2026.10.03`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.10.03) | **Full pack** (Lite + Pro + addons), recommended |
+| [`lite-1.6.7`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/lite-1.6.7) | Lite only |
+| [`pro-6.2.1`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/pro-6.2.1) | Pro only |
+| [`addons-2026.10.03`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/addons-2026.10.03) | Addons only |
+
+Older packs (for example [`v2026.08.29`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.08.29) for Pro 6.1.1) stay on the Releases page.
 
 Or clone/`git pull` this repository and copy files from `Lite/`, `Pro/`, and `addons/`.
 
@@ -99,6 +103,14 @@ Every `*-fi.po` must match its sibling `*-en_US.po` (`msgcmp` clean).
 
 ## Changelog
 
+### 2026-10-03
+
+- Lite **1.6.7**: 12 new strings translated (PayPal order and payment amount checks).
+- Pro **6.2.1**: 51 new strings translated (addon version labels, complete-payment error messages, report filters, the Dissatisfied / Very Dissatisfied rating labels).
+- Cart **5.0**, Tax **2.7**, Turnstile Captcha **1.3**: new English baselines (only the version string changed; existing Finnish kept).
+- Fixes: "Select Location" now "Valitse toimipiste" (was "Valinta"), the "Sr." column "Nro", Lite "Placeholder" now "Paikkamerkki" (same as Pro), Google Captcha language "Tamil" now "Tamili".
+- Finnish file headers now name the plugin version they match.
+
 ### 2026-08-29
 
 - Lite **1.6.4**, Pro **6.1.1**, Cart **4.8** EN baselines + Finnish updates.
@@ -108,4 +120,4 @@ Every `*-fi.po` must match its sibling `*-en_US.po` (`msgcmp` clean).
 
 ## License
 
-MIT — see [LICENSE](LICENSE). BookingPress itself remains a third-party product; see [bookingpressplugin.com](https://www.bookingpressplugin.com/) for their terms.
+MIT, see [LICENSE](LICENSE). BookingPress itself remains a third-party product; see [bookingpressplugin.com](https://www.bookingpressplugin.com/) for their terms.

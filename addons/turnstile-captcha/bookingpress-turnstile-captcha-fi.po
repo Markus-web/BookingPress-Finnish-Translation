@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Turnstile Captcha Integration Addon v1.2\n"
+"Project-Id-Version: BookingPress - Turnstile Captcha Integration Addon v1.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2026-08-20 13:05+0300\n"
@@ -16,7 +16,8 @@ msgstr ""
 "X-Poedit-Basepath: ../\n"
 "X-Poedit-Bookmarks: \n"
 "X-Poedit-Country: UNITED STATES\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
 "X-Poedit-Language: English\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -39,8 +40,7 @@ msgstr "https://www.bookingpressplugin.com/"
 #. translators: plugin header field 'Description'
 #: bookingpress-turnstile-captcha.php:0
 msgid "Extension for BookingPress plugin for turnstile captcha validation."
-msgstr ""
-"BookingPress-lisäosa Turnstile-CAPTCHA-todennukseen varauslomakkeella."
+msgstr "BookingPress-lisäosa Turnstile-CAPTCHA-todennukseen varauslomakkeella."
 
 # @ bookingpress-turnstile-captcha
 #. translators: plugin header field 'Author'
@@ -49,8 +49,10 @@ msgid "Repute InfoSystems"
 msgstr "Repute InfoSystems"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:80
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:205
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:47
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:179
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:63
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:272
 #: core/classes/class.bookingpress-turnstile-captcha.php:125
 msgid ""
 "Turnstile Captcha is Invalid or Expired. Please reload page and try again"
@@ -59,137 +61,143 @@ msgstr ""
 "uudelleen."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:82
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:207
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:181
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:274
 #: core/classes/class.bookingpress-turnstile-captcha.php:127
 #: core/classes/class.bookingpress_pro_plugin_updater.php:515
 msgid "Error"
 msgstr "Virhe"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:98
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:131
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:86
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:197
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:198
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:311
 #: core/classes/class.bookingpress-turnstile-captcha.php:143
-#: core/classes/class.bookingpress-turnstile-captcha.php:672
+#: core/classes/class.bookingpress-turnstile-captcha.php:676
 msgid "Please complete the security check."
 msgstr "Suorita turvatarkistus."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:225
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:259
-#: core/classes/class.bookingpress-turnstile-captcha.php:313
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:328
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:338
+#: core/classes/class.bookingpress-turnstile-captcha.php:317
+#: src/admin/TurnstileCaptcha.php:161 src/admin/TurnstileCaptcha.php:177
+#: src/admin/TurnstileCaptcha.php:192
 msgid "Turnstile Captcha Settings"
 msgstr "Turnstile-CAPTCHA-asetukset"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:228
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:262
-#: core/classes/class.bookingpress-turnstile-captcha.php:316
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:331
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:341
+#: core/classes/class.bookingpress-turnstile-captcha.php:320
+#: src/admin/TurnstileCaptcha.php:164 src/admin/TurnstileCaptcha.php:180
+#: src/admin/TurnstileCaptcha.php:195
 msgid "Enable Turnstile Captcha"
 msgstr "Ota Turnstile-CAPTCHA käyttöön"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:326
-#: core/classes/class.bookingpress-turnstile-captcha.php:394
-#: src/admin/TurnstileCaptcha.php:18
+#: core/classes/class.bookingpress-turnstile-captcha.php:330
+#: core/classes/class.bookingpress-turnstile-captcha.php:398
+#: src/admin/TurnstileCaptcha.php:21
 msgid "Turnstile Captcha"
 msgstr "Turnstile-CAPTCHA"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:330
-#: src/admin/TurnstileCaptcha.php:99
+#: core/classes/class.bookingpress-turnstile-captcha.php:334
+#: src/admin/TurnstileCaptcha.php:102
 msgid "Light"
 msgstr "Vaalea"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:331
-#: src/admin/TurnstileCaptcha.php:100
+#: core/classes/class.bookingpress-turnstile-captcha.php:335
+#: src/admin/TurnstileCaptcha.php:103
 msgid "Dark"
 msgstr "Tumma"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:353
-#: src/admin/TurnstileCaptcha.php:122
+#: core/classes/class.bookingpress-turnstile-captcha.php:357
+#: src/admin/TurnstileCaptcha.php:125
 msgid "Please Enter the site Key"
 msgstr "Syötä sivustoavain"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:360
-#: src/admin/TurnstileCaptcha.php:129
+#: core/classes/class.bookingpress-turnstile-captcha.php:364
+#: src/admin/TurnstileCaptcha.php:132
 msgid "Please Enter the Secret Key"
 msgstr "Syötä salainen avain"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:367
-#: src/admin/TurnstileCaptcha.php:136
+#: core/classes/class.bookingpress-turnstile-captcha.php:371
+#: src/admin/TurnstileCaptcha.php:139
 msgid "Please enter Captcha Failed Message"
 msgstr "Syötä Captcha-virheilmoitus"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:374
-#: src/admin/TurnstileCaptcha.php:143
+#: core/classes/class.bookingpress-turnstile-captcha.php:378
+#: src/admin/TurnstileCaptcha.php:146
 msgid "Please enter Captcha Complete Message"
 msgstr "Syötä Captcha-vahvistusviesti"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:399
-#: src/admin/TurnstileCaptcha.php:23
+#: core/classes/class.bookingpress-turnstile-captcha.php:403
+#: src/admin/TurnstileCaptcha.php:26
 msgid "Save"
 msgstr "Tallenna"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:414
-#: src/admin/TurnstileCaptcha.php:38
+#: core/classes/class.bookingpress-turnstile-captcha.php:418
+#: src/admin/TurnstileCaptcha.php:41
 msgid "Site Key"
 msgstr "Sivustoavain"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:418
-#: src/admin/TurnstileCaptcha.php:42
+#: core/classes/class.bookingpress-turnstile-captcha.php:422
+#: src/admin/TurnstileCaptcha.php:45
 msgid "Enter site key"
 msgstr "Syötä sivustoavain"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:424
-#: src/admin/TurnstileCaptcha.php:48
+#: core/classes/class.bookingpress-turnstile-captcha.php:428
+#: src/admin/TurnstileCaptcha.php:51
 msgid "Site Secret"
 msgstr "Salainen avain"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:428
-#: src/admin/TurnstileCaptcha.php:52
+#: core/classes/class.bookingpress-turnstile-captcha.php:432
+#: src/admin/TurnstileCaptcha.php:55
 msgid "Enter secret key"
 msgstr "Syötä salainen avain"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:434
-#: src/admin/TurnstileCaptcha.php:58
+#: core/classes/class.bookingpress-turnstile-captcha.php:438
+#: src/admin/TurnstileCaptcha.php:61
 msgid "Turnstile Captcha Theme"
 msgstr "Turnstile-CAPTCHA-teema"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:447
-#: src/admin/TurnstileCaptcha.php:71
+#: core/classes/class.bookingpress-turnstile-captcha.php:451
+#: src/admin/TurnstileCaptcha.php:74
 msgid "Captcha Failed Message"
 msgstr "Captcha-virheilmoitus"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:457
-#: src/admin/TurnstileCaptcha.php:81
+#: core/classes/class.bookingpress-turnstile-captcha.php:461
+#: src/admin/TurnstileCaptcha.php:84
 msgid "Captcha Complete Check Message"
 msgstr "Captcha-vahvistusviesti"
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:477
+#: core/classes/class.bookingpress-turnstile-captcha.php:481
 msgid ""
-"BookingPress - Turnstile CAPTCHA plugin requires BookingPress Premium Plugin"
-" installed and active."
+"BookingPress - Turnstile CAPTCHA plugin requires BookingPress Premium Plugin "
+"installed and active."
 msgstr ""
 "BookingPress – Turnstile CAPTCHA -lisäosa edellyttää, että BookingPress "
 "Premium on asennettu ja käytössä."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:483
+#: core/classes/class.bookingpress-turnstile-captcha.php:487
 msgid ""
 "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress "
 "Premium Plugin to version 4.4 or higher in order to use the BookingPress "
@@ -199,7 +207,7 @@ msgstr ""
 "-version 4.4 tai uudempaa."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:490
+#: core/classes/class.bookingpress-turnstile-captcha.php:494
 msgid ""
 "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress "
 "- Service Package Plugin to version 2.4 or higher."
@@ -208,7 +216,7 @@ msgstr ""
 "Package -lisäosan versiota 2.4 tai uudempaa."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:497
+#: core/classes/class.bookingpress-turnstile-captcha.php:501
 msgid ""
 "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress "
 "- Gift Card Plugin to version 1.6 or higher."
@@ -221,7 +229,7 @@ msgstr ""
 #: core/classes/class.bookingpress-turnstile-captcha.php:235
 #: core/classes/class.bookingpress-turnstile-captcha.php:267
 #: core/classes/class.bookingpress-turnstile-captcha.php:279
-#: core/classes/class.bookingpress-turnstile-captcha.php:576
+#: core/classes/class.bookingpress-turnstile-captcha.php:580
 msgid ""
 "Please activate license of BookingPress premium plugin to use BookingPress "
 "TurnStile Captcha Add-on"
@@ -236,48 +244,48 @@ msgstr ""
 #: core/classes/class.bookingpress-turnstile-captcha.php:237
 #: core/classes/class.bookingpress-turnstile-captcha.php:269
 #: core/classes/class.bookingpress-turnstile-captcha.php:281
-#: core/classes/class.bookingpress-turnstile-captcha.php:578
+#: core/classes/class.bookingpress-turnstile-captcha.php:582
 #, php-format
 msgid "Please %s Click Here %s to Continue"
 msgstr "Jatka %snapsauttamalla tästä%s."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:532
-#: core/classes/class.bookingpress-turnstile-captcha.php:563
+#: core/classes/class.bookingpress-turnstile-captcha.php:536
+#: core/classes/class.bookingpress-turnstile-captcha.php:567
 msgid "An error occurred, please try again."
 msgstr "Tapahtui virhe. Yritä uudelleen."
 
 # @ bookingpress-turnstile-captcha
 #. translators: the expiry date.
-#: core/classes/class.bookingpress-turnstile-captcha.php:540
+#: core/classes/class.bookingpress-turnstile-captcha.php:544
 #, php-format
 msgid "Your license key expired on %s."
 msgstr "Lisenssiavaimesi vanheni %s."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:544
+#: core/classes/class.bookingpress-turnstile-captcha.php:548
 msgid "Your license key has been disabled."
 msgstr "Lisenssiavaimesi on poistettu käytöstä."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:547
+#: core/classes/class.bookingpress-turnstile-captcha.php:551
 msgid "Invalid license."
 msgstr "Virheellinen lisenssi."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:551
+#: core/classes/class.bookingpress-turnstile-captcha.php:555
 msgid "Your license is not active for this URL."
 msgstr "Lisenssi ei ole voimassa tällä URL-osoitteella."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:554
-#: core/classes/class.bookingpress-turnstile-captcha.php:557
+#: core/classes/class.bookingpress-turnstile-captcha.php:558
+#: core/classes/class.bookingpress-turnstile-captcha.php:561
 msgid "This appears to be an invalid license key for your selected package."
 msgstr ""
 "Tämä näyttää olevan virheellinen lisenssiavain valitsemallesi paketille."
 
 # @ bookingpress-turnstile-captcha
-#: core/classes/class.bookingpress-turnstile-captcha.php:560
+#: core/classes/class.bookingpress-turnstile-captcha.php:564
 msgid "Your license key has reached its activation limit."
 msgstr "Lisenssiavaimesi aktivointiraja on saavutettu."
 
@@ -294,16 +302,14 @@ msgid "Contact your network administrator to install the update."
 msgstr "Pyydä verkon ylläpitäjää asentamaan päivitys."
 
 # @ bookingpress-turnstile-captcha
-#. translators: 1. opening anchor tag, do not translate 2. the new plugin
-#. version 3. closing anchor tag, do not translate.
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:263
 #, php-format
 msgid "%1$sView version %2$s details%3$s."
 msgstr "%1$sNäytä version %2$s tiedot%3$s."
 
 # @ bookingpress-turnstile-captcha
-#. translators: 1. link for changelog 2. version name 3. opening anchor tag
-#. for update link 4. closing tag for update link
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
 #: core/classes/class.bookingpress_pro_plugin_updater.php:272
 #, php-format
 msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
@@ -322,5 +328,9 @@ msgstr "Sinulla ei ole oikeutta asentaa lisäosien päivityksiä."
 # @ bookingpress-turnstile-captcha
 #. translators: plugin header field 'Version'
 #: bookingpress-turnstile-captcha.php:0
-msgid "1.2"
-msgstr "1.2"
+msgid "1.3"
+msgstr "1.3"
+
+# @ bookingpress-turnstile-captcha
+#~ msgid "1.2"
+#~ msgstr "1.2"

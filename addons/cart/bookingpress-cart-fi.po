@@ -1,12 +1,12 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Cart Addon\n"
+"Project-Id-Version: BookingPress - Cart Addon v5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-05-19 20:53+0300\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Last-Translator: Markus Media\n"
+"Language-Team: Finnish\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,20 +45,20 @@ msgstr ""
 msgid "Repute InfoSystems"
 msgstr "Repute InfoSystems"
 
-#: core/classes/class.bookingpress-cart.php:2974
-#: core/classes/class.bookingpress-cart.php:5259
+#: core/classes/class.bookingpress-cart.php:2991
+#: core/classes/class.bookingpress-cart.php:5276
 msgid "Success"
 msgstr "Onnistui"
 
 #: core/classes/class.bookingpress-cart.php:280
-#: core/classes/class.bookingpress-cart.php:2979
-#: core/classes/class.bookingpress-cart.php:2984
-#: core/classes/class.bookingpress-cart.php:5250
+#: core/classes/class.bookingpress-cart.php:2996
+#: core/classes/class.bookingpress-cart.php:3001
+#: core/classes/class.bookingpress-cart.php:5267
 #: core/classes/class.bookingpress_pro_plugin_updater.php:520
 msgid "Error"
 msgstr "Virhe"
 
-#: core/classes/class.bookingpress-cart.php:3640
+#: core/classes/class.bookingpress-cart.php:3657
 msgid ""
 "BookingPress - Cart plugin requires BookingPress Premium Plugin installed "
 "and active."
@@ -66,99 +66,106 @@ msgstr ""
 "BookingPress - Ostoskori-lisäosa vaatii BookingPress Premium -lisäosan "
 "asennettuna ja aktiivisena."
 
-#: core/classes/class.bookingpress-cart.php:5251
+#: core/classes/class.bookingpress-cart.php:5268
 msgid "Sorry, Your request can not process due to security reason."
 msgstr "Valitettavasti pyyntöäsi ei voida käsitellä turvallisuussyistä."
 
-#: core/classes/class.bookingpress-cart.php:5260
+#: core/classes/class.bookingpress-cart.php:5277
 msgid "Data modified successfully"
 msgstr "Tietoja muutettu onnistuneesti"
 
-#: core/classes/class.bookingpress-cart.php:2353
-#: core/classes/class.bookingpress-cart.php:5680
+#: core/classes/class.bookingpress-cart.php:2370
+#: core/classes/class.bookingpress-cart.php:5697 src/admin/Cart.php:497
 msgid "Cart Items"
 msgstr "Ostoskorin palvelut"
 
-#: core/classes/class.bookingpress-cart.php:2354
-#: core/classes/class.bookingpress-cart.php:5681
+#: core/classes/class.bookingpress-cart.php:2371
+#: core/classes/class.bookingpress-cart.php:5698 src/admin/Cart.php:502
 msgid "My Cart Items"
 msgstr "Ostoskorini kohteet"
 
-#: core/classes/class.bookingpress-cart.php:2355
-#: core/classes/class.bookingpress-cart.php:5682
+#: core/classes/class.bookingpress-cart.php:2372
+#: core/classes/class.bookingpress-cart.php:5699 src/admin/Cart.php:503
 msgid "Items"
 msgstr "Palvelut"
 
-#: core/classes/class.bookingpress-cart.php:2356
-#: core/classes/class.bookingpress-cart.php:5683
+#: core/classes/class.bookingpress-cart.php:2373
+#: core/classes/class.bookingpress-cart.php:5700 src/admin/Cart.php:504
 msgid "Add Services"
 msgstr "Lisää palveluita"
 
-#: core/classes/class.bookingpress-cart.php:1915
-#: core/classes/class.bookingpress-cart.php:1961
-#: core/classes/class.bookingpress-cart.php:2007
-#: core/classes/class.bookingpress-cart.php:2105
-#: core/classes/class.bookingpress-cart.php:2165
-#: core/classes/class.bookingpress-cart.php:2225
+#: core/classes/class.bookingpress-cart.php:1929
+#: core/classes/class.bookingpress-cart.php:1975
+#: core/classes/class.bookingpress-cart.php:2021
+#: core/classes/class.bookingpress-cart.php:2122
+#: core/classes/class.bookingpress-cart.php:2182
+#: core/classes/class.bookingpress-cart.php:2242 src/admin/Cart.php:75
+#: src/admin/Cart.php:121 src/admin/Cart.php:168 src/admin/Cart.php:266
+#: src/admin/Cart.php:326 src/admin/Cart.php:386
 msgid "Guests"
 msgstr "Vieraat"
 
-#: core/classes/class.bookingpress-cart.php:1912
-#: core/classes/class.bookingpress-cart.php:1958
-#: core/classes/class.bookingpress-cart.php:2004
-#: core/classes/class.bookingpress-cart.php:2102
-#: core/classes/class.bookingpress-cart.php:2162
-#: core/classes/class.bookingpress-cart.php:2222
+#: core/classes/class.bookingpress-cart.php:1926
+#: core/classes/class.bookingpress-cart.php:1972
+#: core/classes/class.bookingpress-cart.php:2018
+#: core/classes/class.bookingpress-cart.php:2119
+#: core/classes/class.bookingpress-cart.php:2179
+#: core/classes/class.bookingpress-cart.php:2239 src/admin/Cart.php:72
+#: src/admin/Cart.php:118 src/admin/Cart.php:165 src/admin/Cart.php:263
+#: src/admin/Cart.php:323 src/admin/Cart.php:383
 msgid "Sample Service 01"
 msgstr "Esimerkkipalvelu 01"
 
-#: core/classes/class.bookingpress-cart.php:1914
-#: core/classes/class.bookingpress-cart.php:1960
-#: core/classes/class.bookingpress-cart.php:2006
-#: core/classes/class.bookingpress-cart.php:2104
-#: core/classes/class.bookingpress-cart.php:2164
-#: core/classes/class.bookingpress-cart.php:2224
+#: core/classes/class.bookingpress-cart.php:1928
+#: core/classes/class.bookingpress-cart.php:1974
+#: core/classes/class.bookingpress-cart.php:2020
+#: core/classes/class.bookingpress-cart.php:2121
+#: core/classes/class.bookingpress-cart.php:2181
+#: core/classes/class.bookingpress-cart.php:2241 src/admin/Cart.php:74
+#: src/admin/Cart.php:120 src/admin/Cart.php:167 src/admin/Cart.php:265
+#: src/admin/Cart.php:325 src/admin/Cart.php:385
 msgid "45 Mins"
 msgstr "45 minuuttia"
 
-#: core/classes/class.bookingpress-cart.php:2265
-#: core/classes/class.bookingpress-cart.php:2358
-#: core/classes/class.bookingpress-cart.php:5685
+#: core/classes/class.bookingpress-cart.php:2282
+#: core/classes/class.bookingpress-cart.php:2375
+#: core/classes/class.bookingpress-cart.php:5702 src/admin/Cart.php:426
+#: src/admin/Cart.php:506
 msgid "Cart Total"
 msgstr "Ostoskori yhteensä"
 
-#: core/classes/class.bookingpress-cart.php:1557
-#: core/classes/class.bookingpress-cart.php:2410
+#: core/classes/class.bookingpress-cart.php:1568
+#: core/classes/class.bookingpress-cart.php:2427 src/admin/Cart.php:531
 msgid "Cart step labels"
 msgstr "Ostoskorin vaiheen nimikkeet"
 
-#: core/classes/class.bookingpress-cart.php:1507
-#: core/classes/class.bookingpress-cart.php:1531
-#: core/classes/class.bookingpress-cart.php:2413
+#: core/classes/class.bookingpress-cart.php:1518
+#: core/classes/class.bookingpress-cart.php:1542
+#: core/classes/class.bookingpress-cart.php:2430 src/admin/Cart.php:534
 msgid "Step Cart"
 msgstr "Ostoskorivaihe"
 
-#: core/classes/class.bookingpress-cart.php:1508
-#: core/classes/class.bookingpress-cart.php:1532
-#: core/classes/class.bookingpress-cart.php:2417
+#: core/classes/class.bookingpress-cart.php:1519
+#: core/classes/class.bookingpress-cart.php:1543
+#: core/classes/class.bookingpress-cart.php:2434 src/admin/Cart.php:538
 msgid "Cart title"
 msgstr "Ostoskorin otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1509
-#: core/classes/class.bookingpress-cart.php:1533
-#: core/classes/class.bookingpress-cart.php:2421
+#: core/classes/class.bookingpress-cart.php:1520
+#: core/classes/class.bookingpress-cart.php:1544
+#: core/classes/class.bookingpress-cart.php:2438 src/admin/Cart.php:542
 msgid "Cart item title"
 msgstr "Ostoskorin kohteen otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1510
-#: core/classes/class.bookingpress-cart.php:1534
-#: core/classes/class.bookingpress-cart.php:2425
+#: core/classes/class.bookingpress-cart.php:1521
+#: core/classes/class.bookingpress-cart.php:1545
+#: core/classes/class.bookingpress-cart.php:2442 src/admin/Cart.php:546
 msgid "Add service button label"
 msgstr "Lisää palvelu -painikkeen teksti"
 
-#: core/classes/class.bookingpress-cart.php:1514
-#: core/classes/class.bookingpress-cart.php:1538
-#: core/classes/class.bookingpress-cart.php:2441
+#: core/classes/class.bookingpress-cart.php:1525
+#: core/classes/class.bookingpress-cart.php:1549
+#: core/classes/class.bookingpress-cart.php:2458 src/admin/Cart.php:562
 msgid "Total title"
 msgstr "Yhteensä otsikko"
 
@@ -166,45 +173,46 @@ msgstr "Yhteensä otsikko"
 msgid "extras"
 msgstr "lisäpalvelut"
 
-#: core/classes/class.bookingpress-cart.php:2361
-#: core/classes/class.bookingpress-cart.php:5688
-#: core/views/upgrade_latest_cart_data.php:11
+#: core/classes/class.bookingpress-cart.php:2378
+#: core/classes/class.bookingpress-cart.php:5705
+#: core/views/upgrade_latest_cart_data.php:11 src/Vue3/CartFeature.php:364
+#: src/admin/Cart.php:509
 msgid "Deposit"
 msgstr "Ennakkomaksu"
 
-#: core/classes/class.bookingpress-cart.php:1516
-#: core/classes/class.bookingpress-cart.php:1540
-#: core/classes/class.bookingpress-cart.php:2449
+#: core/classes/class.bookingpress-cart.php:1527
+#: core/classes/class.bookingpress-cart.php:1551
+#: core/classes/class.bookingpress-cart.php:2466 src/admin/Cart.php:570
 msgid "Cart service extra title"
 msgstr "Ostoskorin lisäpalvelun otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1518
-#: core/classes/class.bookingpress-cart.php:1542
-#: core/classes/class.bookingpress-cart.php:2457
+#: core/classes/class.bookingpress-cart.php:1529
+#: core/classes/class.bookingpress-cart.php:1553
+#: core/classes/class.bookingpress-cart.php:2474 src/admin/Cart.php:578
 msgid "Cart deposit title"
 msgstr "Ostoskorin ennakkomaksun otsikko"
 
-#: core/classes/class.bookingpress-cart.php:2362
-#: core/classes/class.bookingpress-cart.php:5689
-#: core/views/upgrade_latest_cart_data.php:27
+#: core/classes/class.bookingpress-cart.php:2379
+#: core/classes/class.bookingpress-cart.php:5706
+#: core/views/upgrade_latest_cart_data.php:27 src/admin/Cart.php:510
 msgid "No. Of Person"
 msgstr "Henkilöiden lukumäärä"
 
-#: core/classes/class.bookingpress-cart.php:1515
-#: core/classes/class.bookingpress-cart.php:1539
-#: core/classes/class.bookingpress-cart.php:2445
+#: core/classes/class.bookingpress-cart.php:1526
+#: core/classes/class.bookingpress-cart.php:1550
+#: core/classes/class.bookingpress-cart.php:2462 src/admin/Cart.php:566
 msgid "Cart No. of person title"
 msgstr "Ostoskorin henkilömäärän otsikko"
 
-#: core/classes/class.bookingpress-cart.php:2980
+#: core/classes/class.bookingpress-cart.php:2997
 msgid "Coupon code not applied on this service"
 msgstr "Kuponkikoodia ei sovelleta tähän palveluun"
 
-#: core/classes/class.bookingpress-cart.php:1801
-#: core/classes/class.bookingpress-cart.php:1814
-#: core/classes/class.bookingpress-cart.php:1845
+#: core/classes/class.bookingpress-cart.php:1812
+#: core/classes/class.bookingpress-cart.php:1825
 #: core/classes/class.bookingpress-cart.php:1856
-#: core/classes/class.bookingpress-cart.php:5663
+#: core/classes/class.bookingpress-cart.php:1867
+#: core/classes/class.bookingpress-cart.php:5680
 msgid ""
 "Please activate license of BookingPress premium plugin to use BookingPress "
 "Cart Add-on"
@@ -212,44 +220,44 @@ msgstr ""
 "Aktivoi BookingPress premium-lisäosan lisenssi käyttääksesi BookingPress "
 "Cart Add-on -lisäosaa"
 
-#: core/classes/class.bookingpress-cart.php:1802
-#: core/classes/class.bookingpress-cart.php:1815
-#: core/classes/class.bookingpress-cart.php:1846
+#: core/classes/class.bookingpress-cart.php:1813
+#: core/classes/class.bookingpress-cart.php:1826
 #: core/classes/class.bookingpress-cart.php:1857
-#: core/classes/class.bookingpress-cart.php:5664
+#: core/classes/class.bookingpress-cart.php:1868
+#: core/classes/class.bookingpress-cart.php:5681
 #, php-format
 msgid "Please %s Click Here %s to Continue"
 msgstr "Ole hyvä %s Klikkaa tästä %s jatkaaksesi"
 
-#: core/classes/class.bookingpress-cart.php:5618
-#: core/classes/class.bookingpress-cart.php:5650
+#: core/classes/class.bookingpress-cart.php:5635
+#: core/classes/class.bookingpress-cart.php:5667
 msgid "An error occurred, please try again."
 msgstr "Tapahtui virhe, yritä uudelleen."
 
-#: core/classes/class.bookingpress-cart.php:5626
+#: core/classes/class.bookingpress-cart.php:5643
 #, php-format
 msgid "Your license key expired on %s."
 msgstr "Lisenssiavaimesi on vanhentunut %s."
 
-#: core/classes/class.bookingpress-cart.php:5631
+#: core/classes/class.bookingpress-cart.php:5648
 msgid "Your license key has been disabled."
 msgstr "Lisenssiavaimesi on poistettu käytöstä."
 
-#: core/classes/class.bookingpress-cart.php:5634
+#: core/classes/class.bookingpress-cart.php:5651
 msgid "Invalid license."
 msgstr "Virheellinen lisenssi."
 
-#: core/classes/class.bookingpress-cart.php:5638
+#: core/classes/class.bookingpress-cart.php:5655
 msgid "Your license is not active for this URL."
 msgstr "Lisenssisi ei ole aktiivinen tämän URL-osoitteen osalta."
 
-#: core/classes/class.bookingpress-cart.php:5641
-#: core/classes/class.bookingpress-cart.php:5644
+#: core/classes/class.bookingpress-cart.php:5658
+#: core/classes/class.bookingpress-cart.php:5661
 msgid "This appears to be an invalid license key for your selected package."
 msgstr ""
 "Tämä näyttää olevan virheellinen lisenssiavain valitsemallesi paketille."
 
-#: core/classes/class.bookingpress-cart.php:5647
+#: core/classes/class.bookingpress-cart.php:5664
 msgid "Your license key has reached its activation limit."
 msgstr "Lisenssiavaimesi on saavuttanut aktivointirajan."
 
@@ -283,82 +291,85 @@ msgstr "Päivitä nyt."
 msgid "You do not have permission to install plugin updates"
 msgstr "Sinulla ei ole lupaa asentaa lisäosien päivityksiä"
 
-#: core/classes/class.bookingpress-cart.php:2266
+#: core/classes/class.bookingpress-cart.php:2283 src/admin/Cart.php:427
 msgid "$75.00"
 msgstr "75,00 €"
 
-#: core/classes/class.bookingpress-cart.php:2359
-#: core/classes/class.bookingpress-cart.php:5686
+#: core/classes/class.bookingpress-cart.php:2376
+#: core/classes/class.bookingpress-cart.php:5703 src/admin/Cart.php:507
 msgid "Extras"
 msgstr "Lisäpalvelut"
 
-#: core/classes/class.bookingpress-cart.php:2360
-#: core/classes/class.bookingpress-cart.php:5687
+#: core/classes/class.bookingpress-cart.php:2377
+#: core/classes/class.bookingpress-cart.php:5704
 #: core/views/upgrade_latest_cart_data.php:46 src/Vue3/CartFeature.php:361
+#: src/admin/Cart.php:508
 msgid "Qty"
 msgstr "Kpl"
 
-#: core/classes/class.bookingpress-cart.php:2363
-#: core/classes/class.bookingpress-cart.php:5690
+#: core/classes/class.bookingpress-cart.php:2380
+#: core/classes/class.bookingpress-cart.php:5707
 #: core/views/upgrade_latest_cart_data.php:42 src/Vue3/CartFeature.php:362
+#: src/admin/Cart.php:511
 msgid "Edit"
 msgstr "Muokkaa"
 
-#: core/classes/class.bookingpress-cart.php:2364
-#: core/classes/class.bookingpress-cart.php:5691
+#: core/classes/class.bookingpress-cart.php:2381
+#: core/classes/class.bookingpress-cart.php:5708
 #: core/views/upgrade_latest_cart_data.php:43 src/Vue3/CartFeature.php:363
+#: src/admin/Cart.php:512
 msgid "Remove"
 msgstr "Poista"
 
-#: core/classes/class.bookingpress-cart.php:2365
-#: core/classes/class.bookingpress-cart.php:5692
+#: core/classes/class.bookingpress-cart.php:2382
+#: core/classes/class.bookingpress-cart.php:5709
 #: core/views/upgrade_latest_cart_data.php:44 src/Vue3/CartFeature.php:355
-#: src/Vue3/CartFeature.php:356
+#: src/Vue3/CartFeature.php:356 src/admin/Cart.php:513
 msgid "Duration"
 msgstr "Kesto"
 
-#: core/classes/class.bookingpress-cart.php:2366
-#: core/classes/class.bookingpress-cart.php:5693
+#: core/classes/class.bookingpress-cart.php:2383
+#: core/classes/class.bookingpress-cart.php:5710
 #: core/views/upgrade_latest_cart_data.php:45 src/Vue3/CartFeature.php:353
-#: src/Vue3/CartFeature.php:354
+#: src/Vue3/CartFeature.php:354 src/admin/Cart.php:514
 msgid "Staff"
 msgstr "Työntekijä"
 
-#: core/classes/class.bookingpress-cart.php:1512
-#: core/classes/class.bookingpress-cart.php:1536
-#: core/classes/class.bookingpress-cart.php:2433
+#: core/classes/class.bookingpress-cart.php:1523
+#: core/classes/class.bookingpress-cart.php:1547
+#: core/classes/class.bookingpress-cart.php:2450 src/admin/Cart.php:554
 msgid "Cart Duration title"
 msgstr "Ostoskorin keston otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1513
-#: core/classes/class.bookingpress-cart.php:1537
-#: core/classes/class.bookingpress-cart.php:2437
+#: core/classes/class.bookingpress-cart.php:1524
+#: core/classes/class.bookingpress-cart.php:1548
+#: core/classes/class.bookingpress-cart.php:2454 src/admin/Cart.php:558
 msgid "Cart Staff title"
 msgstr "Ostoskorin henkilökunnan otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1517
-#: core/classes/class.bookingpress-cart.php:1541
-#: core/classes/class.bookingpress-cart.php:2453
+#: core/classes/class.bookingpress-cart.php:1528
+#: core/classes/class.bookingpress-cart.php:1552
+#: core/classes/class.bookingpress-cart.php:2470 src/admin/Cart.php:574
 msgid "Cart service extra quantity title"
 msgstr "Ostoskorin lisäpalvelun määrän otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1519
-#: core/classes/class.bookingpress-cart.php:1543
-#: core/classes/class.bookingpress-cart.php:2461
+#: core/classes/class.bookingpress-cart.php:1530
+#: core/classes/class.bookingpress-cart.php:1554
+#: core/classes/class.bookingpress-cart.php:2478 src/admin/Cart.php:582
 msgid "Cart edit item title"
 msgstr "Ostoskorin muokkauspainikkeen otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1520
-#: core/classes/class.bookingpress-cart.php:1544
-#: core/classes/class.bookingpress-cart.php:2465
+#: core/classes/class.bookingpress-cart.php:1531
+#: core/classes/class.bookingpress-cart.php:1555
+#: core/classes/class.bookingpress-cart.php:2482 src/admin/Cart.php:586
 msgid "Cart remove item title"
 msgstr "Ostoskorin poistopainikkeen otsikko"
 
-#: core/classes/class.bookingpress-cart.php:1549
+#: core/classes/class.bookingpress-cart.php:1560
 msgid "Cart location title"
 msgstr "Ostoskorin sijainnin otsikko"
 
-#: core/classes/class.bookingpress-cart.php:3652
+#: core/classes/class.bookingpress-cart.php:3669
 msgid ""
 "It's Required to update the BookingPress Premium Plugin to version 2.6 or "
 "higher in order to use the BookingPress Cart plugin"
@@ -366,27 +377,27 @@ msgstr ""
 "BookingPress Premium Plugin on päivitettävä versioon 2.6 tai uudempaan, "
 "jotta voit käyttää BookingPress Cart -lisäosaa"
 
-#: core/classes/class.bookingpress-cart.php:891
-#: core/classes/class.bookingpress-cart.php:1163
+#: core/classes/class.bookingpress-cart.php:898
+#: core/classes/class.bookingpress-cart.php:1174
 msgid "at"
 msgstr "klo"
 
-#: core/classes/class.bookingpress-cart.php:892
-#: core/classes/class.bookingpress-cart.php:1164
+#: core/classes/class.bookingpress-cart.php:899
+#: core/classes/class.bookingpress-cart.php:1175
 msgid "on"
 msgstr "-"
 
-#: core/classes/class.bookingpress-cart.php:893
-#: core/classes/class.bookingpress-cart.php:1165
+#: core/classes/class.bookingpress-cart.php:900
+#: core/classes/class.bookingpress-cart.php:1176
 msgid "by"
 msgstr "-"
 
-#: core/classes/class.bookingpress-cart.php:894
-#: core/classes/class.bookingpress-cart.php:1166
+#: core/classes/class.bookingpress-cart.php:901
+#: core/classes/class.bookingpress-cart.php:1177
 msgid "to"
 msgstr "-"
 
-#: core/classes/class.bookingpress-cart.php:1346
+#: core/classes/class.bookingpress-cart.php:1357
 msgid "Cart Appointment"
 msgstr "Ostoskorivaraus"
 
@@ -418,20 +429,22 @@ msgstr "Hylkää ilmoitus"
 #: core/views/bookingpress_step_cart_content.php:145
 #: core/views/bookingpress_step_cart_content.php:280
 #: core/views/bookingpress_step_cart_content.php:283
+#: src/Vue3/CartFeature.php:365
 msgid "of"
 msgstr "/"
 
-#: core/classes/class.bookingpress-cart.php:1511
-#: core/classes/class.bookingpress-cart.php:1535
-#: core/classes/class.bookingpress-cart.php:2357 src/Vue3/CartFeature.php:351
+#: core/classes/class.bookingpress-cart.php:1522
+#: core/classes/class.bookingpress-cart.php:1546
+#: core/classes/class.bookingpress-cart.php:2374 src/Vue3/CartFeature.php:351
+#: src/admin/Cart.php:505
 msgid "Your cart is empty"
 msgstr "Ostoskorisi on tyhjä"
 
-#: core/classes/class.bookingpress-cart.php:2429
+#: core/classes/class.bookingpress-cart.php:2446 src/admin/Cart.php:550
 msgid "Empty cart label"
 msgstr "Tyhjän ostoskorin teksti"
 
-#: core/classes/class.bookingpress-cart.php:5684
+#: core/classes/class.bookingpress-cart.php:5701
 msgid "your cart is empty"
 msgstr "ostoskorisi on tyhjä"
 
@@ -444,60 +457,60 @@ msgid "Sorry, Your request can not be processed due to security reason."
 msgstr "Valitettavasti pyyntöäsi ei voida käsitellä turvallisuussyistä."
 
 #: core/classes/class.bookingpress-cart.php:721
-#: core/classes/class.bookingpress-cart.php:1277
+#: core/classes/class.bookingpress-cart.php:1288
 msgid "Service Name"
 msgstr "Palvelun nimi"
 
 #: core/classes/class.bookingpress-cart.php:724
-#: core/classes/class.bookingpress-cart.php:1287
+#: core/classes/class.bookingpress-cart.php:1298
 msgid "Date & Time"
 msgstr "Päivä & Aika"
 
 #: core/classes/class.bookingpress-cart.php:725
-#: core/classes/class.bookingpress-cart.php:1290
+#: core/classes/class.bookingpress-cart.php:1301
 msgid "Staff Member"
 msgstr "Henkilökunnan jäsen"
 
 #: core/classes/class.bookingpress-cart.php:727
-#: core/classes/class.bookingpress-cart.php:1298
+#: core/classes/class.bookingpress-cart.php:1309
 msgid "Cancel"
 msgstr "Peruuta"
 
 #: core/classes/class.bookingpress-cart.php:728
-#: core/classes/class.bookingpress-cart.php:1306
+#: core/classes/class.bookingpress-cart.php:1317
 msgid "Approve"
 msgstr "Hyväksy"
 
 #: core/classes/class.bookingpress-cart.php:729
-#: core/classes/class.bookingpress-cart.php:1302
+#: core/classes/class.bookingpress-cart.php:1313
 msgid "Reschedule"
 msgstr "Ajoita uudelleen"
 
 #: core/classes/class.bookingpress-cart.php:730
-#: core/classes/class.bookingpress-cart.php:1310
+#: core/classes/class.bookingpress-cart.php:1321
 msgid "Reject"
 msgstr "Hylkää"
 
 #: core/classes/class.bookingpress-cart.php:723
-#: core/classes/class.bookingpress-cart.php:1280 src/Vue3/CartFeature.php:357
+#: core/classes/class.bookingpress-cart.php:1291 src/Vue3/CartFeature.php:357
 #: src/Vue3/CartFeature.php:358
 msgid "No. of Person"
 msgstr "Henkilöiden lukumäärä"
 
 #: core/classes/class.bookingpress-cart.php:726
-#: core/classes/class.bookingpress-cart.php:1294 src/Vue3/CartFeature.php:359
+#: core/classes/class.bookingpress-cart.php:1305 src/Vue3/CartFeature.php:359
 #: src/Vue3/CartFeature.php:360
 msgid "Service Extras"
 msgstr "Palvelun lisäpalvelut"
 
 # @ bookingpress-cart
 #: core/classes/class.bookingpress-cart.php:722
-#: core/classes/class.bookingpress-cart.php:1284
+#: core/classes/class.bookingpress-cart.php:1295
 msgid "Service Description"
 msgstr "Palvelun kuvaus"
 
 # @ bookingpress-cart
-#: core/classes/class.bookingpress-cart.php:1711
+#: core/classes/class.bookingpress-cart.php:1722 src/admin/Cart.php:38
 msgid "Cart Details"
 msgstr "Ostoskorin tiedot"
 
@@ -522,15 +535,19 @@ msgid "Total"
 msgstr "Yhteensä"
 
 # @ bookingpress-cart
-#: src/Vue3/CartFeature.php:1111
+#: src/Vue3/CartFeature.php:1156
 msgid "This date is no longer available."
 msgstr "Tämä päivä ei ole enää saatavilla."
 
 # @ bookingpress-cart
 #. translators: plugin header field 'Version'
 #: bookingpress-cart.php:0
-msgid "4.8"
-msgstr "4.8"
+msgid "5.0"
+msgstr "5.0"
+
+# @ bookingpress-cart
+#~ msgid "4.8"
+#~ msgstr "4.8"
 
 # @ bookingpress-cart
 #~ msgid "4.7"

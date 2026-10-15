@@ -5,6 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2026-08-20 13:20+0300\n"
+"Last-Translator: Markus Media\n"
+"Language-Team: Finnish\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,8 +30,8 @@ msgid ""
 "BookingPress - Conversion Tracking Plugin Requires to update the "
 "BookingPress Cart Plugin to version 2.4 or higher."
 msgstr ""
-"BookingPress – konversioseurannan lisäosa edellyttää, että BookingPress "
-"Cart -lisäosa päivitetään versioon 2.4 tai uudemmaksi."
+"BookingPress – konversioseurannan lisäosa edellyttää, että BookingPress Cart "
+"-lisäosa päivitetään versioon 2.4 tai uudemmaksi."
 
 #: core/classes/class.bookingpress-conversion-tracking.php:257
 #: core/classes/class.bookingpress-conversion-tracking.php:328
@@ -94,8 +96,8 @@ msgid ""
 "Please activate license of BookingPress premium plugin to use BookingPress "
 "Conversion Tracking Add-on"
 msgstr ""
-"Ota BookingPress Premium -laajennuksen lisenssi käyttöön, jotta voit käyttää"
-" BookingPress Conversion Tracking -lisäosaa"
+"Ota BookingPress Premium -laajennuksen lisenssi käyttöön, jotta voit käyttää "
+"BookingPress Conversion Tracking -lisäosaa"
 
 #: core/classes/class.bookingpress-conversion-tracking.php:94
 #: core/classes/class.bookingpress-conversion-tracking.php:107
@@ -148,15 +150,13 @@ msgstr "Laajennuksesta %1$s on saatavilla uusi versio."
 msgid "Contact your network administrator to install the update."
 msgstr "Ota yhteyttä verkon järjestelmänvalvojaan päivityksen asentamiseksi."
 
-#. translators: 1. opening anchor tag, do not translate 2. the new plugin
-#. version 3. closing anchor tag, do not translate.
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:268
 #, php-format
 msgid "%1$sView version %2$s details%3$s."
 msgstr "%1$sNäytä version %2$s tiedot%3$s."
 
-#. translators: 1. link for changelog 2. version name 3. opening anchor tag
-#. for update link 4. closing tag for update link
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
 #: core/classes/class.bookingpress_pro_plugin_updater.php:277
 #, php-format
 msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."

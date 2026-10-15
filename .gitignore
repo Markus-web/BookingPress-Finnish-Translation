@@ -11,3 +11,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 messages.mo
+
+# Release zips built by sync_public_mirror.py
+dist/
