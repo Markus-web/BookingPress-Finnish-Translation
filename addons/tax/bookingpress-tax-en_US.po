@@ -1,9 +1,10 @@
+#@ bookingpress-tax
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Tax Addon v2.7\n"
+"Project-Id-Version: BookingPress - Tax Addon v2.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-09-25 08:54:05+0000\n"
+"PO-Revision-Date: 2026-10-13 08:05:31+0000\n"
 "Last-Translator: admin <admin@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -100,7 +101,7 @@ msgstr "This appears to be an invalid license key for your selected package."
 msgid "Your license key has reached its activation limit."
 msgstr "Your license key has reached its activation limit."
 
-#. translators: the plugin name. 
+#. translators: the plugin name.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:257
 #, php-format
 #@ bookingpress-tax
@@ -112,7 +113,7 @@ msgstr "There is a new version of %1$s available."
 msgid "Contact your network administrator to install the update."
 msgstr "Contact your network administrator to install the update."
 
-#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate. 
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:268
 #, php-format
 #@ bookingpress-tax
@@ -312,6 +313,6 @@ msgstr "Included tax label"
 #. translators: plugin header field 'Version'
 #: bookingpress-tax.php:0
 #@ bookingpress-tax
-msgid "2.7"
-msgstr "2.7"
+msgid "2.8"
+msgstr "2.8"
 

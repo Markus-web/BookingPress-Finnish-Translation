@@ -32,7 +32,7 @@ Lite and Pro both use text domain `bookingpress-appointment-booking`. Install ea
 | Google Captcha | 1.7 | `addons/google-captcha/` |
 | Invoice | 2.9 | `addons/invoice/` |
 | Mailchimp | 1.5 | `addons/mailchimp/` |
-| Tax | 2.7 | `addons/tax/` |
+| Tax | 2.8 | `addons/tax/` |
 | Turnstile Captcha | 1.3 | `addons/turnstile-captcha/` |
 <!-- versions:end -->
 
@@ -112,6 +112,7 @@ Every `*-fi.po` must match its sibling `*-en_US.po` (`msgcmp` clean).
 - Lite **1.6.8**: six new Finnish strings for the setup wizard, custom-field setting errors, category filtering and selected-item count.
 - Pro **6.3**: 19 new Finnish strings for rescheduling, notification recipients, service durations and filters, payment adjustment and staff assignment.
 - Cart **5.1**: version baseline update; the translatable msgid set is otherwise unchanged.
+- Tax **2.8**: version baseline update; the translatable msgid set is otherwise unchanged.
 - All catalogs pass `msgcmp`; no machine-generated translations were shipped.
 
 ### 2026-10-03

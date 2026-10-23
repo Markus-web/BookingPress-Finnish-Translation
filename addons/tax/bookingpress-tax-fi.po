@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Tax Addon v2.7\n"
+"Project-Id-Version: BookingPress - Tax Addon v2.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2026-08-20 13:20+0300\n"
@@ -92,7 +92,7 @@ msgstr ""
 msgid "Your license key has reached its activation limit."
 msgstr "Lisenssiavaimesi on saavuttanut aktivointirajan."
 
-#. translators: the plugin name. 
+#. translators: the plugin name.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:257
 #, php-format
 msgid "There is a new version of %1$s available."
@@ -102,7 +102,7 @@ msgstr "Saatavilla on uusi versio %1$s:stä."
 msgid "Contact your network administrator to install the update."
 msgstr "Ota yhteyttä verkonvalvojaan päivityksen asentamiseksi."
 
-#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate. 
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:268
 #, php-format
 msgid "%1$sView version %2$s details%3$s."
@@ -310,8 +310,12 @@ msgstr "Sisällytetty veromerkintä"
 # @ bookingpress-tax
 #. translators: plugin header field 'Version'
 #: bookingpress-tax.php:0
-msgid "2.7"
-msgstr "2.7"
+msgid "2.8"
+msgstr "2.8"
+
+# @ bookingpress-tax
+#~ msgid "2.7"
+#~ msgstr "2.7"
 
 # @ bookingpress-tax
 #~ msgid "2.5"
