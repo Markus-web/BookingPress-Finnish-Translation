@@ -20,13 +20,13 @@ Each folder ships:
 Lite and Pro both use text domain `bookingpress-appointment-booking`. Install each catalog only into its own plugin `languages/` folder. Do not mix them.
 
 <!-- versions:start -->
-## Versions (2026-10-03)
+## Versions (2026-10-23)
 
 | Package | Version | Folder |
 |---------|---------|--------|
-| BookingPress Lite | 1.6.7 | `Lite/` |
-| BookingPress Pro | 6.2.1 | `Pro/` |
-| Cart | 5.0 | `addons/cart/` |
+| BookingPress Lite | 1.6.8 | `Lite/` |
+| BookingPress Pro | 6.3 | `Pro/` |
+| Cart | 5.1 | `addons/cart/` |
 | Conversion Tracking | 1.4 | `addons/conversion-tracking/` |
 | Discount | 1.9 | `addons/discount-addon/` |
 | Google Captcha | 1.7 | `addons/google-captcha/` |
@@ -42,6 +42,10 @@ Download ready-made zips from [Releases](https://github.com/Markus-web/BookingPr
 
 | Tag | Contents |
 |-----|----------|
+| [`v2026.10.23`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.10.23) | **Full pack** (Lite + Pro + addons), recommended |
+| [`lite-1.6.8`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/lite-1.6.8) | Lite only |
+| [`pro-6.3`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/pro-6.3) | Pro only |
+| [`addons-2026.10.23`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/addons-2026.10.23) | Addons only |
 | [`v2026.10.03`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.10.03) | **Full pack** (Lite + Pro + addons), recommended |
 | [`lite-1.6.7`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/lite-1.6.7) | Lite only |
 | [`pro-6.2.1`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/pro-6.2.1) | Pro only |
@@ -102,6 +106,13 @@ Every `*-fi.po` must match its sibling `*-en_US.po` (`msgcmp` clean).
 - After a BookingPress upgrade: replace the EN baseline from the vendor ZIP, `msgmerge` into `*-fi.po`, translate new msgids, then `msgfmt` to rebuild `*-fi.mo`.
 
 ## Changelog
+
+### 2026-10-23
+
+- Lite **1.6.8**: six new Finnish strings for the setup wizard, custom-field setting errors, category filtering and selected-item count.
+- Pro **6.3**: 19 new Finnish strings for rescheduling, notification recipients, service durations and filters, payment adjustment and staff assignment.
+- Cart **5.1**: version baseline update; the translatable msgid set is otherwise unchanged.
+- All catalogs pass `msgcmp`; no machine-generated translations were shipped.
 
 ### 2026-10-03
 

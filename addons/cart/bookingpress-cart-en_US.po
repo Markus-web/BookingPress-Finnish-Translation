@@ -1,10 +1,10 @@
 #@ bookingpress-cart
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Cart Addon v5.0\n"
+"Project-Id-Version: BookingPress - Cart Addon v5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-09-29 05:38:27+0000\n"
+"PO-Revision-Date: 2026-10-13 07:32:09+0000\n"
 "Last-Translator: admin <admin@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -78,28 +78,28 @@ msgstr "Data modified successfully"
 
 #: core/classes/class.bookingpress-cart.php:2370
 #: core/classes/class.bookingpress-cart.php:5697
-#: src/admin/Cart.php:497
+#: src/admin/Cart.php:532
 #@ bookingpress-cart
 msgid "Cart Items"
 msgstr "Cart Items"
 
 #: core/classes/class.bookingpress-cart.php:2371
 #: core/classes/class.bookingpress-cart.php:5698
-#: src/admin/Cart.php:502
+#: src/admin/Cart.php:537
 #@ bookingpress-cart
 msgid "My Cart Items"
 msgstr "My Cart Items"
 
 #: core/classes/class.bookingpress-cart.php:2372
 #: core/classes/class.bookingpress-cart.php:5699
-#: src/admin/Cart.php:503
+#: src/admin/Cart.php:538
 #@ bookingpress-cart
 msgid "Items"
 msgstr "Items"
 
 #: core/classes/class.bookingpress-cart.php:2373
 #: core/classes/class.bookingpress-cart.php:5700
-#: src/admin/Cart.php:504
+#: src/admin/Cart.php:539
 #@ bookingpress-cart
 msgid "Add Services"
 msgstr "Add Services"
@@ -110,12 +110,12 @@ msgstr "Add Services"
 #: core/classes/class.bookingpress-cart.php:2122
 #: core/classes/class.bookingpress-cart.php:2182
 #: core/classes/class.bookingpress-cart.php:2242
-#: src/admin/Cart.php:75
-#: src/admin/Cart.php:121
-#: src/admin/Cart.php:168
-#: src/admin/Cart.php:266
-#: src/admin/Cart.php:326
-#: src/admin/Cart.php:386
+#: src/admin/Cart.php:97
+#: src/admin/Cart.php:143
+#: src/admin/Cart.php:190
+#: src/admin/Cart.php:288
+#: src/admin/Cart.php:348
+#: src/admin/Cart.php:408
 #@ bookingpress-cart
 msgid "Guests"
 msgstr "Guests"
@@ -126,12 +126,12 @@ msgstr "Guests"
 #: core/classes/class.bookingpress-cart.php:2119
 #: core/classes/class.bookingpress-cart.php:2179
 #: core/classes/class.bookingpress-cart.php:2239
-#: src/admin/Cart.php:72
-#: src/admin/Cart.php:118
-#: src/admin/Cart.php:165
-#: src/admin/Cart.php:263
-#: src/admin/Cart.php:323
-#: src/admin/Cart.php:383
+#: src/admin/Cart.php:94
+#: src/admin/Cart.php:140
+#: src/admin/Cart.php:187
+#: src/admin/Cart.php:285
+#: src/admin/Cart.php:345
+#: src/admin/Cart.php:405
 #@ bookingpress-cart
 msgid "Sample Service 01"
 msgstr "Sample Service 01"
@@ -142,12 +142,12 @@ msgstr "Sample Service 01"
 #: core/classes/class.bookingpress-cart.php:2121
 #: core/classes/class.bookingpress-cart.php:2181
 #: core/classes/class.bookingpress-cart.php:2241
-#: src/admin/Cart.php:74
-#: src/admin/Cart.php:120
-#: src/admin/Cart.php:167
-#: src/admin/Cart.php:265
-#: src/admin/Cart.php:325
-#: src/admin/Cart.php:385
+#: src/admin/Cart.php:96
+#: src/admin/Cart.php:142
+#: src/admin/Cart.php:189
+#: src/admin/Cart.php:287
+#: src/admin/Cart.php:347
+#: src/admin/Cart.php:407
 #@ bookingpress-cart
 msgid "45 Mins"
 msgstr "45 Mins"
@@ -155,15 +155,15 @@ msgstr "45 Mins"
 #: core/classes/class.bookingpress-cart.php:2282
 #: core/classes/class.bookingpress-cart.php:2375
 #: core/classes/class.bookingpress-cart.php:5702
-#: src/admin/Cart.php:426
-#: src/admin/Cart.php:506
+#: src/admin/Cart.php:448
+#: src/admin/Cart.php:541
 #@ bookingpress-cart
 msgid "Cart Total"
 msgstr "Cart Total"
 
 #: core/classes/class.bookingpress-cart.php:1568
 #: core/classes/class.bookingpress-cart.php:2427
-#: src/admin/Cart.php:531
+#: src/admin/Cart.php:566
 #@ bookingpress-cart
 msgid "Cart step labels"
 msgstr "Cart step labels"
@@ -171,7 +171,7 @@ msgstr "Cart step labels"
 #: core/classes/class.bookingpress-cart.php:1518
 #: core/classes/class.bookingpress-cart.php:1542
 #: core/classes/class.bookingpress-cart.php:2430
-#: src/admin/Cart.php:534
+#: src/admin/Cart.php:569
 #@ bookingpress-cart
 msgid "Step Cart"
 msgstr "Step Cart"
@@ -179,7 +179,7 @@ msgstr "Step Cart"
 #: core/classes/class.bookingpress-cart.php:1519
 #: core/classes/class.bookingpress-cart.php:1543
 #: core/classes/class.bookingpress-cart.php:2434
-#: src/admin/Cart.php:538
+#: src/admin/Cart.php:573
 #@ bookingpress-cart
 msgid "Cart title"
 msgstr "Cart title"
@@ -187,7 +187,7 @@ msgstr "Cart title"
 #: core/classes/class.bookingpress-cart.php:1520
 #: core/classes/class.bookingpress-cart.php:1544
 #: core/classes/class.bookingpress-cart.php:2438
-#: src/admin/Cart.php:542
+#: src/admin/Cart.php:577
 #@ bookingpress-cart
 msgid "Cart item title"
 msgstr "Cart item title"
@@ -195,7 +195,7 @@ msgstr "Cart item title"
 #: core/classes/class.bookingpress-cart.php:1521
 #: core/classes/class.bookingpress-cart.php:1545
 #: core/classes/class.bookingpress-cart.php:2442
-#: src/admin/Cart.php:546
+#: src/admin/Cart.php:581
 #@ bookingpress-cart
 msgid "Add service button label"
 msgstr "Add service button label"
@@ -203,7 +203,7 @@ msgstr "Add service button label"
 #: core/classes/class.bookingpress-cart.php:1525
 #: core/classes/class.bookingpress-cart.php:1549
 #: core/classes/class.bookingpress-cart.php:2458
-#: src/admin/Cart.php:562
+#: src/admin/Cart.php:597
 #@ bookingpress-cart
 msgid "Total title"
 msgstr "Total title"
@@ -216,8 +216,8 @@ msgstr "extras"
 #: core/classes/class.bookingpress-cart.php:2378
 #: core/classes/class.bookingpress-cart.php:5705
 #: core/views/upgrade_latest_cart_data.php:11
-#: src/Vue3/CartFeature.php:364
-#: src/admin/Cart.php:509
+#: src/Vue3/CartFeature.php:365
+#: src/admin/Cart.php:544
 #@ bookingpress-cart
 msgid "Deposit"
 msgstr "Deposit"
@@ -225,7 +225,7 @@ msgstr "Deposit"
 #: core/classes/class.bookingpress-cart.php:1527
 #: core/classes/class.bookingpress-cart.php:1551
 #: core/classes/class.bookingpress-cart.php:2466
-#: src/admin/Cart.php:570
+#: src/admin/Cart.php:605
 #@ bookingpress-cart
 msgid "Cart service extra title"
 msgstr "Cart service extra title"
@@ -233,7 +233,7 @@ msgstr "Cart service extra title"
 #: core/classes/class.bookingpress-cart.php:1529
 #: core/classes/class.bookingpress-cart.php:1553
 #: core/classes/class.bookingpress-cart.php:2474
-#: src/admin/Cart.php:578
+#: src/admin/Cart.php:613
 #@ bookingpress-cart
 msgid "Cart deposit title"
 msgstr "Cart deposit title"
@@ -241,7 +241,7 @@ msgstr "Cart deposit title"
 #: core/classes/class.bookingpress-cart.php:2379
 #: core/classes/class.bookingpress-cart.php:5706
 #: core/views/upgrade_latest_cart_data.php:27
-#: src/admin/Cart.php:510
+#: src/admin/Cart.php:545
 #@ bookingpress-cart
 msgid "No. Of Person"
 msgstr "No. Of Person"
@@ -249,7 +249,7 @@ msgstr "No. Of Person"
 #: core/classes/class.bookingpress-cart.php:1526
 #: core/classes/class.bookingpress-cart.php:1550
 #: core/classes/class.bookingpress-cart.php:2462
-#: src/admin/Cart.php:566
+#: src/admin/Cart.php:601
 #@ bookingpress-cart
 msgid "Cart No. of person title"
 msgstr "Cart No. of person title"
@@ -353,14 +353,14 @@ msgid "You do not have permission to install plugin updates"
 msgstr "You do not have permission to install plugin updates"
 
 #: core/classes/class.bookingpress-cart.php:2283
-#: src/admin/Cart.php:427
+#: src/admin/Cart.php:449
 #@ bookingpress-cart
 msgid "$75.00"
 msgstr "$75.00"
 
 #: core/classes/class.bookingpress-cart.php:2376
 #: core/classes/class.bookingpress-cart.php:5703
-#: src/admin/Cart.php:507
+#: src/admin/Cart.php:542
 #@ bookingpress-cart
 msgid "Extras"
 msgstr "Extras"
@@ -368,8 +368,8 @@ msgstr "Extras"
 #: core/classes/class.bookingpress-cart.php:2377
 #: core/classes/class.bookingpress-cart.php:5704
 #: core/views/upgrade_latest_cart_data.php:46
-#: src/Vue3/CartFeature.php:361
-#: src/admin/Cart.php:508
+#: src/Vue3/CartFeature.php:362
+#: src/admin/Cart.php:543
 #@ bookingpress-cart
 msgid "Qty"
 msgstr "Qty"
@@ -377,8 +377,8 @@ msgstr "Qty"
 #: core/classes/class.bookingpress-cart.php:2380
 #: core/classes/class.bookingpress-cart.php:5707
 #: core/views/upgrade_latest_cart_data.php:42
-#: src/Vue3/CartFeature.php:362
-#: src/admin/Cart.php:511
+#: src/Vue3/CartFeature.php:363
+#: src/admin/Cart.php:546
 #@ bookingpress-cart
 msgid "Edit"
 msgstr "Edit"
@@ -386,8 +386,8 @@ msgstr "Edit"
 #: core/classes/class.bookingpress-cart.php:2381
 #: core/classes/class.bookingpress-cart.php:5708
 #: core/views/upgrade_latest_cart_data.php:43
-#: src/Vue3/CartFeature.php:363
-#: src/admin/Cart.php:512
+#: src/Vue3/CartFeature.php:364
+#: src/admin/Cart.php:547
 #@ bookingpress-cart
 msgid "Remove"
 msgstr "Remove"
@@ -395,9 +395,9 @@ msgstr "Remove"
 #: core/classes/class.bookingpress-cart.php:2382
 #: core/classes/class.bookingpress-cart.php:5709
 #: core/views/upgrade_latest_cart_data.php:44
-#: src/Vue3/CartFeature.php:355
 #: src/Vue3/CartFeature.php:356
-#: src/admin/Cart.php:513
+#: src/Vue3/CartFeature.php:357
+#: src/admin/Cart.php:548
 #@ bookingpress-cart
 msgid "Duration"
 msgstr "Duration"
@@ -405,9 +405,9 @@ msgstr "Duration"
 #: core/classes/class.bookingpress-cart.php:2383
 #: core/classes/class.bookingpress-cart.php:5710
 #: core/views/upgrade_latest_cart_data.php:45
-#: src/Vue3/CartFeature.php:353
 #: src/Vue3/CartFeature.php:354
-#: src/admin/Cart.php:514
+#: src/Vue3/CartFeature.php:355
+#: src/admin/Cart.php:549
 #@ bookingpress-cart
 msgid "Staff"
 msgstr "Staff"
@@ -415,7 +415,7 @@ msgstr "Staff"
 #: core/classes/class.bookingpress-cart.php:1523
 #: core/classes/class.bookingpress-cart.php:1547
 #: core/classes/class.bookingpress-cart.php:2450
-#: src/admin/Cart.php:554
+#: src/admin/Cart.php:589
 #@ bookingpress-cart
 msgid "Cart Duration title"
 msgstr "Cart Duration title"
@@ -423,7 +423,7 @@ msgstr "Cart Duration title"
 #: core/classes/class.bookingpress-cart.php:1524
 #: core/classes/class.bookingpress-cart.php:1548
 #: core/classes/class.bookingpress-cart.php:2454
-#: src/admin/Cart.php:558
+#: src/admin/Cart.php:593
 #@ bookingpress-cart
 msgid "Cart Staff title"
 msgstr "Cart Staff title"
@@ -431,7 +431,7 @@ msgstr "Cart Staff title"
 #: core/classes/class.bookingpress-cart.php:1528
 #: core/classes/class.bookingpress-cart.php:1552
 #: core/classes/class.bookingpress-cart.php:2470
-#: src/admin/Cart.php:574
+#: src/admin/Cart.php:609
 #@ bookingpress-cart
 msgid "Cart service extra quantity title"
 msgstr "Cart service extra quantity title"
@@ -439,7 +439,7 @@ msgstr "Cart service extra quantity title"
 #: core/classes/class.bookingpress-cart.php:1530
 #: core/classes/class.bookingpress-cart.php:1554
 #: core/classes/class.bookingpress-cart.php:2478
-#: src/admin/Cart.php:582
+#: src/admin/Cart.php:617
 #@ bookingpress-cart
 msgid "Cart edit item title"
 msgstr "Cart edit item title"
@@ -447,7 +447,7 @@ msgstr "Cart edit item title"
 #: core/classes/class.bookingpress-cart.php:1531
 #: core/classes/class.bookingpress-cart.php:1555
 #: core/classes/class.bookingpress-cart.php:2482
-#: src/admin/Cart.php:586
+#: src/admin/Cart.php:621
 #@ bookingpress-cart
 msgid "Cart remove item title"
 msgstr "Cart remove item title"
@@ -516,7 +516,7 @@ msgstr "Dismiss notice"
 #: core/views/bookingpress_step_cart_content.php:145
 #: core/views/bookingpress_step_cart_content.php:280
 #: core/views/bookingpress_step_cart_content.php:283
-#: src/Vue3/CartFeature.php:365
+#: src/Vue3/CartFeature.php:366
 #@ bookingpress-cart
 msgid "of"
 msgstr "of"
@@ -524,14 +524,14 @@ msgstr "of"
 #: core/classes/class.bookingpress-cart.php:1522
 #: core/classes/class.bookingpress-cart.php:1546
 #: core/classes/class.bookingpress-cart.php:2374
-#: src/Vue3/CartFeature.php:351
-#: src/admin/Cart.php:505
+#: src/Vue3/CartFeature.php:352
+#: src/admin/Cart.php:540
 #@ bookingpress-cart
 msgid "Your cart is empty"
 msgstr "Your cart is empty"
 
 #: core/classes/class.bookingpress-cart.php:2446
-#: src/admin/Cart.php:550
+#: src/admin/Cart.php:585
 #@ bookingpress-cart
 msgid "Empty cart label"
 msgstr "Empty cart label"
@@ -595,16 +595,16 @@ msgstr "Reject"
 
 #: core/classes/class.bookingpress-cart.php:723
 #: core/classes/class.bookingpress-cart.php:1291
-#: src/Vue3/CartFeature.php:357
 #: src/Vue3/CartFeature.php:358
+#: src/Vue3/CartFeature.php:359
 #@ bookingpress-cart
 msgid "No. of Person"
 msgstr "No. of Person"
 
 #: core/classes/class.bookingpress-cart.php:726
 #: core/classes/class.bookingpress-cart.php:1305
-#: src/Vue3/CartFeature.php:359
 #: src/Vue3/CartFeature.php:360
+#: src/Vue3/CartFeature.php:361
 #@ bookingpress-cart
 msgid "Service Extras"
 msgstr "Service Extras"
@@ -616,33 +616,33 @@ msgid "Service Description"
 msgstr "Service Description"
 
 #: core/classes/class.bookingpress-cart.php:1722
-#: src/admin/Cart.php:38
+#: src/admin/Cart.php:60
 #@ bookingpress-cart
 msgid "Cart Details"
 msgstr "Cart Details"
 
-#: src/Vue3/CartFeature.php:289
-#: src/Vue3/CartFeature.php:348
+#: src/Vue3/CartFeature.php:290
+#: src/Vue3/CartFeature.php:349
 #@ bookingpress-cart
 msgid "Cart"
 msgstr "Cart"
 
-#: src/Vue3/CartFeature.php:349
+#: src/Vue3/CartFeature.php:350
 #@ bookingpress-cart
 msgid "Item(s)"
 msgstr "Item(s)"
 
-#: src/Vue3/CartFeature.php:350
+#: src/Vue3/CartFeature.php:351
 #@ bookingpress-cart
 msgid "Add Service"
 msgstr "Add Service"
 
-#: src/Vue3/CartFeature.php:352
+#: src/Vue3/CartFeature.php:353
 #@ bookingpress-cart
 msgid "Total"
 msgstr "Total"
 
-#: src/Vue3/CartFeature.php:1156
+#: src/Vue3/CartFeature.php:1178
 #@ bookingpress-cart
 msgid "This date is no longer available."
 msgstr "This date is no longer available."
@@ -650,6 +650,6 @@ msgstr "This date is no longer available."
 #. translators: plugin header field 'Version'
 #: bookingpress-cart.php:0
 #@ bookingpress-cart
-msgid "5.0"
-msgstr "5.0"
+msgid "5.1"
+msgstr "5.1"
 
