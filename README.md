@@ -42,6 +42,8 @@ Download ready-made zips from [Releases](https://github.com/Markus-web/BookingPr
 
 | Tag | Contents |
 |-----|----------|
+| [`v2026.10.23-2`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.10.23-2) | **Full pack**, including Tax 2.8; recommended |
+| [`addons-2026.10.23-2`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/addons-2026.10.23-2) | Addons including Tax 2.8 |
 | [`v2026.10.23`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/v2026.10.23) | **Full pack** (Lite + Pro + addons), recommended |
 | [`lite-1.6.8`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/lite-1.6.8) | Lite only |
 | [`pro-6.3`](https://github.com/Markus-web/BookingPress-Finnish-Translation/releases/tag/pro-6.3) | Pro only |
