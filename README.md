@@ -32,7 +32,7 @@ Lite and Pro both use text domain `bookingpress-appointment-booking`. Install ea
 | Google Captcha | 1.7 | `addons/google-captcha/` |
 | Invoice | 2.9 | `addons/invoice/` |
 | Mailchimp | 1.5 | `addons/mailchimp/` |
-| Tax | 2.8 | `addons/tax/` |
+| Tax | 3.0 | `addons/tax/` |
 | Turnstile Captcha | 1.4 | `addons/turnstile-captcha/` |
 <!-- versions:end -->
 
@@ -113,7 +113,7 @@ Every `*-fi.po` must match its sibling `*-en_US.po` (`msgcmp` clean).
 
 - Lite **1.7.0**: 53 reviewed Finnish strings for service, appointment, availability, pricing and cancellation actions.
 - Pro **6.4.1**: 69 reviewed Finnish strings for rescheduling, payment links, refunds, staff selection, extras and capacity.
-- Cart **5.2**, Conversion Tracking **1.5** and Turnstile Captcha **1.4**: version baseline updates; existing Finnish remains complete.
+- Cart **5.2**, Conversion Tracking **1.5**, Tax **3.0** and Turnstile Captcha **1.4**: version baseline updates; existing Finnish remains complete.
 - All catalogs pass `msgcmp`; no unreviewed machine-generated translations are shipped.
 
 ### 2026-10-23

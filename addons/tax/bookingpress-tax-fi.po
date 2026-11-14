@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Tax Addon v2.8\n"
+"Project-Id-Version: BookingPress - Tax Addon v3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2026-08-20 13:20+0300\n"
@@ -102,13 +102,15 @@ msgstr "Saatavilla on uusi versio %1$s:stä."
 msgid "Contact your network administrator to install the update."
 msgstr "Ota yhteyttä verkonvalvojaan päivityksen asentamiseksi."
 
-#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
 #: core/classes/class.bookingpress_pro_plugin_updater.php:268
 #, php-format
 msgid "%1$sView version %2$s details%3$s."
 msgstr "%1$s Näytä version %2$s tiedot%3$s."
 
-#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag
+#. for update link 4. closing tag for update link
 #: core/classes/class.bookingpress_pro_plugin_updater.php:277
 #, php-format
 msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
@@ -310,8 +312,12 @@ msgstr "Sisällytetty veromerkintä"
 # @ bookingpress-tax
 #. translators: plugin header field 'Version'
 #: bookingpress-tax.php:0
-msgid "2.8"
-msgstr "2.8"
+msgid "3.0"
+msgstr "3.0"
+
+# @ bookingpress-tax
+#~ msgid "2.8"
+#~ msgstr "2.8"
 
 # @ bookingpress-tax
 #~ msgid "2.7"
