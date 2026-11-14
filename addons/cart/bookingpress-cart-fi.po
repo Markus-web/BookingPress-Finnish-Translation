@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Cart Addon v5.1\n"
+"Project-Id-Version: BookingPress - Cart Addon v5.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-05-19 20:53+0300\n"
@@ -45,20 +45,20 @@ msgstr ""
 msgid "Repute InfoSystems"
 msgstr "Repute InfoSystems"
 
-#: core/classes/class.bookingpress-cart.php:2991
-#: core/classes/class.bookingpress-cart.php:5276
+#: core/classes/class.bookingpress-cart.php:2993
+#: core/classes/class.bookingpress-cart.php:5278
 msgid "Success"
 msgstr "Onnistui"
 
 #: core/classes/class.bookingpress-cart.php:280
-#: core/classes/class.bookingpress-cart.php:2996
-#: core/classes/class.bookingpress-cart.php:3001
-#: core/classes/class.bookingpress-cart.php:5267
+#: core/classes/class.bookingpress-cart.php:2998
+#: core/classes/class.bookingpress-cart.php:3003
+#: core/classes/class.bookingpress-cart.php:5269
 #: core/classes/class.bookingpress_pro_plugin_updater.php:520
 msgid "Error"
 msgstr "Virhe"
 
-#: core/classes/class.bookingpress-cart.php:3657
+#: core/classes/class.bookingpress-cart.php:3659
 msgid ""
 "BookingPress - Cart plugin requires BookingPress Premium Plugin installed "
 "and active."
@@ -66,31 +66,31 @@ msgstr ""
 "BookingPress - Ostoskori-lisäosa vaatii BookingPress Premium -lisäosan "
 "asennettuna ja aktiivisena."
 
-#: core/classes/class.bookingpress-cart.php:5268
+#: core/classes/class.bookingpress-cart.php:5270
 msgid "Sorry, Your request can not process due to security reason."
 msgstr "Valitettavasti pyyntöäsi ei voida käsitellä turvallisuussyistä."
 
-#: core/classes/class.bookingpress-cart.php:5277
+#: core/classes/class.bookingpress-cart.php:5279
 msgid "Data modified successfully"
 msgstr "Tietoja muutettu onnistuneesti"
 
 #: core/classes/class.bookingpress-cart.php:2370
-#: core/classes/class.bookingpress-cart.php:5697 src/admin/Cart.php:532
+#: core/classes/class.bookingpress-cart.php:5699 src/admin/Cart.php:532
 msgid "Cart Items"
 msgstr "Ostoskorin palvelut"
 
 #: core/classes/class.bookingpress-cart.php:2371
-#: core/classes/class.bookingpress-cart.php:5698 src/admin/Cart.php:537
+#: core/classes/class.bookingpress-cart.php:5700 src/admin/Cart.php:537
 msgid "My Cart Items"
 msgstr "Ostoskorini kohteet"
 
 #: core/classes/class.bookingpress-cart.php:2372
-#: core/classes/class.bookingpress-cart.php:5699 src/admin/Cart.php:538
+#: core/classes/class.bookingpress-cart.php:5701 src/admin/Cart.php:538
 msgid "Items"
 msgstr "Palvelut"
 
 #: core/classes/class.bookingpress-cart.php:2373
-#: core/classes/class.bookingpress-cart.php:5700 src/admin/Cart.php:539
+#: core/classes/class.bookingpress-cart.php:5702 src/admin/Cart.php:539
 msgid "Add Services"
 msgstr "Lisää palveluita"
 
@@ -129,7 +129,7 @@ msgstr "45 minuuttia"
 
 #: core/classes/class.bookingpress-cart.php:2282
 #: core/classes/class.bookingpress-cart.php:2375
-#: core/classes/class.bookingpress-cart.php:5702 src/admin/Cart.php:448
+#: core/classes/class.bookingpress-cart.php:5704 src/admin/Cart.php:448
 #: src/admin/Cart.php:541
 msgid "Cart Total"
 msgstr "Ostoskori yhteensä"
@@ -174,7 +174,7 @@ msgid "extras"
 msgstr "lisäpalvelut"
 
 #: core/classes/class.bookingpress-cart.php:2378
-#: core/classes/class.bookingpress-cart.php:5705
+#: core/classes/class.bookingpress-cart.php:5707
 #: core/views/upgrade_latest_cart_data.php:11 src/Vue3/CartFeature.php:365
 #: src/admin/Cart.php:544
 msgid "Deposit"
@@ -193,7 +193,7 @@ msgid "Cart deposit title"
 msgstr "Ostoskorin ennakkomaksun otsikko"
 
 #: core/classes/class.bookingpress-cart.php:2379
-#: core/classes/class.bookingpress-cart.php:5706
+#: core/classes/class.bookingpress-cart.php:5708
 #: core/views/upgrade_latest_cart_data.php:27 src/admin/Cart.php:545
 msgid "No. Of Person"
 msgstr "Henkilöiden lukumäärä"
@@ -204,7 +204,7 @@ msgstr "Henkilöiden lukumäärä"
 msgid "Cart No. of person title"
 msgstr "Ostoskorin henkilömäärän otsikko"
 
-#: core/classes/class.bookingpress-cart.php:2997
+#: core/classes/class.bookingpress-cart.php:2999
 msgid "Coupon code not applied on this service"
 msgstr "Kuponkikoodia ei sovelleta tähän palveluun"
 
@@ -212,7 +212,7 @@ msgstr "Kuponkikoodia ei sovelleta tähän palveluun"
 #: core/classes/class.bookingpress-cart.php:1825
 #: core/classes/class.bookingpress-cart.php:1856
 #: core/classes/class.bookingpress-cart.php:1867
-#: core/classes/class.bookingpress-cart.php:5680
+#: core/classes/class.bookingpress-cart.php:5682
 msgid ""
 "Please activate license of BookingPress premium plugin to use BookingPress "
 "Cart Add-on"
@@ -224,40 +224,40 @@ msgstr ""
 #: core/classes/class.bookingpress-cart.php:1826
 #: core/classes/class.bookingpress-cart.php:1857
 #: core/classes/class.bookingpress-cart.php:1868
-#: core/classes/class.bookingpress-cart.php:5681
+#: core/classes/class.bookingpress-cart.php:5683
 #, php-format
 msgid "Please %s Click Here %s to Continue"
 msgstr "Ole hyvä %s Klikkaa tästä %s jatkaaksesi"
 
-#: core/classes/class.bookingpress-cart.php:5635
-#: core/classes/class.bookingpress-cart.php:5667
+#: core/classes/class.bookingpress-cart.php:5637
+#: core/classes/class.bookingpress-cart.php:5669
 msgid "An error occurred, please try again."
 msgstr "Tapahtui virhe, yritä uudelleen."
 
-#: core/classes/class.bookingpress-cart.php:5643
+#: core/classes/class.bookingpress-cart.php:5645
 #, php-format
 msgid "Your license key expired on %s."
 msgstr "Lisenssiavaimesi on vanhentunut %s."
 
-#: core/classes/class.bookingpress-cart.php:5648
+#: core/classes/class.bookingpress-cart.php:5650
 msgid "Your license key has been disabled."
 msgstr "Lisenssiavaimesi on poistettu käytöstä."
 
-#: core/classes/class.bookingpress-cart.php:5651
+#: core/classes/class.bookingpress-cart.php:5653
 msgid "Invalid license."
 msgstr "Virheellinen lisenssi."
 
-#: core/classes/class.bookingpress-cart.php:5655
+#: core/classes/class.bookingpress-cart.php:5657
 msgid "Your license is not active for this URL."
 msgstr "Lisenssisi ei ole aktiivinen tämän URL-osoitteen osalta."
 
-#: core/classes/class.bookingpress-cart.php:5658
-#: core/classes/class.bookingpress-cart.php:5661
+#: core/classes/class.bookingpress-cart.php:5660
+#: core/classes/class.bookingpress-cart.php:5663
 msgid "This appears to be an invalid license key for your selected package."
 msgstr ""
 "Tämä näyttää olevan virheellinen lisenssiavain valitsemallesi paketille."
 
-#: core/classes/class.bookingpress-cart.php:5664
+#: core/classes/class.bookingpress-cart.php:5666
 msgid "Your license key has reached its activation limit."
 msgstr "Lisenssiavaimesi on saavuttanut aktivointirajan."
 
@@ -296,40 +296,40 @@ msgid "$75.00"
 msgstr "75,00 €"
 
 #: core/classes/class.bookingpress-cart.php:2376
-#: core/classes/class.bookingpress-cart.php:5703 src/admin/Cart.php:542
+#: core/classes/class.bookingpress-cart.php:5705 src/admin/Cart.php:542
 msgid "Extras"
 msgstr "Lisäpalvelut"
 
 #: core/classes/class.bookingpress-cart.php:2377
-#: core/classes/class.bookingpress-cart.php:5704
+#: core/classes/class.bookingpress-cart.php:5706
 #: core/views/upgrade_latest_cart_data.php:46 src/Vue3/CartFeature.php:362
 #: src/admin/Cart.php:543
 msgid "Qty"
 msgstr "Kpl"
 
 #: core/classes/class.bookingpress-cart.php:2380
-#: core/classes/class.bookingpress-cart.php:5707
+#: core/classes/class.bookingpress-cart.php:5709
 #: core/views/upgrade_latest_cart_data.php:42 src/Vue3/CartFeature.php:363
 #: src/admin/Cart.php:546
 msgid "Edit"
 msgstr "Muokkaa"
 
 #: core/classes/class.bookingpress-cart.php:2381
-#: core/classes/class.bookingpress-cart.php:5708
+#: core/classes/class.bookingpress-cart.php:5710
 #: core/views/upgrade_latest_cart_data.php:43 src/Vue3/CartFeature.php:364
 #: src/admin/Cart.php:547
 msgid "Remove"
 msgstr "Poista"
 
 #: core/classes/class.bookingpress-cart.php:2382
-#: core/classes/class.bookingpress-cart.php:5709
+#: core/classes/class.bookingpress-cart.php:5711
 #: core/views/upgrade_latest_cart_data.php:44 src/Vue3/CartFeature.php:356
 #: src/Vue3/CartFeature.php:357 src/admin/Cart.php:548
 msgid "Duration"
 msgstr "Kesto"
 
 #: core/classes/class.bookingpress-cart.php:2383
-#: core/classes/class.bookingpress-cart.php:5710
+#: core/classes/class.bookingpress-cart.php:5712
 #: core/views/upgrade_latest_cart_data.php:45 src/Vue3/CartFeature.php:354
 #: src/Vue3/CartFeature.php:355 src/admin/Cart.php:549
 msgid "Staff"
@@ -369,7 +369,7 @@ msgstr "Ostoskorin poistopainikkeen otsikko"
 msgid "Cart location title"
 msgstr "Ostoskorin sijainnin otsikko"
 
-#: core/classes/class.bookingpress-cart.php:3669
+#: core/classes/class.bookingpress-cart.php:3671
 msgid ""
 "It's Required to update the BookingPress Premium Plugin to version 2.6 or "
 "higher in order to use the BookingPress Cart plugin"
@@ -444,7 +444,7 @@ msgstr "Ostoskorisi on tyhjä"
 msgid "Empty cart label"
 msgstr "Tyhjän ostoskorin teksti"
 
-#: core/classes/class.bookingpress-cart.php:5701
+#: core/classes/class.bookingpress-cart.php:5703
 msgid "your cart is empty"
 msgstr "ostoskorisi on tyhjä"
 
@@ -535,15 +535,19 @@ msgid "Total"
 msgstr "Yhteensä"
 
 # @ bookingpress-cart
-#: src/Vue3/CartFeature.php:1178
+#: src/Vue3/CartFeature.php:1186
 msgid "This date is no longer available."
 msgstr "Tämä päivä ei ole enää saatavilla."
 
 # @ bookingpress-cart
 #. translators: plugin header field 'Version'
 #: bookingpress-cart.php:0
-msgid "5.1"
-msgstr "5.1"
+msgid "5.2"
+msgstr "5.2"
+
+# @ bookingpress-cart
+#~ msgid "5.1"
+#~ msgstr "5.1"
 
 # @ bookingpress-cart
 #~ msgid "5.0"

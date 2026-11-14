@@ -1,9 +1,10 @@
+#@ bookingpress-turnstile-captcha
 msgid ""
 msgstr ""
-"Project-Id-Version: BookingPress - Turnstile Captcha Integration Addon v1.3\n"
+"Project-Id-Version: BookingPress - Turnstile Captcha Integration Addon v1.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-09-25 08:17:32+0000\n"
+"PO-Revision-Date: 2026-10-27 07:31:45+0000\n"
 "Last-Translator: admin <zuwuvup@mailinator.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -45,36 +46,31 @@ msgstr "Extension for BookingPress plugin for turnstile captcha validation."
 msgid "Repute InfoSystems"
 msgstr "Repute InfoSystems"
 
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:47
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:179
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:63
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:272
-#: core/classes/class.bookingpress-turnstile-captcha.php:125
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:42
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:145
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:55
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:113
+#: core/classes/class.bookingpress-turnstile-captcha.php:111
 #@ bookingpress-turnstile-captcha
 msgid "Turnstile Captcha is Invalid or Expired. Please reload page and try again"
 msgstr "Turnstile Captcha is Invalid or Expired. Please reload page and try again"
 
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:181
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:274
-#: core/classes/class.bookingpress-turnstile-captcha.php:127
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:147
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:115
+#: core/classes/class.bookingpress-turnstile-captcha.php:113
 #: core/classes/class.bookingpress_pro_plugin_updater.php:515
 #@ bookingpress-turnstile-captcha
 msgid "Error"
 msgstr "Error"
 
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:86
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:197
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:198
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:311
-#: core/classes/class.bookingpress-turnstile-captcha.php:143
-#: core/classes/class.bookingpress-turnstile-captcha.php:676
+#: core/classes/class.bookingpress-turnstile-captcha-gc.php:81
+#: core/classes/class.bookingpress-turnstile-captcha-package.php:135
+#: core/classes/class.bookingpress-turnstile-captcha.php:129
+#: core/classes/class.bookingpress-turnstile-captcha.php:562
 #@ bookingpress-turnstile-captcha
 msgid "Please complete the security check."
 msgstr "Please complete the security check."
 
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:328
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:338
-#: core/classes/class.bookingpress-turnstile-captcha.php:317
 #: src/admin/TurnstileCaptcha.php:161
 #: src/admin/TurnstileCaptcha.php:177
 #: src/admin/TurnstileCaptcha.php:192
@@ -82,9 +78,6 @@ msgstr "Please complete the security check."
 msgid "Turnstile Captcha Settings"
 msgstr "Turnstile Captcha Settings"
 
-#: core/classes/class.bookingpress-turnstile-captcha-gc.php:331
-#: core/classes/class.bookingpress-turnstile-captcha-package.php:341
-#: core/classes/class.bookingpress-turnstile-captcha.php:320
 #: src/admin/TurnstileCaptcha.php:164
 #: src/admin/TurnstileCaptcha.php:180
 #: src/admin/TurnstileCaptcha.php:195
@@ -92,173 +85,164 @@ msgstr "Turnstile Captcha Settings"
 msgid "Enable Turnstile Captcha"
 msgstr "Enable Turnstile Captcha"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:330
-#: core/classes/class.bookingpress-turnstile-captcha.php:398
+#: core/classes/class.bookingpress-turnstile-captcha.php:298
 #: src/admin/TurnstileCaptcha.php:21
 #@ bookingpress-turnstile-captcha
 msgid "Turnstile Captcha"
 msgstr "Turnstile Captcha"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:334
+#: core/classes/class.bookingpress-turnstile-captcha.php:302
 #: src/admin/TurnstileCaptcha.php:102
 #@ bookingpress-turnstile-captcha
 msgid "Light"
 msgstr "Light"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:335
+#: core/classes/class.bookingpress-turnstile-captcha.php:303
 #: src/admin/TurnstileCaptcha.php:103
 #@ bookingpress-turnstile-captcha
 msgid "Dark"
 msgstr "Dark"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:357
+#: core/classes/class.bookingpress-turnstile-captcha.php:325
 #: src/admin/TurnstileCaptcha.php:125
 #@ bookingpress-turnstile-captcha
 msgid "Please Enter the site Key"
 msgstr "Please Enter the site Key"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:364
+#: core/classes/class.bookingpress-turnstile-captcha.php:332
 #: src/admin/TurnstileCaptcha.php:132
 #@ bookingpress-turnstile-captcha
 msgid "Please Enter the Secret Key"
 msgstr "Please Enter the Secret Key"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:371
+#: core/classes/class.bookingpress-turnstile-captcha.php:339
 #: src/admin/TurnstileCaptcha.php:139
 #@ bookingpress-turnstile-captcha
 msgid "Please enter Captcha Failed Message"
 msgstr "Please enter Captcha Failed Message"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:378
+#: core/classes/class.bookingpress-turnstile-captcha.php:346
 #: src/admin/TurnstileCaptcha.php:146
 #@ bookingpress-turnstile-captcha
 msgid "Please enter Captcha Complete Message"
 msgstr "Please enter Captcha Complete Message"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:403
 #: src/admin/TurnstileCaptcha.php:26
 #@ bookingpress-turnstile-captcha
 msgid "Save"
 msgstr "Save"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:418
 #: src/admin/TurnstileCaptcha.php:41
 #@ bookingpress-turnstile-captcha
 msgid "Site Key"
 msgstr "Site Key"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:422
 #: src/admin/TurnstileCaptcha.php:45
 #@ bookingpress-turnstile-captcha
 msgid "Enter site key"
 msgstr "Enter site key"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:428
 #: src/admin/TurnstileCaptcha.php:51
 #@ bookingpress-turnstile-captcha
 msgid "Site Secret"
 msgstr "Site Secret"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:432
 #: src/admin/TurnstileCaptcha.php:55
 #@ bookingpress-turnstile-captcha
 msgid "Enter secret key"
 msgstr "Enter secret key"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:438
 #: src/admin/TurnstileCaptcha.php:61
 #@ bookingpress-turnstile-captcha
 msgid "Turnstile Captcha Theme"
 msgstr "Turnstile Captcha Theme"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:451
 #: src/admin/TurnstileCaptcha.php:74
 #@ bookingpress-turnstile-captcha
 msgid "Captcha Failed Message"
 msgstr "Captcha Failed Message"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:461
 #: src/admin/TurnstileCaptcha.php:84
 #@ bookingpress-turnstile-captcha
 msgid "Captcha Complete Check Message"
 msgstr "Captcha Complete Check Message"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:481
+#: core/classes/class.bookingpress-turnstile-captcha.php:367
 #@ bookingpress-turnstile-captcha
 msgid "BookingPress - Turnstile CAPTCHA plugin requires BookingPress Premium Plugin installed and active."
 msgstr "BookingPress - Turnstile CAPTCHA plugin requires BookingPress Premium Plugin installed and active."
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:487
+#: core/classes/class.bookingpress-turnstile-captcha.php:373
 #@ bookingpress-turnstile-captcha
 msgid "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress Premium Plugin to version 4.4 or higher in order to use the BookingPress Turnstile CAPTCHA plugin"
 msgstr "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress Premium Plugin to version 4.4 or higher in order to use the BookingPress Turnstile CAPTCHA plugin"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:494
+#: core/classes/class.bookingpress-turnstile-captcha.php:380
 #@ bookingpress-turnstile-captcha
 msgid "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress - Service Package Plugin to version 2.4 or higher."
 msgstr "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress - Service Package Plugin to version 2.4 or higher."
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:501
+#: core/classes/class.bookingpress-turnstile-captcha.php:387
 #@ bookingpress-turnstile-captcha
 msgid "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress - Gift Card Plugin to version 1.6 or higher."
 msgstr "BookingPress - Turnstile CAPTCHA Plugin Requires to update the BookingPress - Gift Card Plugin to version 1.6 or higher."
 
+#: core/classes/class.bookingpress-turnstile-captcha.php:207
 #: core/classes/class.bookingpress-turnstile-captcha.php:221
-#: core/classes/class.bookingpress-turnstile-captcha.php:235
-#: core/classes/class.bookingpress-turnstile-captcha.php:267
-#: core/classes/class.bookingpress-turnstile-captcha.php:279
-#: core/classes/class.bookingpress-turnstile-captcha.php:580
+#: core/classes/class.bookingpress-turnstile-captcha.php:253
+#: core/classes/class.bookingpress-turnstile-captcha.php:265
+#: core/classes/class.bookingpress-turnstile-captcha.php:466
 #@ bookingpress-turnstile-captcha
 msgid "Please activate license of BookingPress premium plugin to use BookingPress TurnStile Captcha Add-on"
 msgstr "Please activate license of BookingPress premium plugin to use BookingPress TurnStile Captcha Add-on"
 
 #. translators: 1. Redirect URL link starts 2.Redirect URL link ends
 #. translators: 1. Redirect URL link starts. 2. Redirect URL Link ends
+#: core/classes/class.bookingpress-turnstile-captcha.php:209
 #: core/classes/class.bookingpress-turnstile-captcha.php:223
-#: core/classes/class.bookingpress-turnstile-captcha.php:237
-#: core/classes/class.bookingpress-turnstile-captcha.php:269
-#: core/classes/class.bookingpress-turnstile-captcha.php:281
-#: core/classes/class.bookingpress-turnstile-captcha.php:582
+#: core/classes/class.bookingpress-turnstile-captcha.php:255
+#: core/classes/class.bookingpress-turnstile-captcha.php:267
+#: core/classes/class.bookingpress-turnstile-captcha.php:468
 #, php-format
 #@ bookingpress-turnstile-captcha
 msgid "Please %s Click Here %s to Continue"
 msgstr "Please %s Click Here %s to Continue"
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:536
-#: core/classes/class.bookingpress-turnstile-captcha.php:567
+#: core/classes/class.bookingpress-turnstile-captcha.php:422
+#: core/classes/class.bookingpress-turnstile-captcha.php:453
 #@ bookingpress-turnstile-captcha
 msgid "An error occurred, please try again."
 msgstr "An error occurred, please try again."
 
 #. translators: the expiry date.
-#: core/classes/class.bookingpress-turnstile-captcha.php:544
+#: core/classes/class.bookingpress-turnstile-captcha.php:430
 #, php-format
 #@ bookingpress-turnstile-captcha
 msgid "Your license key expired on %s."
 msgstr "Your license key expired on %s."
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:548
+#: core/classes/class.bookingpress-turnstile-captcha.php:434
 #@ bookingpress-turnstile-captcha
 msgid "Your license key has been disabled."
 msgstr "Your license key has been disabled."
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:551
+#: core/classes/class.bookingpress-turnstile-captcha.php:437
 #@ bookingpress-turnstile-captcha
 msgid "Invalid license."
 msgstr "Invalid license."
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:555
+#: core/classes/class.bookingpress-turnstile-captcha.php:441
 #@ bookingpress-turnstile-captcha
 msgid "Your license is not active for this URL."
 msgstr "Your license is not active for this URL."
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:558
-#: core/classes/class.bookingpress-turnstile-captcha.php:561
+#: core/classes/class.bookingpress-turnstile-captcha.php:444
+#: core/classes/class.bookingpress-turnstile-captcha.php:447
 #@ bookingpress-turnstile-captcha
 msgid "This appears to be an invalid license key for your selected package."
 msgstr "This appears to be an invalid license key for your selected package."
 
-#: core/classes/class.bookingpress-turnstile-captcha.php:564
+#: core/classes/class.bookingpress-turnstile-captcha.php:450
 #@ bookingpress-turnstile-captcha
 msgid "Your license key has reached its activation limit."
 msgstr "Your license key has reached its activation limit."
@@ -302,6 +286,6 @@ msgstr "You do not have permission to install plugin updates"
 #. translators: plugin header field 'Version'
 #: bookingpress-turnstile-captcha.php:0
 #@ bookingpress-turnstile-captcha
-msgid "1.3"
-msgstr "1.3"
+msgid "1.4"
+msgstr "1.4"
 

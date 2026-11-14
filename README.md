@@ -20,20 +20,20 @@ Each folder ships:
 Lite and Pro both use text domain `bookingpress-appointment-booking`. Install each catalog only into its own plugin `languages/` folder. Do not mix them.
 
 <!-- versions:start -->
-## Versions (2026-10-23)
+## Versions (2026-11-14)
 
 | Package | Version | Folder |
 |---------|---------|--------|
-| BookingPress Lite | 1.6.8 | `Lite/` |
-| BookingPress Pro | 6.3 | `Pro/` |
-| Cart | 5.1 | `addons/cart/` |
-| Conversion Tracking | 1.4 | `addons/conversion-tracking/` |
+| BookingPress Lite | 1.7.0 | `Lite/` |
+| BookingPress Pro | 6.4.1 | `Pro/` |
+| Cart | 5.2 | `addons/cart/` |
+| Conversion Tracking | 1.5 | `addons/conversion-tracking/` |
 | Discount | 1.9 | `addons/discount-addon/` |
 | Google Captcha | 1.7 | `addons/google-captcha/` |
 | Invoice | 2.9 | `addons/invoice/` |
 | Mailchimp | 1.5 | `addons/mailchimp/` |
 | Tax | 2.8 | `addons/tax/` |
-| Turnstile Captcha | 1.3 | `addons/turnstile-captcha/` |
+| Turnstile Captcha | 1.4 | `addons/turnstile-captcha/` |
 <!-- versions:end -->
 
 ## Releases
@@ -108,6 +108,13 @@ Every `*-fi.po` must match its sibling `*-en_US.po` (`msgcmp` clean).
 - After a BookingPress upgrade: replace the EN baseline from the vendor ZIP, `msgmerge` into `*-fi.po`, translate new msgids, then `msgfmt` to rebuild `*-fi.mo`.
 
 ## Changelog
+
+### 2026-11-14
+
+- Lite **1.7.0**: 53 reviewed Finnish strings for service, appointment, availability, pricing and cancellation actions.
+- Pro **6.4.1**: 69 reviewed Finnish strings for rescheduling, payment links, refunds, staff selection, extras and capacity.
+- Cart **5.2**, Conversion Tracking **1.5** and Turnstile Captcha **1.4**: version baseline updates; existing Finnish remains complete.
+- All catalogs pass `msgcmp`; no unreviewed machine-generated translations are shipped.
 
 ### 2026-10-23
 
